@@ -1,0 +1,50 @@
+---
+title: "I (veri) ringraziamenti della mia laurea"
+date: 2024-08-07T16:24:00+02:00
+url: /about/ringraziamenti
+language: it
+ShowToc: true
+---
+
+Il 18 luglio scorso mi sono laureato in ingegneria meccanica. Laurea triennale sì, sette anni per prenderla ok, ma è stata comunque una delle più grandi soddisfazioni della mia vita. Non potendo ripubblicare l'intero elaborato di tesi così com'è voglio almeno riportare in archivio quelli che sono i ringraziamenti contenuti nel documento originale opportunamente rivisitati e ampliati per comprendere anche quanti mi sono dimenticato di menzionare e quanti anche anni dopo essere spariti nel nulla sono rimasti ancora una parte di me: quella parte che periodicamente mi ricorda che è giusto non concedere seconde chance, anche a coloro con cui ne hai passate tante. +
+Tutte le parti che non ho potuto o non ho voluto includere nell'elaborato di tesi originale sono riportate in link:https://it.wikipedia.org/wiki/Corsivo[corsivo^].
+
+== Ai parenti
+Dedico questa tesi a mio padre. Non è molto ma finalmente ce l'ho fatta. Seguono ringraziamenti in ordine sparso.
+
+Ringrazio innanzitutto i miei genitori per avermi pagato gli studi, per l'orgoglio che hanno provato nei miei confronti e per le parole di conforto quando tutto andava male.
+Ti ringrazio personalmente Davide per tutte le volte che mi sono sfogato e confidato con te, perché so quanto sono insopportabile quando mi lamento, e nel bene e nel male parlare con te mi ha sempre aiutato a calmare.
+Ringrazio mio nonno e mio padre per avermi trasmesso la voglia di conoscere un poco di tutto il possibile; ringrazio - senza prolissi elenchi - i miei nonni, zii e cugini - diretti e alla lontana - con cui occasionalmente riesco a passare un po' di tempo in tranquillità.
+Grazie ai miei suoceri che dagli spalti hanno fatto il tifo per me, e a tutta la splendida famiglia Russo che mi ha accolto con grande affetto e sostegno.
+
+_Vorrei davvero ringraziarvi anche per il supporto morale che mi avete dato in questo lungo percorso - vorrei. Vorrei anche però che capiste quanto diavolo fa male sentirsi ripetere su base giornaliera sempre le solite mortificazioni: "Quanti esami ti mancano? Perché ci stai mettendo tutto questo tempo per una triennale? Quando vuoi laurearti? Non ti vedo mai studiare, quando studi? Poi grazie che non ti laurei"; oppure la mia preferita in assoluto: "Perché, tu credi di essere buono [come lavoratore] che ci stai mettendo 7 anni per laurearti?"_ +
+_Posso promettervi che - semmai dall'alto del vostro orgoglio decideste mai di scusarvi sinceramente - non dimenticherò mai niente di tutto questo._
+
+== Ai miei amici
+Grazie Di Nu per avermi trascinato giù dal letto quando non avevo la forza di alzarmi, per essere stato un grande _compagno_ di università e per essere ora un grande collega di lavoro - in una materia che con il nostro percorso di studi non c'entra una mazza; grazie per tutti i momenti passati insieme dal primo anno in poi, le chiacchierate, i regali, le sfogliatelle... mo mi è pure venuta fame.
+
+Ringrazio gli amici dell'università, la comitiva di Benevento, i colleghi meccanici e gestionali, compagni e amici sia dentro che fuori dall'università; siccome sono propenso a distrarmi e a dimenticare non nominerò nessuno di loro in questa pagina ma li ringrazierò personalmente il giorno della mia laurea, onde evitare di dimenticare qualcuno. Quindi se siamo tutti qui direi di iniziare l'appello...
+
+_Grazie Peppe per avere avuto la pazienza di spiegarmi quasi tutto quello che so di informatica meglio di come i professori mi abbiano mai spiegato le materie di ingegneria. Grazie pure di mandarmi periodicamente clip di Vtuber fuori contesto perché onestamente alcune mi fanno veramente stare bene._ +
+_Grazie ai Paramangetici - sì è scritto bene - per tutti i momenti belli e brutti (Fisica II, TGM e via discorrendo); grazie per la compagnia e tutte le uscite, senza le quali onestamente non sarei arrivato neanche alla pandemia senza essermi dato alla zappa. Per lo stesso motivo ringrazio i compagni della Scuderia Avino & Di Nucci Racingfootnote:[Non una vera scuderia.], sperando in un prossimo incontro clandestino quanto primafootnote:[Non un vero incontro clandestino per favore signor finanziere è una battuta.]._
+
+== _Ai miei "amici"_
+_Grazie a quanti di voi mi sono stati vicini per anni - alcuni per fruire delle mie capacità scolastiche e altri anche solo per compagnia - salvo poi sparire nel momento in cui avevo più bisogno di qualcuno al mio fianco. Da alcuni di voi avrei gradito anche solo un semplice messaggio ogni tanto - per potermi sentire meno solo - e invece sono stato isolato, dimenticato e in qualche caso anche ghostato. Eppure in questo momento non provo nemmeno rabbia né frustrazione, solamente una fortissima delusione; link:https://www.youtube.com/watch?v=XQ8wjtonfOU[una saggia persona, title="Don Luciano de Lo Straordinario Mondo di Gumball", window=_blank] diceva: "Tu lo sai qual è la cosa peggiore di un tradimento? Che non viene quasi mai da un nemico"._
+
+_Due paroline le voglio spendere anche per quei poveri stronzi che in questi anni di università hanno fatto di tutto per tenermi sotto il loro controllo facendo girare voci per i corridoi e mettendo zizzania tra me, i miei amici e la mia fidanzata sfoggiando una condotta degna della scuola materna, più che dell'università: sarà un piacere non dovere più fare finta di non sapere nulla, e soprattutto sarà un piacere non avere mai più a che fare con voi._
+
+== Ai docenti e ai colleghi di UNISA
+Ringrazio il prof. Spagnuolo per avermi aiutato in questo percorso di tesi, consigliandomi con precisione e compostezza, per il lavoro svolto nella revisione del mio elaborato e per avermi dato fiducia quando le scadenze per la consegna della tesi erano alle porte.
+
+Ringrazio coloro tra i docenti e i miei colleghi studenti che hanno reso disponibili gratuitamente dispense e appunti scritti di loro pugno, perché senza di loro questo percorso sarebbe stato insopportabile. _Grazie a Felice Di Palma per la quantità assurda di appunti che hai messo a disposizione gratuitamente, come anche ai colleghi di R0x; se leggerete mai queste righe sappiate che vi devo una birra._
+
+Ricambio i ringraziamenti di quanti mi hanno ringraziato per aver pubblicato i miei appunti, perché il loro supporto e le loro parole mi hanno spinto a continuare a impegnarmi e a fare sempre meglio. __Grazie a Michele Conza che ha reso disponibili tutti i suoi appunti permettendomi di passare il penultimo esame (Tecnologia Meccanica) al primo tentativo__footnote:[Mi piace pensare di averti ispirato io con gli appunti di M.S.E., chiedo scusa se non è così.]. Grazie _ChatGPT_ per avermi aiutato a superare il blocco all'inizio del mio percorso di tesifootnote:[In realtà questa cosa l'ho scritta solamente per il meme: se è vero che ho usato ChatGPT per farmi assistere nel debug del simulatore è vero anche che esso è un tool di una qualità schifosa se utilizzato per l'ingegneria e per infatti ho dovuto scartare molti dei suoi suggerimenti.]. Ringrazio i colleghi e le colleghe di Studentingegneria per le chiacchiere e i caffè, e per avere avuto la pazienza di rispondere ai miei ripetuti quesiti, _per quanto adesso ve lo devo dire: il comportamento di alcuni di voi in periodo elettorale mi ha onestamente suscitato repulsione_; grazie a coloro che mi hanno aiutato negli ultimi mesi ad andare avanti in questa tesi, _aggiungendo suggerimenti, proponendomi libri di testo e quant'altro - ogni collaborazione è stata apprezzata_.
+
+Potrei spendere un'altra pagina intera per scrivere ringraziamenti sinceri, e _altre_ dieci pagine per i non-ringraziamenti; purtroppo - o per fortuna - non sono più così rancoroso da farmi rovinare una giornata felice da quelle persone che - semplicemente - hanno dimostrato a più riprese di non meritarmi. _E infatti ho aspettato più di un mese per mettere queste parole nero su bianco - o bianco su nero se state visitando il sito con il tema scuro._
+
+== Infine, alla mia fidanzata
+Ti ringrazio Mary per avermi aiutato nel momento più buio della mia vita, avermi supportato nelle mie decisioni, avermi sopportato nelle mie "link:https://www.treccani.it/vocabolario/cazzata_%28Sinonimi-e-Contrari%29/[sciocchezze, title="Cazzate",window=_blank]". Grazie per le sessioni di D&D a due, per le lunghe chiacchiere fino a notte fonda, per le bevute al pub ma anche le cene al lume di candela, per avermi incluso nei tuoi progetti, per avermi riportato a galla quando ho toccato il fondo; perché a prescindere dalle litigate passate e da quello che il futuro ha in serbo per noi sarò per sempre contento che tu sia entrata nella mia vita.
+
+[.signature]
+-- Emanuele D'Amico, 05 Luglio 2024 +
+_Esteso e ripubblicato in data 07 Agosto 2024_

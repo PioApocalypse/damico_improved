@@ -1,0 +1,143 @@
+# Configurazione del sito, volendo questo è una sorta di header
+baseURL: 'https://damico.ing/' # URL di base
+languageCode: 'it' # lingua
+title: 'PioApocalypse' # titolo
+themeDir: 'themes'
+theme: 'hugo-PaperMod'
+module:
+  hugoVersion:
+    extended: true
+    min: '0.140.0'
+
+# per togliere dalle palle quella fastidiosa 's' alla fine del titolo in archivio, about [...] e cv
+pluralizeListTitles: false
+
+# supporto multilingua - tentativo #2 del 15/07/23
+defaultContentLanguage: it
+defaultContentLanguageInSubdir: false
+languages:
+  it:
+    contentDir: content/it
+    languageName: "Italiano"
+    weight: 1
+    taxonomies:
+      category: categorie
+      tag: tag
+      series: serie
+    menu:
+      main:
+        - name: Archivio
+          url: /archives/
+          weight: 1
+        - name: Curriculum
+          url: /cv/
+          weight: 2
+        # - name: Su di me
+        #   url: /about/
+        #   weight: 2
+  # en:
+  #   contentDir: content/en
+  #   # dataDir: data/en
+  #   languageName: "English"
+  #   weight: 2
+  #   taxonomies:
+  #     category: categories
+  #     tag: tags
+  #     series: series
+  #   menu:
+  #     main:
+  #       - name: Archive
+  #         url: /archives/
+  #         weight: 1
+  #       - name: Curricula
+  #         url: /cv/
+  #         weight: 2
+        # - name: About me
+        #   url: /about/
+        #   weight: 2
+
+# PARAMETRI
+params:
+  defaultTheme: dark
+  profileMode:
+    enabled: true
+    title: "PioApocalypse" # optional default will be site title
+    subtitle: "Personal WebCV"
+    imageUrl: "images/logo_firma.svg" # optional
+    imageTitle: "logo" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+    imageClass: small-svg
+    buttons:
+      - name: CV Comune
+        url: "cv/comune"
+      - name: Come Ing. Meccanico
+        url: "cv/ingegnere"
+      - name: Come Informatico
+        url: "cv/informatico"
+      - name: Triennalia
+        url: "https://github.com/PioApocalypse/Triennalia"
+      - name: Che cos'è Triennalia?
+        url: "/about/triennalia"
+  mainSections: about
+
+
+assets:
+  disableHLJS: true
+  favicon: /favicon.ico
+
+  dateFormat: ":date_medium"
+   # socialIcons: # come diceva un tale che mi sta sulle palle: "You have to STADY!" - quindi appena ho tempo me li studio
+   #      - name: "<platform>"
+   #          url: "<link>"
+   #      - name: "<platform 2>"
+   #          url: "<link2>"
+
+  # colors: {}
+  # logo: {}
+  # homepage_meta_tags: {}
+  # profileMode: {}
+
+permalinks:
+  post: '/:year/:month/:day/:slug/'
+  pages: '/:filename/'
+
+security:
+  exec:
+    allow:
+      - ^asciidoctor$
+      - ^rst2html*
+
+markup: # vedi documentazione Goldmark
+  goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+    # extensions:
+    #   definitionList: true
+    #   footnote: true
+    #   linkify: true
+    #   linkifyProtocol: https
+    #   strikethrough: true
+    #   table: true
+    #   taskList: true
+    #   typographer:
+    #     apostrophe: '&rsquo;'
+    #     disable: false
+    #     ellipsis: '&hellip;'
+    #     emDash: '&mdash;'
+    #     enDash: '&ndash;'
+    #     leftAngleQuote: '&laquo;'
+    #     leftDoubleQuote: '&ldquo;'
+    #     leftSingleQuote: '&lsquo;'
+    #     rightAngleQuote: '&raquo;'
+    #     rightDoubleQuote: '&rdquo;'
+    #     rightSingleQuote: '&rsquo;'
+    # parser:
+    #   autoHeadingID: true
+    #   autoHeadingIDType: github
+    #   wrapStandAloneImageWithinParagraph: true
+    #   attribute:
+    #     block: false
+    #     title: true

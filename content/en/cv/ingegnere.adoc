@@ -1,0 +1,52 @@
+---
+title: "CV come Ingegnere Meccanico"
+date: 2023-06-14T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+layout: single
+---
+
+== Istruzione
+[#cdl]
+=== _Dottore Triennale in Ingegneria Meccanica_, laureato presso l'Università degli Studi di Salerno
+* Immatricolato nell'A.A. 2017/2018.
+* Laureato con voto finale di 97/110 e media ponderata pari a 24.8/30.
+* Titolo tesi: _Simulazione di una turbina eolica off-grid_.
+* Conoscenze acquisite dal CdL (in estrema sintesi):
+  ** *Matematica e fisica*: funzioni elementari, num. complessi, analisi/studio della funzione - il che include derivate, limiti e integrali definiti o indefiniti; analisi su più variabili indipendenti, eq. differenziali fino al secondo ordine, integrali doppi e tripli, derivate parziali; vettori e matrici, rango/immagine/kernel/determinante etc., operazioni elementari; fisica generale, meccanica del punto materiale, di distribuzioni discrete di punti e del corpo rigido; moto rotativo e delle grandezze studiate in tale ambito (mom. d'inerzia, coppia, mom. angolare etc.); forze d'attrito; elettromagnetismo; meccanica del corpo rigido, fondamenti di algebra vettoriale, meccanica newtoniana e dalambertiana.
+  ** *Tecnologia dei materiali*: classificazione dei materiali, principali configurazioni molecolari dei mat. metallici, trattamenti termici più importanti, diagrammi di stato (incl. _diagramma Ferro-Carbonio_), prove di resistenza (rottura, durezza, resilienza) sui metalli; lavorazioni per deformazione plastica a caldo e a freddo, lavorazioni per asportazione di truciolo, saldature, fonderia.
+  ** *Scienza delle costruzioni e costruzione di macchine*: meccanica del corpo continuo, tensioni nel c.c., teoria tecnica della trave, statica della trave, principio di De Saint-Venant e criteri di resistenza; resistenza e verifica di strutture sottili tridimensionali, serbatoi a parete sottile, meccanica della frattura, fatica nei materiali, organi di macchine.
+  ** *Termodinamica applicata*: leggi della termodinamica e applicazioni delle suddette nei sistemi aperti e chiusi, elementi degli impianti di produzione di energia; trasmissione del calore per conduzione, convezione e irraggiamento; meccanica dei fluidi, accenni di aerodinamica e idraulica; principali tipologie di sistemi energetici (impianti a vapore, a gas, nucleari, idroelettrici, motori a combustione interna), termofluidodinamica delle macchine, classificazione delle macchine, turbine e compressori; aria umida, involucro edilizio, impianti di condizionamento dell'aria con relative normative, sistemi di produzione idronici, C.T.A., generatori di calore, macchine a compressione di vapore, refrigeratori ad assorbimento.
+  ** *Progettazione e gestione degli impianti industriali*: indici di prestazione di un impianto, studio e progettazione del layout di impianto, colli di bottiglia, simulazioni e metodo Montecarlo, contabilità industriale, gestione delle scorte in magazzino, distinta base, approvvigionamenti, tempi e metodi, manutenzione.
+  ** *Elettrotecnica*: elementi fondamentali di un circuito elettrico, corrente DC e AC, corrente AC monofase, bifase e trifase, leggi di Ohm e Kirchhoff, circuiti equivalenti Thevenin e Norton, rifasamento di un impianto trifase, trasformatori ideali, circuiti in evoluzione dinamica (RC, RL, RLC), accenni di motori elettrici, accenni di elettronica.
+  ** *Disegno tecnico*: capacità di lettura dei disegni, normative ISO riguardanti messa in tavola e quotatura, tolleranze geometriche e dimensionali, rugosità e sua influenza sul moto relativo tra componenti in contatto, uso del software _AutoCAD_; fondamenti di grafica computazionale, curve e superfici, modellazione matematica di un oggetto, uso del software _Solidworks 2020_.
+  ** *Altro*: organigramma aziendale, bilancio di esercizio, meccanica applicata alle macchine, sistemi di misura per l'industria 4.0, uso del software _LabVIEW_, fondamenti di chimica inorganica, fondamenti di informatica, uso del linguaggio/software _Matlab_, accenni di database, algebra relazionale e linguaggio _MySQL_.
+
+=== Corsi di formazione (attestati)
+* "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (24/06/2021 - 06/08/2021) - cod. prog. Formatemp "094 PROT D211 1983".
+  ** Corso di formazione professionale da 240 ore su CAD 2D e 3D, CNC, prototipazione e stampa 3D.
+  ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli). link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
+  ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
+  ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
+
+== Progetti personali
+=== Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno 2022 - agosto 2022)
+* Il progetto di gruppo consisteva nella realizzazione di una trasmissione per una pressa a doppio eccentrico della quale erano dati capacità nominale (in ton~f~), numero di colpi al minuto, rpm del motore, regolazione della corsa e corsa massima. L'ingombro e il materiale da utilizzare era a nostra discrezione; il gruppo frizione-freno, il telaio e il circuito dell'olio non erano richiesti.
+* La trasmissione era costituita da tre alberi: motore, veloce e lento. I primi due erano collegati mediante trasmissione a cinghia, poi il veloce e il lento erano collegati via ruote dentate. L'eccentrico sull'albero lento determinava la corsa del pistone ed era regolabile (a macchina spenta) mediante una corona dentata.
+* Il progetto è stato svolto insieme agli ingg. Raffaele Ceruso e Ionut Beato, come requisito di accesso all'esame di Costruzione di Macchine tenuto dal prof. https://docenti.unisa.it/026806/home[Raffaele Sepe, window=_blank]. __Il documento originale potrebbe essere disponibile su questo sito in futuro previa autorizzazione delle parti interessate__.
+
+== Capacità principali
+[#hardskill]
+=== Hard skill
+  * #Conoscenze di ingegneria meccanica#
+    ** Già descritte nella link:#cdl[sezione dedicata].
+
+  * #Acquisite dal corso "DIGITAL MANUFACTURING - Prototipazione 3D e CNC"#
+    ** *Disegno tecnico*: capacità di utilizzo degli strumenti di misura.
+    ** *Software*
+      *** *nanoCAD*, *Catia V5*, *CIMCO Edit*; conoscenze di base di *FreeCAD*.
+      *** Analisi cinematica del moto con Catia V5.
+    ** *CNC e prototipazione rapida*: conoscenza di base del linguaggio G-code, nozioni sul funzionamento della stampa 3D (FDM, SLA).
+
+  * #Acquisite autonomamente#
+    ** Conoscenze base del software *Ansys* e dell'analisi F.E.M.

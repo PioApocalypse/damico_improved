@@ -1,0 +1,103 @@
+---
+title: "Common Résumé"
+date: 2023-06-29T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+url: "/en/cv/comune/"
+layout: cv_comune
+language: en
+---
+
+== Working experiences
+  * link:/cv/informatico/#icranet[*System manager*, title=Dettagli] for ICRANet Pescara on behalf of mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+  * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] for A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="IASA Italia Secretary (IT)"] (_no date_, 2016 - 2021).
+
+=== Other experiences
+  * Abroad study experience "*Estate INPSieme*" in Greenwich, London, for a period of four weeks (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Certificate of attendance., window=_blank]
+
+== Personal projects
+  * Making of the link:/[personal website] you're currently visiting on Hugo (June - July 2023).
+  * Making of a prototype for ICRANet's new website on Hugo (May 2023 - ongoing, on-hold).
+  * Design and engineering of the transmission, shafts/axles and bearings of an hypotetical eccentric mechanical press, required to access the final exam of the Mechanical Systems Design university course (June - August 2022, available soon).
+
+== Education
+  * (Currently progressing towards) Bachelor's Degree in Mechanical Engineering at the University of Salerno - credits earned 150/180 (83.3%).
+  * High School Diploma taken at the Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - final degree: 96/100.
+
+=== Spoken languages
+  * Italian - native speaker
+  * English (UK) - level Cambridge English First B2
+  * English (US) - informally
+
+=== Training
+  * "*DIGITAL MANUFACTURING - 3D Prototyping and CNC Machines*" (June - August 2021) - project code "Formatemp 094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Certificate of attendance., window=_blank]
+  * "*General Training Course for Workers*" (July 2021) - cert. code: (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verify the authenticity", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Certificate of completion., window=_blank]
+
+=== Certified training
+==== English language (UK)
+  * "*_Cambridge English First_ certification, Level B2*" (July 2016) - cert. number: 0053909676.
+    ** Final exam sustained on the 22^nd^ of July 2016; final score: *174 - Grade B*.
+
+== Proficiencies
+=== Hard skills
+  * #Engineering Drafting/Drawing#
+    ** *Drafting*: capability of reading a technical drawing, knowledge of ISO standards regarding layout, drafting and dimensioning, capability of using measuring tools.
+    ** *Software*: good skill with *AutoCAD*, *nanoCAD*, *Catia V5*, *Solidworks 2020*; basic understanding of *FreeCAD* and *Ansys*.
+      *** I can make parts/assemblies of 3D models and run motion simulations on Catia and Solidworks; I have basic understanding of stress and strain analysis using the F.E.M.
+
+  * #link:/cv/informatico/#hardskill[IT and Computer Science]#
+    ** *System management*: knowledge of the RAID standards, ability of setting up and manage backup routines with Bareos; basic understanding of XenServer, Apache HTTPD and Windows Server 2003; knowledge of SSH, VNC, RDP protocols; familiarity with Zabbix for monitoring of local network resources.
+    ** *Operating systems*: advanced user of Windows and multiple Linux distros; familiarity with CLI's - especially Bash; familiarity with systemd and basic knowledge of how an init daemon is supposed to work.
+    ** *Databases*: basic understanding of relational algebra; knowledge of SQL.
+    ** *Programming languages*: programming experiences with MATLAB, Python3, LabVIEW and Bash; basic knowledge of GNU Octave, C and Javascript.
+    ** *Web development*: good knowledge of HTML5, CSS3 and SCSS for front-end web development; knowledge of the CMS *Hugo* and experiences with the CMS *Wordpress*, and older versions (2007) of the CMS *Joomla!*.
+
+  * #link:/cv/ingegnere/#hardskill[Mechanical engineering]#
+    ** Knowledge of mechanical engineering: mathematical analisys, calculus, physics, chemistry; science of materials and technology, drafting and computer graphics; analytical mechanics, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
+    ** For other details, refer to the more complete link:/cv/ingegnere#cdl[curriculum as a mechanical engineer (IT)].
+
+  * #Mechanical design#
+    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
+    ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
+    ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
+    ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
+
+  * #Office utilities and documentation#
+    ** Competenza con i programmi dei *pacchetti MS Office*, *LibreOffice* e *Google Docs Editor*.
+    ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
+    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
+
+=== Soft skills
+[cols=3]
+|===
+|Accuracy:
+|
+|★★★★★
+
+|Problem solving:
+|
+|★★★★★
+
+|Patience/Temper:
+|
+|★★★★☆
+
+|Scheduling:
+|
+|★★★★☆
+
+|Teamwork:
+|
+|★★★★☆
+
+|Working relationship:
+|
+|★★★★☆
+
+|Attention:
+|
+|★★★☆☆
+
+|Self-reliance:
+|
+|★★☆☆☆
+|===

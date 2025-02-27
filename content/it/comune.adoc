@@ -1,0 +1,127 @@
+---
+title: "CV comune"
+date: 2024-08-08T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+url: "/cv/comune"
+layout: cv_comune
+language: it
+---
+
+== Esperienze lavorative
+  * #*link:/cv/informatico/#cnr-spin[++Sistemista informatico++, title=Dettagli]*# per il CNR, presso l'Istituto SPIN -- loc. Monte S. Angelo, Napoli (01/07/2024 - _in corso_). +
+  Ruoli: amministratore di sistema, sviluppatore, assistenza tecnica.
+  * #*link:/cv/informatico/#icranet[++Sistemista informatico++, title=Dettagli]*# per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Mail-to: Damiano Verzulli"] -- via Unità d'Italia, 224, Chieti -- presso ICRANet -- piazza della Repubblica, 10, Pescara (09/01/2023 - 30/06/2023). +
+  Ruoli: amministratore di sistema, webmaster, assistenza tecnica, tecnico del suono.
+
+=== Altre esperienze
+  * Webmaster per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Mail-to: Segreteria IASA Italia"] (_sine data_, 2016 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
+  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
+// Valutare possibilità di aggiungere un curriculum solo per le mie conoscenze della lingua inglese
+
+== Progetti personali
+  * Realizzazione e mantenimento di questo link:/[sito personale], usando il CMS Hugo, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier e il webserver Apache HTTP Server (giugno 2023 - _in corso_).
+  * Stesura della tesi compilativa per la laurea triennale in ing. meccanica (maggio 2024 - giugno 2024).
+  * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet] con CMS Hugo (maggio 2023 - _sospeso_).
+  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
+
+== Istruzione
+  * Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - voto finale 97/110. +
+  Tesi di laurea: "Simulazione di un generatore eolico off-grid".
+  * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100. +
+  Tesi di maturità (vecchio ordinamento): "The Dark Side of The Moon: la faccia oscura della vita umana".
+
+=== Lingue parlate
+  * Italiano - madrelingua
+  * Inglese - livello Cambridge First B2
+
+=== Corsi di formazione (attestati)
+  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
+
+== Certificazioni
+=== Lingue
+  * "*Certificazione _Cambridge English First_, Level B2*" (luglio 2016) - cert. num. 0053909676. +
+  Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*.
+
+== Capacità e competenze tecniche
+  * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
+    ** *Conoscenze di ingegneria meccanica*, ovvero: analisi matematica I e II, G.A.L., fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0. +
+    Ulteriori dettagli nella pagina del mio sito web dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+
+  * #Disegno tecnico industriale#
+    ** *Disegno tecnico*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola e quotatura, capacità di utilizzo degli strumenti di misura.
+    ** *Software*: buone capacità con AutoCAD, nanoCAD, Catia V5, Solidworks 2020; conoscenze di base di FreeCAD e ANSYS. +
+    So realizzare parti e assiemi di modelli 3D, eseguire analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
+
+  * #link:/cv/informatico/#hardskill[Informatica]#
+    ** *Sistemi operativi*: uso avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system;
+    ** *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server;
+    ** *Office*: uso avanzato dei software delle suite MS Office 365, LibreOffice e Google Docs, uso della libreria Python “docx”per automatizzare semplici operazioni, conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown;
+    ** *Manutenzione di rete*: manutenzione hardware di PC da ufficio, conoscenza dei modelli di rete (ISO/OSI, TCP/IP) e delle configurazioni RAID principali, dimestichezza con Bareos, Vorta (Borg), Git e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine; virtualizzazione con Oracle VirtualBox, Proxmox Virtual Environment, Citrix XenServer;
+    ** *Programmazione*: Python3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, MySQL, C e altri linguaggi.
+
+  * #Software da ufficio e documentale#
+    ** Competenza con i pacchetti software *MS Office*, *LibreOffice* e *Google Docs Editor*.
+    ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
+    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
+
+
+== Altre capacità e competenze
+  * #Progettazione meccanica#
+    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
+    ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
+    ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
+    ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
+  * #Fondamenti di primo soccorso#
+    ** Conoscenza delle principali manovre salvavita ammesse al soccorritore "laico", secondo le linee guida della Croce Rossa Italiana.
+
+=== Soft skill
+Ritengo che i miei punti di forza siano i seguenti:
+
+* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali;
+* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso;
+* Capacità di problem solving, talvolta anche sotto pressione;
+* Buona velocità di apprendimento;
+* Tendenza a socializzare con i colleghi.
+
+== Allegati
+* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2]
+* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)]
+* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)]
+
+image:favicon-32x32.png[] link:/certifications/allegati_cv.pdf[Scarica tutti (PDF unico).]
+
+// [cols=3]
+// |===
+// |Precisione:
+// |
+// |★★★★★
+//
+// |Problem solving:
+// |
+// |★★★★★
+//
+// |Pazienza:
+// |
+// |★★★★☆
+//
+// |Pianificazione:
+// |
+// |★★★★☆
+//
+// |Rapporti interpersonali:
+// |
+// |★★★★☆
+//
+// |Lavoro di squadra:
+// |
+// |★★★★☆
+//
+// |Saper ascoltare:
+// |
+// |★★★☆☆
+//
+// |Autonomia:
+// |
+// |★★☆☆☆
+// |===

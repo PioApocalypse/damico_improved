@@ -1,0 +1,13 @@
+home: 'Baronissi (SA), Campania'
+phone: '+39 333 233 3136'
+mail: 'emanuele@damico.ing'
+social:
+  # commentare solo uno dei due o il sito non compila
+  linkedin: 'https://www.linkedin.com/in/pioapocalypse'
+  linkedin_name: "Emanuele D'Amico"
+
+  github: 'https://github.com/PioApocalypse'
+  github_name: 'PioApocalypse'
+
+  telegram: 'https://t.me/PioApocalypse'
+  telegram_name: 'PioApocalypse'

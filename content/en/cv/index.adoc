@@ -1,0 +1,16 @@
+---
+title: "My Résumés"
+date: 2023-06-29T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+language: en
+url: "/en/cv/"
+---
+
+== Common
+link:/cv/comune[Read online] or link:#[download the PDF^].
+
+== As a mechanical engineer
+link:/cv/ingegnere[Read online] or link:#[download the PDF^].
+
+== As an IT technician
+link:/cv/informatico[Read online] or link:#[download the PDF^].

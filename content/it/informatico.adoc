@@ -1,0 +1,83 @@
+---
+title: "CV come Informatico"
+date: 2023-06-23T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+url: "/cv/informatico"
+layout: single
+language: it
+---
+
+== Esperienze lavorative
+[#icranet]
+=== _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
+* In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
+* Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
+* Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
+* Tra le competenze acquisite le più importanti sono state:
+  ** Ottima conoscenza di base di *Linux*;
+  ** Capacità di utilizzo degli strumenti di gestione remota di sistemi di calcolo, in particolare il *protocollo SSH* usato su base giornaliera per lavorare contemporaneamente con più macchine Linux (webserver, mail-gw etc.);
+  ** Capacità di gestione a livello amministratore di uno spazio *Google Workspace* con oltre un centinaio di utenti;
+  ** Capacità di gestione di un sito web su CMS *Joomla!* (molto outdated); ottima competenza in HTML e CSS;
+  ** Efficienza nella manutenzione ordinaria e straordinaria dei PC da ufficio del personale (sia hardware sia software);
+  ** Soft skill: problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
+
+[#iasait]
+=== _Webmaster_ dell'A.S.D. IASA Italia (2016 - 2021).
+* Dopo la maturità mi sono occupato "a tempo libero" di aggiornare occasionalmente il (vecchio) sito web dell'associazione sportiva dilettantistica IASA Italia - di cui sono stato anche membro in tale occasione.
+* La maggior parte delle modifiche erano fatte tramite la console admin di Wordpress, e richiedevano solo una conoscenza di base di HTML oltre ovviamente a una certa dimestichezza con il CMS Wordpress.
+* Nel corso di tale esperienza ho acquisito una conoscenza base del CMS Wordpress e della gestione dei contenuti sullo stesso.
+* link:https://iasa-italia.org/[Link al sito, window=_blank].
+
+== Progetti individuali
+=== Realizzazione del sito personale che state visitando con Hugo (giugno 2023 - in corso)
+* Il sito Github Pages pioapocalypse.github.io sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae.
+* Il sito è sviluppato a partire dal tema PaperMod per Hugo e mantenuto nel tempo libero.
+
+=== Realizzazione prototipo nuovo sito per l'organizzazione ICRANet con Hugo (maggio 2023 - in corso)
+* Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.icranet.org[icranet.org, window=_blank], su richiesta dei docenti della faculty ho lavorato a un prototipo per un nuovo sito statico con Hugo basato sul tema Hero. Il sito doveva presentare i seguenti vantaggi principali rispetto al precedente: design responsivo; minor tempo di caricamento; estensibilità della possibilità di aggiornare il sito al personale con scarse o nulle conoscenze di web-design.
+* Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet; attualmente il progetto è _sospeso_, non cancellato.
+
+== Istruzione
+=== Corsi di formazione (attestati)
+* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+  ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
+  ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
+
+[#hardskill]
+== Hard skill
+// Un po' di pulizia?
+* #Manutenzione di rete#
+  ** Conoscenza delle differenze tra i vari standard RAID nell'archiviazione di grandi masse di dati con copie di sicurezza.
+  ** Capacità di configurare, gestire e verificare routine di backup automatici via Bareos, usando `bconsole`.
+  ** Gestione di più macchine virtuali su più hypervisor con XenServer.
+  ** Conoscenza di base di Apache HTTPD per webserver.
+  ** Capacità di gestione di più macchine Linux da un'unico computer mediante protocolli SSH e VNC.
+    *** Stessa capacità con protocollo RDP per controllo remoto macchine Windows.
+  ** Conoscenza di base della gestione utenti di Windows Server 2003.
+  ** Familiarità con Zabbix per il monitoraggio delle risorse di rete.
+
+* #Sistemi operativi#
+  ** Utente avanzato di S.O. *Windows* da XP a 10 e di varie *distribuzioni Linux*, tra le quali figurano _Ubuntu_, _Linux Mint_, _Centos 7_ e _MX Fluxbox_.
+  ** Dimestichezza con interfacce a riga di comando (CLI), in particolare *Bash*.
+  ** Dimestichezza con *systemd*; esperienze minori con altri init daemon.
+  ** Capacità di eseguire piccoli interventi di manutenzione e recovery di installazioni Windows e Linux.
+  ** Minima familiarità con macOS 11.
+
+* #Database#
+  ** Conoscenza di base dell'algebra relazionale.
+  ** Conoscenza del linguaggio MySQL.
+
+* #Linguaggi di programmazione#
+  ** Esperienze di programmazione con MATLAB, Python3, LabVIEW e Bash.
+  ** Conoscenza di base di GNU Octave, C e Javascript.
+
+* #Web development#
+  ** Buona conoscenza di *HTML5*, *CSS3* e *SCSS* per front-end web development.
+  ** Conoscenza del CMS *Hugo*, utilizzato per creare due siti web: link:/[questo webCV] e il prototipo del nuovo sito ICRANet.
+    *** Esperienze con i CMS Wordpress - utilizzato dal link:https://iasa-italia.org/[sito web, window=_blank] dell'A.S.D. IASA Italia - e una prima versione di Joomla! (2007) - utilizzato dal link:https://www.icranet.org/[vecchio sito web, window=_blank] di ICRANet.
+  ** Conoscenza di base di Javascript.
+
+* #Software da ufficio e documentale#
+  ** *Pacchetti Office*: competenza con i programmi dei pacchetti _Microsoft Office_, _LibreOffice_ e _Google Docs Editor_.
+  ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
+  ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS - utilizzato per il live-streaming del link:https://www.youtube.com/playlist?list=PLr5RLbSWSonvawHlYpDVmRJIUoPHtopw7[_5^th^ Zeldovich Meeting_, window=_blank] di ICRANet da Yerevan, Armenia; conoscenza di base di Vegas (ex Sony Vegas).

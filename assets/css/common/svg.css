@@ -1,0 +1,7 @@
+.small-svg {
+  /* float:left; */
+  /* margin-top:8px; */
+  display: inline;
+  vertical-align: middle;
+  filter: var(--svg-fill);
+}

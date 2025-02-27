@@ -1,0 +1,18 @@
+---
+title: "Curricoli"
+date: 2023-06-29T12:00:00+02:00
+createdDate: 2023-06-12T12:00:00+02:00
+language: it
+url: "/cv/"
+---
+
+
+
+== CV comune
+link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/COMM.pdf[scarica in PDF^].
+
+== CV come ing. meccanico
+link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica in PDF^].
+
+== CV come informatico
+link:/cv/informatico/[Visualizza sul web] oppure link:/curriculum/SYS.pdf[scarica in PDF^].
