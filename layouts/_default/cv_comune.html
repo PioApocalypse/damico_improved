@@ -34,12 +34,6 @@
 
   {{- if .Content }}
 
-  <!-- USARE SOLO IN LOCALHOST PER SALVARE IL CV COME PDF E LASCIARE COMMENTATO IL RESTO DEL TEMPO 1/2 -->
-  <!-- <div style="font-family: Cambria; margin: 10px 0px">
-    <h1 style="font-size: 24pt">Emanuele D'AMICO</h1>
-    <p style="padding-left:10px">Disegnatore meccanico, sistemista informatico, futuro ingegnere meccanico.</p>
-  </div> -->
-  <!-- END -->
 
   <div class="post-content">
     {{- partial "bio_box.html" -}}
@@ -47,12 +41,6 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
-
-  <!-- USARE SOLO IN LOCALHOST PER SALVARE IL CV COME PDF E LASCIARE COMMENTATO IL RESTO DEL TEMPO 2/2 -->
-    <!-- <div>
-      <p style="font-size: small">Nota: questo documento contiene collegamenti ipertestuali per facilitare la verifica delle informazioni in esso contenuto. Tali collegamenti possono contenere indirizzi mail, recapiti personali oppure pagine web. Questo documento è inoltre disponibile in formato web al seguente indirizzo: <a href="https://pioapocalypse.github.io/cv/comune" target="_blank">pioapocalypse.github.io/cv/comune</a>.</p>
-    </div> -->
-  <!-- END -->
   </div>
   {{- end }}
 
