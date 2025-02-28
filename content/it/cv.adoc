@@ -1,15 +1,17 @@
 ---
 title: "Curricoli"
-date: 2023-06-29T12:00:00+02:00
+date: 2025-02-27
 createdDate: 2023-06-12T12:00:00+02:00
 language: it
 url: "/cv/"
 ---
 
+Su questo portale sono disponibili tre curriculum: uno comune che riassume tutte le competenze tecniche e skill lavorative di Emanuele D'Amico, uno specifico da ingegnere meccanico e uno specifico da informatico.
 
+La versione in formato PDF di ciascun curriculum differisce dalla versione web per brevità, layout e contenuto.
 
 == CV comune
-link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/COMM.pdf[scarica in PDF^].
+link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/comune.pdf[scarica in PDF^].
 
 == CV come ing. meccanico
 link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica in PDF^].

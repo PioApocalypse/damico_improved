@@ -1,46 +1,49 @@
 ---
 title: "CV comune"
-date: 2024-08-08T12:00:00+02:00
+date: 2025-02-27
 createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune"
 layout: cv_comune
 language: it
+
 ---
 
 == Esperienze lavorative
-  * #*link:/cv/informatico/#cnr-spin[++Sistemista informatico++, title=Dettagli]*# per il CNR, presso l'Istituto SPIN -- loc. Monte S. Angelo, Napoli (01/07/2024 - _in corso_). +
-  Ruoli: amministratore di sistema, sviluppatore, assistenza tecnica.
-  * #*link:/cv/informatico/#icranet[++Sistemista informatico++, title=Dettagli]*# per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Mail-to: Damiano Verzulli"] -- via Unità d'Italia, 224, Chieti -- presso ICRANet -- piazza della Repubblica, 10, Pescara (09/01/2023 - 30/06/2023). +
-  Ruoli: amministratore di sistema, webmaster, assistenza tecnica, tecnico del suono.
+  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico, title=Dettagli]* per l'#*Istituto CNR-SPIN#* - località Monte S. Angelo, Napoli (01/07/2024 - 30/06/2025, _in corso_). +
+  Ruoli: manutenzione di rete, gestione server, sviluppo software open-source, gestione di cloud storage ed link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[eLN^], data curation, assistenza tecnica.
+  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #*ICRANet Pescara*# (09/01/2023 - 30/06/2023). +
+  Ruoli: consulenza informatica, gestione server e portali web, organizzazione tecnica di meeting e convegni in presenza e online, assistenza tecnica, piccole riparazioni.
 
-=== Altre esperienze
-  * Webmaster per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Mail-to: Segreteria IASA Italia"] (_sine data_, 2016 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
-  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
-// Valutare possibilità di aggiungere un curriculum solo per le mie conoscenze della lingua inglese
+=== Esperienze minori
+  * Webmaster per l'A.S.D. https://web.archive.org/web/20240513011758/https://iasa-italia.org/[IASA Italia^, title="iasa-italia.it su Internet Archive"] (_sine data_, 2016 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
 
-== Progetti personali
-  * Realizzazione e mantenimento di questo link:/[sito personale], usando il CMS Hugo, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier e il webserver Apache HTTP Server (giugno 2023 - _in corso_).
-  * Stesura della tesi compilativa per la laurea triennale in ing. meccanica (maggio 2024 - giugno 2024).
-  * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet] con CMS Hugo (maggio 2023 - _sospeso_).
+=== Progetti minori
+  * Assemblaggio, setup e manutenzione di un piccolo server domestico con Proxmox VE per automazione routine di backup e self-hosting di servizi open source (Homebox, Nextcloud...).
+  * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, riutilizzando tema e contenuti del prototipo scartato per il nuovo sito ICRANet.
+  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier e il webserver Apache HTTP Server.
+  * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet^] con CMS Hugo (_cancellato_).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 == Istruzione
-  * Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - voto finale 97/110. +
+  * _Master in Data Management and Curation_ presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, _in corso_). +
+  Tesi conclusiva: _da concordare con il relatore_.
+  * Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - voto finale 97/110 (2017 - 2024). +
   Tesi di laurea: "Simulazione di un generatore eolico off-grid".
-  * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100. +
+  * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100 (2012 - 2017). +
   Tesi di maturità (vecchio ordinamento): "The Dark Side of The Moon: la faccia oscura della vita umana".
+//Sezione per i lavori di tesi? Meglio se con PDF?
 
-=== Lingue parlate
+=== Lingue
   * Italiano - madrelingua
   * Inglese - livello Cambridge First B2
 
 === Corsi di formazione (attestati)
   * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
   * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
+  * Esperienza di studio all'estero *Estate INPSieme 2017* in Greenwich, Londra, della durata di quattro settimane compresa di corso intensivo di lingua inglese (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
 
-== Certificazioni
-=== Lingue
-  * "*Certificazione _Cambridge English First_, Level B2*" (luglio 2016) - cert. num. 0053909676. +
+=== Certificazioni
+  * Certificazione *_Cambridge English First_, Level B2* (luglio 2016) - cert. num. 0053909676. +
   Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*.
 
 == Capacità e competenze tecniche
@@ -67,29 +70,31 @@ language: it
 
 
 == Altre capacità e competenze
-  * #Progettazione meccanica#
+  * *Progettazione meccanica*
     ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
     ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
     ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
     ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
-  * #Fondamenti di primo soccorso#
-    ** Conoscenza delle principali manovre salvavita ammesse al soccorritore "laico", secondo le linee guida della Croce Rossa Italiana.
+  * *Fondamenti di primo soccorso*
+    ** Conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della Croce Rossa Italiana - della quale sono volontario.
 
-=== Soft skill
-Ritengo che i miei punti di forza siano i seguenti:
-
+=== Capacità e competenze organizzative/relazionali (soft skill)
 * Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali;
 * Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso;
-* Capacità di problem solving, talvolta anche sotto pressione;
+* Capacità di problem solving anche sotto pressione;
 * Buona velocità di apprendimento;
 * Tendenza a socializzare con i colleghi.
 
-== Allegati
-* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2]
-* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)]
-* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)]
+== Download
+link:/curriculum/comune.pdf[Scarica la versione PDF.^]
 
-image:favicon-32x32.png[] link:/certifications/allegati_cv.pdf[Scarica tutti (PDF unico).]
+=== Allegati
+* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
+* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
+
+link:/curriculum/comune_allegati.pdf[Scarica CV e allegati (PDF unico).^] +
+link:/certifications/allegati_cv.pdf[Scarica solo gli allegati.^]
 
 // [cols=3]
 // |===
