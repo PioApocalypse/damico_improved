@@ -71,7 +71,7 @@ pre:hover .copy-code {
 mark {
   --bkg_and_border: #406066;
   background-color: var(--bkg_and_border);
-  border: 5px solid var(--bkg_and_border);
+  border: 0.3rem solid var(--bkg_and_border);
   border-radius: 8px;
   color: var(--primary);
   font-weight: bold;

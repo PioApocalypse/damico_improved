@@ -9,9 +9,9 @@ language: it
 ---
 
 == Esperienze lavorative
-  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico, title=Dettagli]* per l'#*Istituto CNR-SPIN#* - località Monte S. Angelo, Napoli (01/07/2024 - 30/06/2025, _in corso_). +
-  Ruoli: manutenzione di rete, gestione server, sviluppo software open-source, gestione di cloud storage ed link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[eLN^], data curation, assistenza tecnica.
-  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #*ICRANet Pescara*# (09/01/2023 - 30/06/2023). +
+  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico, title=Dettagli]* per l'#Istituto CNR-SPIN# - località Monte S. Angelo, Napoli (01/07/2024 - 30/06/2025, _in corso_). +
+  Ruoli: manutenzione di rete, gestione server, sviluppo software open-source, gestione di cloud storage ed eLN link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[^?^^, title="Wikipedia: Electronic lab notebook"], data curation, assistenza tecnica.
+  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #ICRANet Pescara# (09/01/2023 - 30/06/2023). +
   Ruoli: consulenza informatica, gestione server e portali web, organizzazione tecnica di meeting e convegni in presenza e online, assistenza tecnica, piccole riparazioni.
 
 === Esperienze minori
@@ -20,7 +20,7 @@ language: it
 === Progetti minori
   * Assemblaggio, setup e manutenzione di un piccolo server domestico con Proxmox VE per automazione routine di backup e self-hosting di servizi open source (Homebox, Nextcloud...).
   * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, riutilizzando tema e contenuti del prototipo scartato per il nuovo sito ICRANet.
-  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier e il webserver Apache HTTP Server.
+  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver.
   * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet^] con CMS Hugo (_cancellato_).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
@@ -47,36 +47,25 @@ language: it
   Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*.
 
 == Capacità e competenze tecniche
-  * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
-    ** *Conoscenze di ingegneria meccanica*, ovvero: analisi matematica I e II, G.A.L., fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0. +
-    Ulteriori dettagli nella pagina del mio sito web dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+=== Da ingegnere e progettista meccanico
+  * *Conoscenze accademiche di #ingegneria meccanica#*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
+  Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
-  * #Disegno tecnico industriale#
-    ** *Disegno tecnico*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola e quotatura, capacità di utilizzo degli strumenti di misura.
-    ** *Software*: buone capacità con AutoCAD, nanoCAD, Catia V5, Solidworks 2020; conoscenze di base di FreeCAD e ANSYS. +
-    So realizzare parti e assiemi di modelli 3D, eseguire analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
+  * #Disegno tecnico e CAD#: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
 
-  * #link:/cv/informatico/#hardskill[Informatica]#
-    ** *Sistemi operativi*: uso avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system;
-    ** *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server;
-    ** *Office*: uso avanzato dei software delle suite MS Office 365, LibreOffice e Google Docs, uso della libreria Python “docx”per automatizzare semplici operazioni, conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown;
-    ** *Manutenzione di rete*: manutenzione hardware di PC da ufficio, conoscenza dei modelli di rete (ISO/OSI, TCP/IP) e delle configurazioni RAID principali, dimestichezza con Bareos, Vorta (Borg), Git e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine; virtualizzazione con Oracle VirtualBox, Proxmox Virtual Environment, Citrix XenServer;
-    ** *Programmazione*: Python3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, MySQL, C e altri linguaggi.
+=== Da informatico  
+    * *Sistemi operativi*: utente avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system.
+    * *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server.
+    * *Manutenzione di rete*: manutenzione di PC da ufficio e server, conoscenza dei modelli di rete e delle configurazioni RAID/RAIDZ principali, dimestichezza con Bareos, Vorta (Borg) e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine, virtualizzazione (Proxmox Virtual Environment, Virt-manager, Citrix Xen Server e altri).
+    * *Programmazione*: Python 3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, C e altri linguaggi, capacità di manipolazione di database SQL, destrezza con Git.
+    * *Office*: suite MS Office 365, LibreOffice e Google Docs, dimestichezza con la libreria Python "docx", conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown, capacità di gestione di repository documentali (Antora, Obsidian...).
 
-  * #Software da ufficio e documentale#
-    ** Competenza con i pacchetti software *MS Office*, *LibreOffice* e *Google Docs Editor*.
-    ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
-    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
-
-
-== Altre capacità e competenze
-  * *Progettazione meccanica*
-    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
-    ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
-    ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
-    ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
-  * *Fondamenti di primo soccorso*
-    ** Conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della Croce Rossa Italiana - della quale sono volontario.
+=== Altre capacità e competenze
+  * #Progettazione e prototipazione meccanica#: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
+  * *Elettrotecnica applicata*: capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di multimetro e cercafase.
+  * *Fondamenti di #primo soccorso#*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
+  * *Graphic design e photo editing*: dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali.
+  * *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
 
 === Capacità e competenze organizzative/relazionali (soft skill)
 * Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali;

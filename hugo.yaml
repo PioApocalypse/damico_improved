@@ -62,6 +62,7 @@ params:
   profileMode:
     enabled: true
     title: "PioApocalypse" # optional default will be site title
+    fullname: "Emanuele D'Amico"
     subtitle: "Personal WebCV"
     imageUrl: "images/logo_firma.svg" # optional
     imageTitle: "logo" # optional

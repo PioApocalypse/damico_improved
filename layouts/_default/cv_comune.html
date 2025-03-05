@@ -2,7 +2,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>.und_anc a { text-decoration:underline; }</style>
 <div>
-  <p class="und_anc">Vai a: <em><a href="/cv/informatico/">CV come informatico</a> — <a href="/cv/ingegnere/">CV come ingegnere meccanico</a></em> </p>
+  <p class="und_anc">Vai a: </p>
+  <p style="margin-left: 1rem;">
+    <em><a href="/cv/informatico/">CV come informatico</a><br>
+    <a href="/cv/ingegnere/">CV come ingegnere meccanico</a></em>
+  </p>
 </div>
 
 <article class="post-single">
@@ -34,6 +38,11 @@
 
   {{- if .Content }}
 
+  {{- if site.Params.profileMode.fullname }}
+  <div style="margin: 0.5rem">
+    <h2 style="font-size: 2rem">{{ site.Params.profileMode.fullname }}</h2>
+  </div>
+  {{- end }}
 
   <div class="post-content">
     {{- partial "bio_box.html" -}}
