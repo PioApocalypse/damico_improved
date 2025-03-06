@@ -8,6 +8,9 @@ language: it
 ---
 
 == Esperienze lavorative
+[#cnr-spin]
+=== Sistemista informatico presso Istituto CNR-SPIN (01/07/2024 - 30/06/2025, _in corso_)
+
 [#icranet]
 === _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
 * In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
