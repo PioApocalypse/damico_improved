@@ -6,9 +6,9 @@ language: it
 url: "/cv/"
 ---
 
-Su questo portale sono disponibili tre curriculum: uno comune che riassume tutte le competenze tecniche e skill lavorative di Emanuele D'Amico, uno specifico da ingegnere meccanico e uno specifico da informatico.
+Su questo portale sono disponibili tre versioni del mio curriculum: uno comune che riassume tutte le competenze tecniche e skill lavorative di Emanuele D'Amico, uno specifico da ingegnere meccanico e uno specifico da informatico.
 
-La versione in formato PDF di ciascun curriculum differisce dalla versione web per brevità, layout e contenuto.
+La versione in formato PDF di ciascun curriculum differisce dalla versione web per brevità, layout e contenuto. Rispetto alle versioni web i PDF sono privi di informazioni superflue (e.g. oggetti di tesi, conoscenze acquisite da ciascun ruolo).
 
 == CV comune
 link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/comune.pdf[scarica in PDF^].

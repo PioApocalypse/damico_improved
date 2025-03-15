@@ -9,13 +9,13 @@ language: it
 ---
 
 == Esperienze lavorative
-  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico, title=Dettagli]* per l'#Istituto CNR-SPIN# - località Monte S. Angelo, Napoli (01/07/2024 - 30/06/2025, _in corso_). +
+  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico e programmatore, title=Dettagli]* per l'#Istituto CNR-SPIN# - località Monte S. Angelo, Napoli (07/2024 - 06/2025, _in corso_). +
   Ruoli: manutenzione di rete, gestione server, sviluppo software open-source, gestione di cloud storage ed eLN link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[^?^^, title="Wikipedia: Electronic lab notebook"], data curation, assistenza tecnica.
-  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #ICRANet Pescara# (09/01/2023 - 30/06/2023). +
+  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #ICRANet Pescara# (01/2023 - 06/2023). +
   Ruoli: consulenza informatica, gestione server e portali web, organizzazione tecnica di meeting e convegni in presenza e online, assistenza tecnica, piccole riparazioni.
 
 === Esperienze minori
-  * Webmaster per l'A.S.D. https://web.archive.org/web/20240513011758/https://iasa-italia.org/[IASA Italia^, title="iasa-italia.it su Internet Archive"] (_sine data_, 2016 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
+  * Webmaster per l'A.S.D. https://web.archive.org/web/20240513011758/https://iasa-italia.org/[IASA Italia^, title="iasa-italia.it su Internet Archive"] (2018 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
 
 === Progetti minori
   * Assemblaggio, setup e manutenzione di un piccolo server domestico con Proxmox VE per automazione routine di backup e self-hosting di servizi open source (Homebox, Nextcloud...).
