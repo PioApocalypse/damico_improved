@@ -8,17 +8,12 @@ language: it
 ---
 
 == Istruzione
+[#mdmc]
 === Master in Data Management and Curation presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, in corso).
-* Tesi conclusiva: da concordare con il relatore.
-* Conoscenze acquisite dal corso:
-  ** *Fondamenti di sistemi operativi Unix*.
-  ** *Open-science*.
-  ** *Architettura di rete*.
-  ** *Programmazione Python*.
-  ** *Virtualizzazione e container*.
-  ** *Introduzione al machine learning*.
+* Tesi conclusiva: _da concordare con il relatore_.
+* Conoscenze acquisite dal corso: fondamenti di sistemi operativi Unix, architetture di rete, open-science e principi FAIR, programmazione Python per data management e parsing, redazione di un data management plan (DMP), virtualizzazione e container, introduzione al machine learning.
 
-[#cdl]
+[#ingmec]
 === Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno (2017 - 2024)
 * Voto finale: 97/110.
 * Tesi di laurea: "Simulazione di un generatore eolico off-grid"
@@ -40,17 +35,17 @@ language: it
   ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
   ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
 
-== Progetti personali
+== Progetti minori
 === Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno 2022 - agosto 2022)
 * Il progetto di gruppo consisteva nella realizzazione di una trasmissione per una pressa a doppio eccentrico della quale erano dati capacità nominale (in ton~f~), numero di colpi al minuto, rpm del motore, regolazione della corsa e corsa massima. L'ingombro e il materiale da utilizzare era a nostra discrezione; il gruppo frizione-freno, il telaio e il circuito dell'olio non erano richiesti.
 * La trasmissione era costituita da tre alberi: motore, veloce e lento. I primi due erano collegati mediante trasmissione a cinghia, poi il veloce e il lento erano collegati via ruote dentate. L'eccentrico sull'albero lento determinava la corsa del pistone ed era regolabile (a macchina spenta) mediante una corona dentata.
 * Il progetto è stato svolto insieme agli ingg. Raffaele Ceruso e Ionut Beato, come requisito di accesso all'esame di Costruzione di Macchine tenuto dal prof. https://docenti.unisa.it/026806/home[Raffaele Sepe, window=_blank]. __Il documento originale potrebbe essere disponibile su questo sito in futuro previa autorizzazione delle parti interessate__.
 
 == Capacità e competenze tecniche
-[.hardskill]
+[#hardskill]
 === Hard skill
 * *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
-Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#ingmec[curriculum come ingegnere meccanico].
 * *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
 
 === Altre capacità e competenze
@@ -61,10 +56,10 @@ Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#cdl[curriculum co
 * *Esperienza come sistemista informatico/programmatore*: competenze estese in informatica, vedere link:/cv/informatico[curriculum dedicato].
 
 === Capacità e competenze organizzative/relazionali (soft skill)
-* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali;
-* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso;
-* Capacità di problem solving anche sotto pressione;
-* Buona velocità di apprendimento;
+* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
+* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+* Capacità di problem solving anche sotto pressione.
+* Buona velocità di apprendimento.
 * Tendenza a socializzare con i colleghi.
 
 == Download

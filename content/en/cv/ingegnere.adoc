@@ -6,7 +6,7 @@ layout: single
 ---
 
 == Istruzione
-[#cdl]
+[#ingmec]
 === _Dottore Triennale in Ingegneria Meccanica_, laureato presso l'Università degli Studi di Salerno
 * Immatricolato nell'A.A. 2017/2018.
 * Laureato con voto finale di 97/110 e media ponderata pari a 24.8/30.
@@ -39,7 +39,7 @@ layout: single
 [#hardskill]
 === Hard skill
   * #Conoscenze di ingegneria meccanica#
-    ** Già descritte nella link:#cdl[sezione dedicata].
+    ** Già descritte nella link:#ingmec[sezione dedicata].
 
   * #Acquisite dal corso "DIGITAL MANUFACTURING - Prototipazione 3D e CNC"#
     ** *Disegno tecnico*: capacità di utilizzo degli strumenti di misura.

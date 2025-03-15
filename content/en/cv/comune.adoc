@@ -53,7 +53,7 @@ language: en
 
   * #link:/cv/ingegnere/#hardskill[Mechanical engineering]#
     ** Knowledge of mechanical engineering: mathematical analisys, calculus, physics, chemistry; science of materials and technology, drafting and computer graphics; analytical mechanics, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
-    ** For other details, refer to the more complete link:/cv/ingegnere#cdl[curriculum as a mechanical engineer (IT)].
+    ** For other details, refer to the more complete link:/cv/ingegnere#ingmec[curriculum as a mechanical engineer (IT)].
 
   * #Mechanical design#
     ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.

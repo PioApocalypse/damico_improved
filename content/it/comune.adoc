@@ -49,7 +49,7 @@ language: it
 == Capacità e competenze tecniche
 === Da ingegnere e progettista meccanico
   * *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
-  Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+  Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#ingmec[curriculum come ingegnere meccanico].
 
   * *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
 
@@ -68,10 +68,10 @@ language: it
   * *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
 
 === Capacità e competenze organizzative/relazionali (soft skill)
-* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali;
-* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso;
-* Capacità di problem solving anche sotto pressione;
-* Buona velocità di apprendimento;
+* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
+* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+* Capacità di problem solving anche sotto pressione.
+* Buona velocità di apprendimento.
 * Tendenza a socializzare con i colleghi.
 
 == Download
