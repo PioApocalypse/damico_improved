@@ -1,0 +1,90 @@
+---
+title: 'Curriculum come {{ replace .File.ContentBaseName "-" " " | title }}'
+date: {{ .Date | time.Format "2006-01-02" }}
+createdDate: {{ .Date }}
+url: '/cv/{{ .File.ContentBaseName }}'
+layout: single # cv_comune
+language: it
+ShowToc: true
+draft: true
+---
+
+== Esperienze lavorative
+=== <Ruolo o ruoli> per <Azienda e Sede> (dd/mm/yyyy - dd/mm/yyyy, _in corso_)
+* Ruolo principale.
+* Ruolo secondario.
+* Altri ruoli minori.
+* Tecnologie utilizzate:
+  ** Tecnologia *Uno*.
+  ** Tecnologia *Due*.
+  ** Tecnologia *Tre*.
+  ** Varie in ordine sparso: tecnologie quattro, cinque e sei.
+* Hard skill maturate/perfezionate:
+  ** Skill *#1*.
+  ** Skill *#2*.
+  ** Skill *#3*.
+* Soft skill maturate/perfezionate:
+  ** Skill A.
+  ** Skill B.
+  ** Skill C.
+
+== Istruzione
+=== <Nome del corso di laurea/master> presso <Nome istituto> (<Abbr.>), Località (dd/mm/yyyy - dd/mm/yyyy, in corso).
+* Voto finale: xxx/xxx. # se presente
+* Tesi conclusiva: "<Titolo della tesi>".
+* Conoscenze acquisite dal corso:
+  ** *Macro argomento 1*: argomenti.
+  ** *Macro argomento 2*: argomenti.
+  ** *Macro argomento 3*: argomenti.
+
+=== Corsi di formazione (attestati)
+* "*<Nome del corso>*" (dd/mm/yyyy - dd/mm/yyyy) - cod. <att./prog./prot.> (eventuale link)
+  ** Descrizione del corso.
+  ** Organizzato da <Organizzatore>.
+  ** link:/certifications/<link>[Attestato di frequenza., window=_blank]
+
+== Progetti minori
+=== Nome progetto (mese anno - mese anno)
+Descrizione della commissione/richiesta di progetto. +
+Descrizione del progetto realizzato con eventuali dati tecnici. +
+Partecipanti, relatori, altri tecnici, incaricante, commissione esaminatrice.
+// NOTA: ELENCO O UNICO PARAGRAFO? MAGARI UNICO PARAGRAFO
+// NOTA: VALUTARE BENE RILEVANZA DEI PROGETTI INDIVIDUALI, SE NECESSARIO PORLI PRIMA DELLA SEZIONE ISTRUZIONE
+
+== Capacità e competenze tecniche
+
+[#hardskill]
+=== Hard skill
+#Macro area#
+
+* Competenza 1
+* Competenza 2
+* Competenza 3
+* Competenza 4
+
+=== Altre capacità e competenze
+* *Progettazione e prototipazione meccanica*: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
+* *Fondamenti di primo soccorso*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
+* *Graphic design e photo editing*: dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali.
+* *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
+* *Esperienza come <sistemista informatico/programmatore>*: competenze estese in informatica, vedere link:/cv/<curriculum>[curriculum dedicato].
+
+=== Capacità e competenze organizzative/relazionali (soft skill)
+* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
+* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+* Capacità di problem solving anche sotto pressione.
+* Buona velocità di apprendimento.
+* Tendenza a socializzare con i colleghi.
+
+== Download
+link:/curriculum/comune.pdf[Scarica la versione PDF.^]
+
+=== Allegati
+* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
+* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
+
+== Altri contenuti
+* link 1 
+* link 2
+* link 3
