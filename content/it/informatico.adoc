@@ -1,10 +1,11 @@
 ---
-title: "CV come Informatico"
-date: 2025-03-09
-createdDate: 2023-06-12T12:00:00+02:00
-url: "/cv/informatico"
-layout: single
+title: 'Curriculum come Informatico'
+date: 2025-03-15
+createdDate: 2025-03-15T17:46:11+01:00
+url: '/cv/informatico'
+layout: single # cv_comune
 language: it
+ShowToc: true
 ---
 
 == Esperienze lavorative
@@ -37,7 +38,7 @@ language: it
   ** Varie in ordine sparso: git, CMS Hugo/Antora, Asciidoctor e Markdown, Apache HTTP Server, certbot.
 * Soft skill maturate:
   ** Efficienza nella manutenzione ordinaria e straordinaria dei PC da ufficio del personale (sia hardware sia software);
-  ** Problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
+  ** Problem solving sotto pressione, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
 
 [#iasait]
 === Webmaster dell'A.S.D. IASA Italia (2018 - 2021).
@@ -46,56 +47,106 @@ language: it
 * Nel corso di tale esperienza ho acquisito una conoscenza base del CMS Wordpress e della gestione dei contenuti sullo stesso.
 * link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
 
-== Progetti individuali
-=== Realizzazione del sito personale che state visitando con Hugo (giugno 2023 - in corso)
-* Il sito sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae.
-* Il sito è sviluppato a partire dal tema PaperMod per Hugo e mantenuto nel tempo libero.
+== Istruzione
+[#mdmc]
+=== Master in Data Management and Curation presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, in corso).
+* Tesi conclusiva: _da concordare con il relatore_.
+* Conoscenze acquisite dal corso:
+  ** *Fondamenti di sistemi operativi Unix e architetture di rete*.
+  ** *Open-science*.
+  ** *Programmazione Python*.
+  ** *Virtualizzazione e container*.
+  ** *Introduzione al machine learning*.
 
-=== Realizzazione prototipo nuovo sito per l'organizzazione ICRANet con Hugo (maggio 2023 - in corso)
-* Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.icranet.org[icranet.org, window=_blank], su richiesta dei docenti della faculty ho lavorato a un prototipo per un nuovo sito statico con Hugo basato sul tema Hero. Il sito doveva presentare i seguenti vantaggi principali rispetto al precedente: design responsivo; minor tempo di caricamento; estensibilità della possibilità di aggiornare il sito al personale con scarse o nulle conoscenze di web-design.
-* Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet; attualmente il progetto è _sospeso_, non cancellato.
+[#ingmec]
+=== Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno (2017 - 2024)
+* Voto finale: 97/110.
+* Tesi di laurea: "Simulazione di un generatore eolico off-grid"
+* Conoscenze acquisite dal CdL (in estrema sintesi): fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata.
 
-== Istruzione specifica
 === Corsi di formazione (attestati)
 * "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
   ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
   ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
 
+== Progetti minori
+=== Assemblaggio, setup e manutenzione di un piccolo server domestico
+La macchina monta Proxmox VE come OS ed è impiegata per automazione delle routine di backup interno, per il self-hosting di servizi open source anche esposti alla rete (Homebox, Nextcloud...) e per la creazione di una piccola VM Windows con GPU passthrough per compatibilità con software esclusivo.
+
+=== Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN (dicembre 2024)
+Il sito è stato realizzato in poco tempo fuori dall'orario di lavoro per un progetto differente dal PNRR a cui ero associato. È stata riutilizzata la versione modificata del medesimo tema (hugo-Hero-Theme) utilizzato per il prototipo del nuovo sito ICRANet (scartato).
+
+=== Realizzazione e mantenimento di questo link:/[sito personale] (giugno 2023 - in corso)
+Il sito sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae. È sviluppato a partire dal tema PaperMod per Hugo e mantenuto nel tempo libero. +
+Il webserver è una macchina virtuale Oracle Cloud Free Tier x86, con Almalinux 9 e Apache HTTP Server.
+
+=== Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet^] con CMS Hugo (maggio 2023 - _cancellato_)
+Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.icranet.org[icranet.org, window=_blank], su richiesta dei docenti della faculty ho lavorato a un prototipo per un nuovo sito statico con Hugo basato sul tema Hero. Il sito doveva presentare i seguenti vantaggi principali rispetto al precedente: design responsivo; minor tempo di caricamento; estensibilità della possibilità di aggiornare il sito al personale con scarse o nulle conoscenze di web-design. Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet.
+
+// NOTA: VALUTARE BENE RILEVANZA DEI PROGETTI INDIVIDUALI, SE NECESSARIO PORLI PRIMA DELLA SEZIONE ISTRUZIONE
+
+== Capacità e competenze tecniche
+
 [#hardskill]
-== Hard skill
-// Un po' di pulizia?
-* #Manutenzione di rete#
-  ** Conoscenza delle differenze tra i vari standard RAID nell'archiviazione di grandi masse di dati con copie di sicurezza.
-  ** Capacità di configurare, gestire e verificare routine di backup automatici via Bareos, usando `bconsole`.
-  ** Gestione di più macchine virtuali su più hypervisor con XenServer.
-  ** Conoscenza di base di Apache HTTPD per webserver.
-  ** Capacità di gestione di più macchine Linux da un'unico computer mediante protocolli SSH e VNC.
-    *** Stessa capacità con protocollo RDP per controllo remoto macchine Windows.
-  ** Conoscenza di base della gestione utenti di Windows Server 2003.
-  ** Familiarità con Zabbix per il monitoraggio delle risorse di rete.
+=== Hard skill
+#Sistemi operativi#
 
-* #Sistemi operativi#
-  ** Utente avanzato di S.O. *Windows* da XP a 10 e di varie *distribuzioni Linux*, tra le quali figurano _Ubuntu_, _Linux Mint_, _Centos 7_ e _MX Fluxbox_.
-  ** Dimestichezza con interfacce a riga di comando (CLI), in particolare *Bash*.
-  ** Dimestichezza con *systemd*; esperienze minori con altri init daemon.
-  ** Capacità di eseguire piccoli interventi di manutenzione e recovery di installazioni Windows e Linux.
-  ** Minima familiarità con macOS 11.
+* Utente avanzato di S.O. basati su Linux, Windows (XP – 11); esperienza con MacOS e Android.
+* Capacità di recupero dati e ripristino di un sistema operativo (disaster recovery).
+* Esperienza con interfacce a riga di comando (CLI): Bash, cmd.exe, PowerShell, Cygwin.
+* Esperienza di gestione dei permessi su vari file system.
 
-* #Database#
-  ** Conoscenza di base dell'algebra relazionale.
-  ** Conoscenza del linguaggio MySQL.
+#Sviluppo web#
 
-* #Linguaggi di programmazione#
-  ** Esperienze di programmazione con MATLAB, Python3, LabVIEW e Bash.
-  ** Conoscenza di base di GNU Octave, C e Javascript.
+* Fondamenti di programmazione web front-end: HTML5, CSS3, Typescript.
+* CMS/framework vari: Hugo, Wordpress, Joomla!, Indico, Django, Flask.
+* Installazione e manutenzione di siti web self-hosted con Apache HTTP Server.
 
-* #Web development#
-  ** Buona conoscenza di *HTML5*, *CSS3* e *SCSS* per front-end web development.
-  ** Conoscenza del CMS *Hugo*, utilizzato per creare due siti web: link:/[questo webCV] e il prototipo del nuovo sito ICRANet.
-    *** Esperienze con i CMS Wordpress - utilizzato dal link:https://iasa-italia.org/[sito web, window=_blank] dell'A.S.D. IASA Italia - e una prima versione di Joomla! (2007) - utilizzato dal link:https://www.icranet.org/[vecchio sito web, window=_blank] di ICRANet.
-  ** Conoscenza di base di Javascript.
+#Manutenzione di rete#
 
-* #Software da ufficio e documentale#
-  ** *Pacchetti Office*: competenza con i programmi dei pacchetti _Microsoft Office_, _LibreOffice_ e _Google Docs Editor_.
-  ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
-  ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS - utilizzato per il live-streaming del link:https://www.youtube.com/playlist?list=PLr5RLbSWSonvawHlYpDVmRJIUoPHtopw7[_5^th^ Zeldovich Meeting_, window=_blank] di ICRANet da Yerevan, Armenia; conoscenza di base di Vegas (ex Sony Vegas).
+* Manutenzione di PC da ufficio e server.
+* Conoscenza dei modelli di rete e delle configurazioni RAID/RAIDZ principali.
+* Bareos/bconsole, Vorta (Borg) e Rsync per backup e versioning.
+* Esperienza con Zabbix per monitoraggio risorse di rete.
+* Uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine
+* Virtualizzazione (Proxmox, Virt-manager, XenServer), containerizzazione (Docker) e automazione (Ansible).
+* Familiarità con Windows Server 2003.
+
+#Programmazione#
+
+* Python, LabVIEW, Matlab/Simulink, Bash.
+* Fondamenti di GNU Octave, C e altri linguaggi, gestione database SQL.
+* Esperienza con git.
+
+#Office#
+
+* Competenza nelle suite da ufficio più diffuse: MS Office 365, LibreOffice, Google Docs.
+* Automazione con libreria Python "docx".
+* Linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText.
+* Esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
+
+=== Altre capacità e competenze
+* *Progettazione e prototipazione meccanica*: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
+* *Fondamenti di primo soccorso*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
+* *Graphic design e photo editing*: dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali.
+* *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
+* *Esperienza come <sistemista informatico/programmatore>*: competenze estese in informatica, vedere link:/cv/<curriculum>[curriculum dedicato].
+
+=== Capacità e competenze organizzative/relazionali (soft skill)
+* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
+* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+* Capacità di problem solving anche sotto pressione.
+* Buona velocità di apprendimento.
+* Tendenza a socializzare con i colleghi.
+
+== Download
+link:/curriculum/SYS.pdf[Scarica la versione PDF.^]
+
+=== Allegati
+* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
+* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
+
+== Altri contenuti
+* link:/cv/comune[Curriculum generale]
+* link:/cv/ingegnere[Curriculum come Ing. Meccanico]
