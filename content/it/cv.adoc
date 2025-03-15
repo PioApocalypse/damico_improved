@@ -10,11 +10,11 @@ Su questo portale sono disponibili tre versioni del mio curriculum: uno comune c
 
 La versione in formato PDF di ciascun curriculum differisce dalla versione web per brevità, layout e contenuto. Rispetto alle versioni web i PDF sono privi di informazioni superflue (e.g. oggetti di tesi, conoscenze acquisite da ciascun ruolo).
 
-== CV comune
+== Curriculum comune
 link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/comune.pdf[scarica in PDF^].
 
-== CV come ing. meccanico
+== Curriculum come ing. meccanico
 link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica in PDF^].
 
-== CV come informatico
+== Curriculum come informatico
 link:/cv/informatico/[Visualizza sul web] oppure link:/curriculum/SYS.pdf[scarica in PDF^].

@@ -1,6 +1,6 @@
 ---
-title: "CV comune"
-date: 2025-02-27
+title: "Curriculum comune"
+date: 2025-03-15
 createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune"
 layout: cv_comune
@@ -25,11 +25,11 @@ language: it
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 == Istruzione
-  * _Master in Data Management and Curation_ presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, _in corso_). +
+  * *Master in Data Management and Curation* presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, _in corso_). +
   Tesi conclusiva: _da concordare con il relatore_.
-  * Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - voto finale 97/110 (2017 - 2024). +
+  * *Laurea Triennale in Ingegneria Meccanica* presso l'Università degli Studi di Salerno - voto finale 97/110 (2017 - 2024). +
   Tesi di laurea: "Simulazione di un generatore eolico off-grid".
-  * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100 (2012 - 2017). +
+  * *Diploma di Istruzione Superiore* conseguito presso il Liceo Scientifico Margherita Hack, Baronissi (ex IIS Baronissi) - voto di maturità 96/100 (2012 - 2017). +
   Tesi di maturità (vecchio ordinamento): "The Dark Side of The Moon: la faccia oscura della vita umana".
 //Sezione per i lavori di tesi? Meglio se con PDF?
 
@@ -48,22 +48,22 @@ language: it
 
 == Capacità e competenze tecniche
 === Da ingegnere e progettista meccanico
-  * *Conoscenze accademiche di #ingegneria meccanica#*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
+  * *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
   Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
-  * #Disegno tecnico e CAD#: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
+  * *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
 
 === Da informatico  
-    * *Sistemi operativi*: utente avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system.
-    * *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server.
-    * *Manutenzione di rete*: manutenzione di PC da ufficio e server, conoscenza dei modelli di rete e delle configurazioni RAID/RAIDZ principali, dimestichezza con Bareos, Vorta (Borg) e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine, virtualizzazione (Proxmox Virtual Environment, Virt-manager, Citrix Xen Server e altri).
-    * *Programmazione*: Python 3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, C e altri linguaggi, capacità di manipolazione di database SQL, destrezza con Git.
-    * *Office*: suite MS Office 365, LibreOffice e Google Docs, dimestichezza con la libreria Python "docx", conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown, capacità di gestione di repository documentali (Antora, Obsidian...).
+  * *Sistemi operativi*: utente avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system.
+  * *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server.
+  * *Manutenzione di rete*: manutenzione di PC da ufficio e server, conoscenza dei modelli di rete e delle configurazioni RAID/RAIDZ principali, dimestichezza con Bareos, Vorta (Borg) e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine, virtualizzazione (Proxmox Virtual Environment, Virt-manager, Citrix Xen Server e altri).
+  * *Programmazione*: Python 3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, C e altri linguaggi, capacità di manipolazione di database SQL, destrezza con Git.
+  * *Office*: suite MS Office 365, LibreOffice e Google Docs, dimestichezza con la libreria Python "docx", conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown, capacità di gestione di repository documentali (Antora, Obsidian...).
 
 === Altre capacità e competenze
-  * #Progettazione e prototipazione meccanica#: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
+  * *Progettazione e prototipazione meccanica*: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
   * *Elettrotecnica applicata*: capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di multimetro e cercafase.
-  * *Fondamenti di #primo soccorso#*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
+  * *Fondamenti di primo soccorso*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
   * *Graphic design e photo editing*: dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali.
   * *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
 
