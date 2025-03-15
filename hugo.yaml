@@ -79,8 +79,8 @@ params:
       - name: Triennalia
         url: "https://github.com/PioApocalypse/Triennalia"
       - name: Che cos'è Triennalia?
-        url: "/about/triennalia"
-  mainSections: about
+        url: "/blog/triennalia"
+  mainSections: blog
 
 
 assets:

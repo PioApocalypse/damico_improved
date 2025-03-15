@@ -1,7 +1,7 @@
 ---
 title: "I miei più grandi traguardi"
 date: 2023-07-09T12:18:14+02:00
-url: /about/greatest-achievements
+url: /blog/greatest-achievements
 language: it
 ShowToc: true
 ---

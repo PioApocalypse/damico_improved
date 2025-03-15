@@ -1,6 +1,6 @@
 ---
 title: "Che cos'è Triennalia?"
-url: "/about/triennalia"
+url: "/blog/triennalia"
 date: 2023-07-09T12:00:00+02:00
 language: it
 ---
