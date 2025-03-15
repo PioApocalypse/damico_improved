@@ -5,6 +5,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/ingegnere"
 layout: single
 language: it
+ShowToc: true
 ---
 
 == Istruzione
@@ -45,22 +46,15 @@ language: it
 [#hardskill]
 === Hard skill
 * *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
-Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#ingmec[curriculum come ingegnere meccanico].
+Ulteriori dettagli link:/cv/ingegnere#ingmec[sopra].
 * *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
-
-=== Altre capacità e competenze
-* *Progettazione e prototipazione meccanica*: fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA).
-* *Fondamenti di primo soccorso*: conoscenza delle principali manovre salvavita permesse al soccorritore "laico" come da linee guida della *Croce Rossa Italiana* - della quale sono volontario.
-* *Graphic design e photo editing*: dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali.
-* *Video editing*: dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas).
 * *Esperienza come sistemista informatico/programmatore*: competenze estese in informatica, vedere link:/cv/informatico[curriculum dedicato].
 
+=== Altre capacità e competenze
+{{< skill skill=altre >}}
+
 === Capacità e competenze organizzative/relazionali (soft skill)
-* Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
-* Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
-* Capacità di problem solving anche sotto pressione.
-* Buona velocità di apprendimento.
-* Tendenza a socializzare con i colleghi.
+{{< skill skill=soft >}}
 
 == Download
 link:/curriculum/MEC.pdf[Scarica la versione PDF.^]
@@ -69,3 +63,7 @@ link:/curriculum/MEC.pdf[Scarica la versione PDF.^]
 * link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
 * link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
 * link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
+
+== Altri contenuti
+* link:/cv/comune[Curriculum generale]
+* link:/cv/informatico[Curriculum come Informatico]
