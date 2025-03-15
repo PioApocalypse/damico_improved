@@ -1,0 +1,20 @@
+altre_skill:
+  order:
+    - Progettazione e prototipazione meccanica
+    - Elettrotecnica applicata
+    - Fondamenti di primo soccorso
+    - Graphic design e photo editing
+    - Video editing
+  lines:
+    Elettrotecnica applicata: capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di multimetro e cercafase.
+    Fondamenti di primo soccorso: "conoscenza delle principali manovre salvavita permesse al soccorritore \"laico\" come da linee guida della Croce Rossa Italiana - della quale sono volontario."
+    Graphic design e photo editing: "dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali."
+    Progettazione e prototipazione meccanica: "fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA)."
+    Video editing: "dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas)."
+  
+soft_skill:
+  - Buone capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione in ambienti multiculturali.
+  - Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+  - Capacità di problem solving anche sotto pressione.
+  - Buona velocità di apprendimento.
+  - Tendenza a socializzare con i colleghi.

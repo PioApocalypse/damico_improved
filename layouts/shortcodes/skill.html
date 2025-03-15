@@ -1,0 +1,15 @@
+{{ $data := index site.Data site.Language.Lang }}
+{{ if eq (.Get "skill") "altre" }}
+    <ul>
+    {{ range $skill := $data.skill.altre_skill.order }}
+        {{ $description := index $data.skill.altre_skill.lines $skill }}
+        <li><strong>{{ $skill }}:</strong> {{ $description }}</li>
+    {{ end }}
+    </ul>
+{{ else if eq (.Get "skill") "soft" }}
+    <ul>
+    {{ range $skill := $data.skill.soft_skill }}
+        <li>{{ . }}</li>
+    {{ end }}
+    </ul>
+{{ end }}
