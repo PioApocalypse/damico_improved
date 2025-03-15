@@ -1,6 +1,6 @@
 ---
 title: "CV come Informatico"
-date: 2023-06-23T12:00:00+02:00
+date: 2025-03-09
 createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/informatico"
 layout: single
@@ -8,39 +8,54 @@ language: it
 ---
 
 == Esperienze lavorative
+
 [#cnr-spin]
-=== Sistemista informatico presso Istituto CNR-SPIN (01/07/2024 - 30/06/2025, _in corso_)
+=== Sistemista informatico e programmatore per l'Istituto CNR-SPIN sede di Napoli (01/07/2024 - 30/06/2025, _in corso_)
+* In qualità di sistemista informatico mi sono occupato di assistenza tecnica al personale di ricerca e di amministrazione durante il passaggio alla nuova rete LAN, risolvendo problemi di connettività e riconfigurazione degli apparati.
+* Oltre a questo mi sono occupato della gestione delle macchine operative in sede, tra cui un ipervisore Proxmox a tre nodi con server Nextcloud, eLabFTW, Rustdesk, e un NAS per il backup automatico.
+* In qualità di programmatore ho sviluppato l'interfaccia link:https://github.com/PioApocalypse/AMORE/[AMORE^], una GUI open-source per l'inserimento rapido di campioni sull'eLN della sede di Napoli (link:https://elabftw.fisica.unina.it/[eLabFTW^]); ho anche realizzato alcuni piccoli siti web statici.
+* Tecnologie utilizzate:
+  ** Sistemi operativi *Linux* da Linux Mint 22 ad Almalinux 9;
+  ** Strumenti di gestione remota di sistemi di calcolo, in particolare *ssh*;
+  ** CMS *Hugo* per la creazione di piccoli siti web;
+  ** *Proxmox Virtual Environment* come OS sui nodi del virtualizzatore;
+  ** *Python 3* per data parsing/management e sviluppo back-end.
+  ** Varie in ordine sparso: git, Docker Compose, Apache HTTP Server, nginx.
 
 [#icranet]
-=== _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
-* In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
+=== Sistemista informatico presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
+* In qualità di sistemista informatico mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
 * Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
 * Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
-* Tra le competenze acquisite le più importanti sono state:
-  ** Ottima conoscenza di base di *Linux*;
-  ** Capacità di utilizzo degli strumenti di gestione remota di sistemi di calcolo, in particolare il *protocollo SSH* usato su base giornaliera per lavorare contemporaneamente con più macchine Linux (webserver, mail-gw etc.);
-  ** Capacità di gestione a livello amministratore di uno spazio *Google Workspace* con oltre un centinaio di utenti;
-  ** Capacità di gestione di un sito web su CMS *Joomla!* (molto outdated); ottima competenza in HTML e CSS;
+* Tecnologie utilizzate:
+  ** Sistemi operativi *Linux*, in particolare CentOS 7 (server);
+  ** Strumenti di gestione remota di sistemi di calcolo, in particolare *Remmina* per desktop remoto (GUI) e *ssh* per accesso remoto alle shell più macchine Linux (webserver, mail-gw etc.) e Windows (via putty);
+  ** Monitorning delle risorse in rete via *Zabbix*;
+  ** Backup con *Bareos*, *Rsync*;
+  ** *Google Workspace* per amministrazione delle collaborazioni tra utenti interni ed esterni alla sede di Pescara;
+  ** CMS *Joomla!* (molto outdated) per sito web, in combinazione con plain-HTML e CSS;
+  ** Varie in ordine sparso: git, CMS Hugo/Antora, Asciidoctor e Markdown, Apache HTTP Server, certbot.
+* Soft skill maturate:
   ** Efficienza nella manutenzione ordinaria e straordinaria dei PC da ufficio del personale (sia hardware sia software);
-  ** Soft skill: problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
+  ** Problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
 
 [#iasait]
-=== _Webmaster_ dell'A.S.D. IASA Italia (2016 - 2021).
-* Dopo la maturità mi sono occupato "a tempo libero" di aggiornare occasionalmente il (vecchio) sito web dell'associazione sportiva dilettantistica IASA Italia - di cui sono stato anche membro in tale occasione.
+=== Webmaster dell'A.S.D. IASA Italia (2018 - 2021).
+* Dopo la maturità mi sono occupato nel tempo libero di aggiornare occasionalmente il (vecchio) sito web dell'associazione sportiva dilettantistica IASA Italia - di cui sono stato anche membro in tale occasione.
 * La maggior parte delle modifiche erano fatte tramite la console admin di Wordpress, e richiedevano solo una conoscenza di base di HTML oltre ovviamente a una certa dimestichezza con il CMS Wordpress.
 * Nel corso di tale esperienza ho acquisito una conoscenza base del CMS Wordpress e della gestione dei contenuti sullo stesso.
-* link:https://iasa-italia.org/[Link al sito, window=_blank].
+* link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
 
 == Progetti individuali
 === Realizzazione del sito personale che state visitando con Hugo (giugno 2023 - in corso)
-* Il sito Github Pages pioapocalypse.github.io sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae.
+* Il sito sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae.
 * Il sito è sviluppato a partire dal tema PaperMod per Hugo e mantenuto nel tempo libero.
 
 === Realizzazione prototipo nuovo sito per l'organizzazione ICRANet con Hugo (maggio 2023 - in corso)
 * Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.icranet.org[icranet.org, window=_blank], su richiesta dei docenti della faculty ho lavorato a un prototipo per un nuovo sito statico con Hugo basato sul tema Hero. Il sito doveva presentare i seguenti vantaggi principali rispetto al precedente: design responsivo; minor tempo di caricamento; estensibilità della possibilità di aggiornare il sito al personale con scarse o nulle conoscenze di web-design.
 * Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet; attualmente il progetto è _sospeso_, non cancellato.
 
-== Istruzione
+== Istruzione specifica
 === Corsi di formazione (attestati)
 * "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
   ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
