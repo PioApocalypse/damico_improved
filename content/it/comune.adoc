@@ -5,7 +5,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune"
 layout: cv_comune
 language: it
-
+ShowToc: true
 ---
 
 == Esperienze lavorative
@@ -37,7 +37,7 @@ language: it
   * Italiano - madrelingua
   * Inglese - livello Cambridge First B2
 
-=== Corsi di formazione (attestati)
+=== Ulteriore formazione
   * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
   * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
   * Esperienza di studio all'estero *Estate INPSieme 2017* in Greenwich, Londra, della durata di quattro settimane compresa di corso intensivo di lingua inglese (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
@@ -48,17 +48,20 @@ language: it
 
 == Capacità e competenze tecniche
 === Da ingegnere e progettista meccanico
-  * *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
-  Ulteriori dettagli nella pagina dedicata al link:/cv/ingegnere#ingmec[curriculum come ingegnere meccanico].
+> link:/cv/ingegnere#hardskill[Ulteriori informazioni]
 
-  * *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
+* *Conoscenze accademiche di ingegneria meccanica*: preparazione accademica da ingegnere meccanico triennale; progettazione di impianti di condizionamento, scelta da catalogo di componenti idraulici/aeraulici.
+* *Disegno tecnico e CAD*: capacità di lettura dei disegni ISO; esperienza con AutoCAD, NanoCAD, Catia V5, Solidworks e FreeCAD; conoscenza di base di Ansys.
 
-=== Da informatico  
-  * *Sistemi operativi*: utente avanzato di S.O. basati su Linux, Windows (XP – 11), MacOS e Android, dimestichezza con interfacce a riga di comando (CLI) e gestione dei permessi su vari file system.
-  * *Sviluppo web*: fondamenti di programmazione front-end (HTML5, CSS3, Typescript), CMS vari (Hugo, Wordpress, Joomla!, Indico…), installazione e manutenzione di siti web self-hosted con Apache HTTP Server.
-  * *Manutenzione di rete*: manutenzione di PC da ufficio e server, conoscenza dei modelli di rete e delle configurazioni RAID/RAIDZ principali, dimestichezza con Bareos, Vorta (Borg) e Rsync per backup e versioning, esperienza con Zabbix per monitoraggio risorse di rete, uso dei protocolli SSH, VNC e RDP per accesso remoto alle macchine, virtualizzazione (Proxmox Virtual Environment, Virt-manager, Citrix Xen Server e altri).
-  * *Programmazione*: Python 3, LabVIEW, Matlab/Simulink, fondamenti di GNU Octave, C e altri linguaggi, capacità di manipolazione di database SQL, destrezza con Git.
-  * *Office*: suite MS Office 365, LibreOffice e Google Docs, dimestichezza con la libreria Python "docx", conoscenza linguaggi di markup LaTeX, Asciidoctor, Markdown, capacità di gestione di repository documentali (Antora, Obsidian...).
+=== Da informatico
+> link:/cv/informatico#hardskill[Ulteriori informazioni]
+
+* *Sistemi operativi*: Linux, Windows (XP – 11); esperienza con MacOS e Android; capacità di ripristino OS danneggiato; esperienza con interfacce a riga di comando.
+* *Sviluppo web*: fondamenti di programmazione web front-end; CMS/framework vari (Hugo, Wordpress, Django, Flask...).
+* *Manutenzione di rete*: manutenzione di PC da ufficio e server; backup e versioning, monitoraggio risorse di rete, accesso remoto alle macchine; virtualizzazione, containerizzazione e automazione.
+* *Programmazione*: Python, LabVIEW, Matlab/Simulink, Bash; fondamenti di GNU Octave, C e altri linguaggi, gestione database SQL; esperienza con git.
+* *Office*: competenza nelle suite da ufficio più diffuse - MS Office 365, LibreOffice, Google Docs; automazione con libreria Python "docx"; linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText; esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
+* *Self-hosting*: gestione server Apache HTTP e certificati SSL; installazione e gestione di applicativi server sia in bare metal sia via Docker (es. Nextcloud, Snipeit...).
 
 === Altre capacità e competenze
 {{< skill skill=altre >}}

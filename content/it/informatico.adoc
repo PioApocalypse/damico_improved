@@ -11,7 +11,9 @@ ShowToc: true
 == Esperienze lavorative
 
 [#cnr-spin]
-=== Sistemista informatico e programmatore per l'Istituto CNR-SPIN sede di Napoli (01/07/2024 - 30/06/2025, _in corso_)
+=== Istituto CNR-SPIN sede di Napoli (01/07/2024 - 30/06/2025, _in corso_)
+Ruoli: *sistemista informatico*, manutentore di rete, sviluppatore.
+
 * In qualità di sistemista informatico mi sono occupato di assistenza tecnica al personale di ricerca e di amministrazione durante il passaggio alla nuova rete LAN, risolvendo problemi di connettività e riconfigurazione degli apparati.
 * Oltre a questo mi sono occupato della gestione delle macchine operative in sede, tra cui un ipervisore Proxmox a tre nodi con server Nextcloud, eLabFTW, Rustdesk, e un NAS per il backup automatico.
 * In qualità di programmatore ho sviluppato l'interfaccia link:https://github.com/PioApocalypse/AMORE/[AMORE^], una GUI open-source per l'inserimento rapido di campioni sull'eLN della sede di Napoli (link:https://elabftw.fisica.unina.it/[eLabFTW^]); ho anche realizzato alcuni piccoli siti web statici.
@@ -20,11 +22,13 @@ ShowToc: true
   ** Strumenti di gestione remota di sistemi di calcolo, in particolare *ssh*;
   ** CMS *Hugo* per la creazione di piccoli siti web;
   ** *Proxmox Virtual Environment* come OS sui nodi del virtualizzatore;
-  ** *Python 3* per data parsing/management e sviluppo back-end.
+  ** *Python 3* per data parsing/management e sviluppo back-end;
   ** Varie in ordine sparso: git, Docker Compose, Apache HTTP Server, nginx.
 
 [#icranet]
-=== Sistemista informatico presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
+=== ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023)
+Ruoli: *sistemista informatico*, manutentore di rete, tecnico del suono.
+
 * In qualità di sistemista informatico mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
 * Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
 * Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
@@ -49,7 +53,10 @@ ShowToc: true
 
 == Istruzione
 [#mdmc]
-=== Master in Data Management and Curation presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, in corso).
+=== Master in Data Management and Curation
+Presso la #Scuola Internazionale Superiore di Studi Avanzati (SISSA)#, Trieste +
+(14/09/2024 - 31/05/2025, _in corso_).
+
 * Tesi conclusiva: _da concordare con il relatore_.
 * Conoscenze acquisite dal corso:
   ** *Fondamenti di sistemi operativi Unix e architetture di rete*.
@@ -59,12 +66,17 @@ ShowToc: true
   ** *Introduzione al machine learning*.
 
 [#ingmec]
-=== Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno (2017 - 2024)
+=== Laurea Triennale in Ingegneria Meccanica
+Presso l'##Università degli Studi di Salerno## (2017 - 2024)
+
 * Voto finale: 97/110.
 * Tesi di laurea: "Simulazione di un generatore eolico off-grid"
 * Conoscenze acquisite dal CdL (in estrema sintesi): fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata.
 
-=== Corsi di formazione (attestati)
+=== Ulteriore formazione
+* "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (24/06/2021 - 06/08/2021) - cod. prog. Formatemp "094 PROT D211 1983".
+  ** Corso di formazione professionale da 240 ore su CAD 2D e 3D, CNC, prototipazione e stampa 3D.
+  ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli). link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
 * "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
   ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
   ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
@@ -125,8 +137,16 @@ Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.ic
 * Linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText.
 * Esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
 
+#Self-hosting#
+
+* Gestione server Apache HTTP e certificati SSL (certbot/Let's Encrypt).
+* Dimestichezza con servizi self-hosted quali: Rustdesk per remote desktop, Snipeit/homebox per inventario beni, eLabFTW come eLN, ownCloud e Nextcloud come cloud storage.
+* Installazione e gestione di applicativi server sia in bare metal sia via Docker.
+
 === Altre capacità e competenze
 {{< skill skill=altre >}}
+
+* *Conoscenze accademiche di ingegneria meccanica*: preparazione accademica da ingegnere meccanico triennale; progettazione di impianti di condizionamento, scelta da catalogo di componenti idraulici/aeraulici.
 
 === Capacità e competenze organizzative/relazionali (soft skill)
 {{< skill skill=soft >}}
@@ -135,8 +155,9 @@ Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.ic
 link:/curriculum/SYS.pdf[Scarica la versione PDF.^]
 
 === Allegati
-* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
-* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+. link:/certifications/FCE_cambridge_first_B1.pdf[Certificato FCE liv. B2^]
+. link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+. link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
 
 == Altri contenuti
 * link:/cv/comune[Curriculum generale]

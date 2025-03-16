@@ -10,15 +10,20 @@ ShowToc: true
 
 == Istruzione
 [#mdmc]
-=== Master in Data Management and Curation presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste (14/09/2024 - 31/05/2025, in corso).
+=== Master in Data Management and Curation
+Presso la #Scuola Internazionale Superiore di Studi Avanzati (SISSA)#, Trieste +
+(14/09/2024 - 31/05/2025, _in corso_).
+
 * Tesi conclusiva: _da concordare con il relatore_.
 * Conoscenze acquisite dal corso: fondamenti di sistemi operativi Unix, architetture di rete, open-science e principi FAIR, programmazione Python per data management e parsing, redazione di un data management plan (DMP), virtualizzazione e container, introduzione al machine learning.
 
 [#ingmec]
-=== Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno (2017 - 2024)
+=== Laurea Triennale in Ingegneria Meccanica
+Presso l'##Università degli Studi di Salerno## (2017 - 2024)
+
 * Voto finale: 97/110.
-* Tesi di laurea: "Simulazione di un generatore eolico off-grid"
-* Conoscenze acquisite dal CdL (in estrema sintesi):
+* Tesi di laurea: "_Simulazione di un generatore eolico off-grid_"
+* Conoscenze acquisite dal corso di laurea:
   ** *Matematica e fisica*: funzioni elementari, num. complessi, analisi/studio della funzione - il che include derivate, limiti e integrali definiti o indefiniti; analisi su più variabili indipendenti, eq. differenziali fino al secondo ordine, integrali doppi e tripli, derivate parziali; vettori e matrici, rango/immagine/kernel/determinante etc., operazioni elementari; fisica generale, meccanica del punto materiale, di distribuzioni discrete di punti e del corpo rigido; moto rotativo e delle grandezze studiate in tale ambito (mom. d'inerzia, coppia, mom. angolare etc.); forze d'attrito; elettromagnetismo; meccanica del corpo rigido, fondamenti di algebra vettoriale, meccanica newtoniana e dalambertiana.
   ** *Tecnologia dei materiali*: classificazione dei materiali, principali configurazioni molecolari dei mat. metallici, trattamenti termici più importanti, diagrammi di stato (incl. _diagramma Ferro-Carbonio_), prove di resistenza (rottura, durezza, resilienza) sui metalli; lavorazioni per deformazione plastica a caldo e a freddo, lavorazioni per asportazione di truciolo, saldature, fonderia.
   ** *Scienza delle costruzioni e costruzione di macchine*: meccanica del corpo continuo, tensioni nel c.c., teoria tecnica della trave, statica della trave, principio di De Saint-Venant e criteri di resistenza; resistenza e verifica di strutture sottili tridimensionali, serbatoi a parete sottile, meccanica della frattura, fatica nei materiali, organi di macchine.
@@ -28,7 +33,7 @@ ShowToc: true
   ** *Disegno tecnico*: capacità di lettura dei disegni, normative ISO riguardanti messa in tavola e quotatura, tolleranze geometriche e dimensionali, rugosità e sua influenza sul moto relativo tra componenti in contatto, uso del software _AutoCAD_; fondamenti di grafica computazionale, curve e superfici, modellazione matematica di un oggetto, uso del software _Solidworks 2020_.
   ** *Altro*: organigramma aziendale, bilancio di esercizio, meccanica applicata alle macchine, sistemi di misura per l'industria 4.0, uso del software _LabVIEW_, fondamenti di chimica inorganica, fondamenti di informatica, uso del linguaggio/software _Matlab_, accenni di database, algebra relazionale e linguaggio _MySQL_.
 
-=== Corsi di formazione (attestati)
+=== Ulteriore formazione
 * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (24/06/2021 - 06/08/2021) - cod. prog. Formatemp "094 PROT D211 1983".
   ** Corso di formazione professionale da 240 ore su CAD 2D e 3D, CNC, prototipazione e stampa 3D.
   ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli). link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
@@ -37,18 +42,29 @@ ShowToc: true
   ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
 
 == Progetti minori
-=== Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno 2022 - agosto 2022)
-* Il progetto di gruppo consisteva nella realizzazione di una trasmissione per una pressa a doppio eccentrico della quale erano dati capacità nominale (in ton~f~), numero di colpi al minuto, rpm del motore, regolazione della corsa e corsa massima. L'ingombro e il materiale da utilizzare era a nostra discrezione; il gruppo frizione-freno, il telaio e il circuito dell'olio non erano richiesti.
+=== Progettazione di una pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno 2022 - agosto 2022)
+* Il progetto di gruppo consisteva nel dimensionamento di una trasmissione per una pressa a doppio eccentrico della quale erano dati capacità nominale (in ton~f~), numero di colpi al minuto, rpm del motore, regolazione della corsa e corsa massima. Le dimensioni e il materiale da utilizzare era a nostra discrezione; il gruppo frizione-freno, il telaio e il circuito dell'olio non erano richiesti.
 * La trasmissione era costituita da tre alberi: motore, veloce e lento. I primi due erano collegati mediante trasmissione a cinghia, poi il veloce e il lento erano collegati via ruote dentate. L'eccentrico sull'albero lento determinava la corsa del pistone ed era regolabile (a macchina spenta) mediante una corona dentata.
 * Il progetto è stato svolto insieme agli ingg. Raffaele Ceruso e Ionut Beato, come requisito di accesso all'esame di Costruzione di Macchine tenuto dal prof. https://docenti.unisa.it/026806/home[Raffaele Sepe, window=_blank]. __Il documento originale potrebbe essere disponibile su questo sito in futuro previa autorizzazione delle parti interessate__.
 
 == Capacità e competenze tecniche
 [#hardskill]
 === Hard skill
-* *Conoscenze accademiche di ingegneria meccanica*, ovvero: fondamenti di fisica, chimica e matematica, conoscenza delle principali tecnologie per la produzione industriale, metodi di progettazione e gestione di impianti industriali, disegno tecnico, progettazione e prototipazione, fondamenti di energetica, elettrica/elettrotecnica, condizionamento dell'aria, fondamenti di programmazione con LabVIEW, Matlab/Simulink, conoscenze di meccanica stutturale e applicata. +
-Ulteriori dettagli link:/cv/ingegnere#ingmec[sopra].
-* *Disegno tecnico e CAD*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura, capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri); esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
-* *Esperienza come sistemista informatico/programmatore*: competenze estese in informatica, vedere link:/cv/informatico[curriculum dedicato].
+#Conoscenze accademiche di ingegneria meccanica#
+
+* Preparazione accademica da ingegnere meccanico triennale come da Piano di Studi del CdL Triennale in Ing. Meccanica erogato all'Università di Salerno - link:https://web.archive.org/web/20250316223451/https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf[coorte 2017/18^]. 
+* Progettazione di impianti di condizionamento, scelta da catalogo di componenti idraulici/aeraulici.
+* Fondamenti di sistemi di misura per l'industria 4.0, uso di LabVIEW e Simulink; fondamenti di automazione con Python.
+
+#Disegno tecnico e CAD#
+
+* Capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola, linea e quotatura.
+* Capacità di utilizzo dei principali strumenti di misura delle lunghezze (metri, calibri, micrometri).
+* Esperienza con AutoCAD e NanoCAD per disegno 2D, con Catia V5, Solidworks e FreeCAD per modellazione 3D; conoscenza di base di Ansys.
+
+#Esperienza come sistemista informatico/programmatore#
+
+* Competenze estese in informatica negli ambiti _data management_, _system administration_, _programmazione_. link:/cv/informatico[Ulteriori informazioni].
 
 === Altre capacità e competenze
 {{< skill skill=altre >}}
@@ -60,9 +76,9 @@ Ulteriori dettagli link:/cv/ingegnere#ingmec[sopra].
 link:/curriculum/MEC.pdf[Scarica la versione PDF.^]
 
 === Allegati
-* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
-* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
-* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
+. link:/certifications/FCE_cambridge_first_B1.pdf[Certificato FCE liv. B2^]
+. link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
+. link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
 
 == Altri contenuti
 * link:/cv/comune[Curriculum generale]
