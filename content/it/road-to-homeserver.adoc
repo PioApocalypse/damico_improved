@@ -1,0 +1,38 @@
+---
+title: 'Road to Homeserver'
+date: 2025-03-23
+createdDate: 2025-03-23T16:03:12+01:00
+url: '/blog/road-to-homeserver'
+language: it
+ShowToc: true
+draft: true
+---
+
+Il 9 ottobre scorso ho avuto la brillante idea di acquistare nuovi pezzi per il mio PC. Siccome c'era da sostituire il processore e ho deciso di fare il salto a DDR5 ho finito per comprare una marea di pezzi nuovi che mi sono costati... meno del previsto tra sconti e altro. E con i pezzi vecchi? Ci ho fatto un homeserver.
+
+== Esigenze e problemi
+Tutto nasce dall'esigenza generale sempre più elevata di staccarmi da determinate soluzioni commerciali di cloud e altri servizi online strapieni di telemetria quali cloud storage, Spotify, inventari digitali e molto altro, mista a tre altre necessità specifiche:
+
+. Procurarmi quanto prima una soluzione di backup automatico per le mie macchine - quindi in sostanza PC e smartphone;
+. Mettermi su un server Nextcloud per eliminare l'esigenza di un costoso abbonamento a un servizio cloud storage, il più economico dei quali - MEGA - qualche mese fa offriva 2 TB a 50€/anno per tre anni;
+. Crearmi una macchina virtuale Windows per installare software e utility esclusivi (e.g. driver di vecchie stampanti o programmi per CAD) che non posso far girare su Linux.
+
+In pratica era necessario un oggetto che fungesse al contempo da NAS, da ipervisore, da cloud storage e da VM di calcolo. Ammortare i costi avrebbe richiesto anni se avessi deciso di comprare tutto da zero. E in realtà l'idea iniziale era proprio di prendere una B450M usata, montarci sopra un Ryzen 5 5600G (processore particolarmente economico da alimentare, che può scendere anche a 10 W di consumo in idle), comprarci case, PSU e drive nuovi, e montare tutto nel mio soggiorno su un vecchio UPS. In totale sarebbe venuto a costare dai 500€ a salire + 80-100€ circa per ogni 2 TB di storage, senza contare ovviamente il costo della corrente e dovendo infine fare i conti con l'impossibilità di trovare un case con un drive bay decente sotto i 200€. Il progetto sembrava dead-on-arrival soprattutto perché allora - e ancora oggi - ero nel fantastico mondo del lavoro precario e certi acquisti non volevo permettermeli.
+
+=== L'arte di arrangiarsi
+Perché non usare il vecchio PC? È vero che ho spostato molti dei suoi componenti (SSD, HDD, PSU...) sul nuovo PC, e degli originali rimanevano giusto CPU (un i7-7700k particolarmente energivoro), mobo, case e una coppia di RAM della Crucial acquistate in momenti differenti e *pure operanti a due frequenze differenti* - rendendo quel PC un bottleneck da manuale - ma il costo dei componenti mancanti era comunque più basso non dovendo acquistare CPU, case e mobo. Il costo minore dei componenti era compensato in qualche modo dal maggior consumo del processore, ma ci sarebbero voluti anni per raggiungere quei ~300€ risparmiati. Rimaneva il problema del costo degli hard disk CMR che ormai sono sempre più rari nelle linee Desktop/NAS: avrei dovuto ripiegare sugli Enterprise, dischi sui 100-150€ l'uno in versione da 2 TB, o direttamente sugli SSD, e un RAID 5 ne avrebbe richiesti almeno tre.
+
+La svolta? Questo negozio tedesco su Amazon che vendeva e spediva hard disk Enterprise di vari modelli a prezzi stracciati e *_nuovi di zecca_*. Dopo aver messo le mani su tre dischi Toshiba MG04ACA200E a 44€ l'uno e un 200N dello stesso modello ricondizionato (tasse incluse ma spedizione a parte) la spesa per procurarsi gli altri componenti era stranamente diventata più sopportabile. I dischi in questione sono rumorosi e consumano un po' (6 | 11 W) - sono pursempre vecchi Enterprise - ma "il prezzo acconcia la qualità", soprattutto se performance e affidabilità sono quelle dei MG04.
+
+=== Specifiche tecniche
+
+* CPU: *Intel Core i7-7700k*, spettacolare 4C/8T da 4.5 GHz di picco pensato per il gaming nel 2016 (infatti è overclockabile), con undervolt per ridurre al minimo i consumi di picco e in idle.
+* Motherboard: *ASUS Prime Z270-k*, tante lane PCI(e), due slot per NVMe, 6 porte SATA III e utility per semplificare l'overclock del processore.
+* RAM:
+* GPU: *MSI GeForce GTX 1050 Ti*, la regina delle schede video economiche negli anni '10 (e un po' anche oggi).
+* PSU: *be quiet! Pure Power 11*, un 80+Gold da 400 W silenziosissimo, economico ma purtroppo non-modulare.
+* Case:
+* SSD (main): *Samsung 860 EVO 500 GB*, lo avevo in giro per casa, prestazioni fenomenali ma resta comunque un SATA.
+* Storage di massa:
+    ** 3x *Toshiba Enterprise MG04ACA200E* nuovi da 2 TB in RAIDZ1 (~4 TB utili).
+    ** 1x *Toshiba Enterprise MG04ACA200N* ricondizionato da 2 TB per backup settimanali (carico basso).
