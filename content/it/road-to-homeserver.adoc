@@ -2,7 +2,7 @@
 title: 'Road to Homeserver'
 date: 2025-03-23
 createdDate: 2025-03-23T16:03:12+01:00
-url: '/blog/road-to-homeserver'
+url: 'blog/road-to-homeserver'
 language: it
 ShowToc: true
 draft: true

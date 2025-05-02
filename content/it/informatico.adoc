@@ -2,7 +2,7 @@
 title: 'Curriculum come Informatico'
 date: 2025-03-15
 createdDate: 2025-03-15T17:46:11+01:00
-url: '/cv/informatico'
+url: 'cv/informatico'
 layout: single # cv_comune
 language: it
 ShowToc: true

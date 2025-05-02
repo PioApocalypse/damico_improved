@@ -1,6 +1,6 @@
 ---
 title: "Archivio"
 layout: "archives"
-url: "/archives/"
+url: "blog/"
 summary: archives
 ---

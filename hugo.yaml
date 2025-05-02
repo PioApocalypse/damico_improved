@@ -27,7 +27,7 @@ languages:
     menu:
       main:
         - name: Archivio
-          url: /archives/
+          url: /blog/
           weight: 1
         - name: Curriculum
           url: /cv/
@@ -47,14 +47,14 @@ languages:
   #   menu:
   #     main:
   #       - name: Archive
-  #         url: /archives/
+  #         url: /blog/
   #         weight: 1
   #       - name: Curricula
   #         url: /cv/
   #         weight: 2
-        # - name: About me
-        #   url: /about/
-        #   weight: 2
+  #       - name: About me
+  #         url: /about/
+  #         weight: 2
 
 # PARAMETRI
 params:
