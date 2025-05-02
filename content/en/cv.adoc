@@ -1,0 +1,25 @@
+---
+title: "My Résumés"
+date: 2025-05-02
+createdDate: 2023-06-12T12:00:00+02:00
+language: "en"
+url: "cv/"
+---
+
+On this website you may download four different resumes: one is a single curriculum summarizing all the technical skills of Emanuele D'Amico, one is specific for my career as a mechanical engineer, one is for my career as an IT technician an the last is in link:https://europass.europa.eu/it[Europass^] format.
+
+A PDF version - different for concision, layout and content - is available for all of these curricula. Unlike their web counterparts the lack superfluous information (e.g. titles of my thesis’, details on specific skills acquired in every previous job experience). My Europass curriculum - which I personally dislike as a format - is present for the employers who still require it.
+
+> NOTE: To date (May 2025) PDF versions *are only available in Italian*.
+
+== Curriculum comune
+link:comune/[See online] or link:/curriculum/comune.pdf[download in PDF^].
+
+== Curriculum come ing. meccanico
+link:ingegnere/[See online] or link:/curriculum/MEC.pdf[download in PDF^].
+
+== Curriculum come informatico
+link:informatico/[See online] or link:/curriculum/SYS.pdf[download in PDF^].
+
+== Formato Europass
+link:curriculum/EP-SYS.pdf[Download in PDF^].

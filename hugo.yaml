@@ -52,9 +52,17 @@ languages:
   #       - name: Curricula
   #         url: /cv/
   #         weight: 2
-  #       - name: About me
-  #         url: /about/
-  #         weight: 2
+  #   params:
+  #     profileMode:
+  #       buttons:
+  #         - name: General Résumé
+  #           url: "cv/comune"
+  #         - name: As a Mechanical Engineer
+  #           url: "cv/ingegnere"
+  #         - name: As an IT Technician
+  #           url: "cv/informatico"
+
+
 
 # PARAMETRI
 params:
@@ -81,7 +89,7 @@ params:
       - name: Triennalia
         url: "https://github.com/PioApocalypse/Triennalia"
       - name: Che cos'è Triennalia?
-        url: "/blog/triennalia"
+        url: "blog/triennalia"
   mainSections: blog
 
 
