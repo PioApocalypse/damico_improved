@@ -1,8 +1,35 @@
 ---
 title: 'So gamer... You''re finally fed up with Windows 11'
-date: 2025-03-23
-createdDate: 2025-03-23T16:03:12+01:00
+date: 2025-05-03
+createdDate: 2025-05-03
 url: 'blog/gaming-on-linux'
 language: en
 ShowToc: true
 ---
+
+Recently YouTuber and gamer-word pronouncer PewDiePie has published link:https://www.youtube.com/watch?v=pVI_smLgTY0[this video^] on why he switched to Linux and why you should too. Without going too much into details about the video itself, following his post many subreddits have been flooded with newbies asking for where to begin, rate-my-setups and so on, and the same has happened on other social media like TikTok.
+
+Now we're reaching a terrifying age in history where the most powerful nations in the world are controlled by power-hungry bastards doing corpos' dirty work, no citizen is safe no matter their skin color or place of origin as long as they're poor and at the center of it all you have them - Microsoft - the richest US corporation having its claws on the entire world by shipping the single most used piece of garbage software to ever exist. So I understand why any sane gamer would be fed up with that one Candy Crush ad which makes their game drop 2 whole FPS.
+
+Worry not for I am here to give you a bunch of mixed general guidelines on Linux for beginners.
+
+== Rule zero: Linux is not for everyone
+
+Let's first address the elephant in the room: *Linux is not for everyone*. You will struggle, things will break at inconvenient times and that one specific software or game you use everyday must be replaced with alternatives. You will miss Word and Excel, you will miss that one competitive game you always play, what you will not miss is the bloatware and spyware that Windows is becoming in these really scary times. If this premise is already too much for you to handle please think twice about starting this adventure now since I can assure you if your first experience is tragic you will not want to try again Linux for years.
+
+The upside is that there's no League of Legends.
+
+=== Requirements
+During your first steps you must mature a certain ability to troubleshoot software if you haven't already, looking up solutions on wikis, manuals and other websites or even books. Google - or any other search engine - is your friend and some AI chatbots can prove useful with the proper prompts - although results are usually less accurate. At some point you will also need to use a command-line interface - which I'm sure you're familiar with if you've used any sort of activator before.
+
+Also as a general PSA: please learn to recognize malicious/non-official websites and avoid them like the plague. This especially applies to the tools and OS's listed in this article as many times websites like Softonic and similar shit will provide installers packed with all sort of malware.
+
+== Point 1: your first linux distro
+"But I'm scared of installing something on my PC, what if I want to go back to Windows?" There are two common ways of testing a Linux distribution before even attempting installation: either using an online live session on *link:https://distrosea.com/[DistroSea^]* or installing your OS of choice on a *live USB* and booting it from USB - which is more tricky but really worth the time.
+
+Start by looking up how to create and boot a live USB. It all comes down to downloading an ISO file, using a flashing tool like balenaEtcher or Rufus to create a live on your USB drive, making sure your safe boot is disabled (BIOS) and that Windows is properly shut down (fast boot disabled), rebooting with your USB plugged in and booting your OS of choice from there. Always download all you need from the developers' websites or GitHub repositories.
+
+=== Which distro do I choose?
+The choice is yours - and here are a few elements to base it on. First and foremost you might consider a distro's semplicity of use or its similarity to Windows' environment: while the first is a valid deciding factor the aspect of a Linux distribution is (often) easy to change.
+
+Some distros are made specifically with gaming in mind - namely Nobara Linux or Bazzite - others are harder to use but with the right setup might even perform better than Windows - like the Arch-based distros - and others are really easy to use and grant a decent performance right away - like the Debian-based Ubuntu or Pop_OS!; someone might also prefer an OS from their own country, someone might prefer a European distro. Personally I highly suggest *Linux Mint*, my first Linux distro which I still use in my office and on my laptop: based on Ubuntu (or directly Debian if it's LMDE) Mint is an excellent compromise between performance, learning curve, privacy, hardware support and personalization.

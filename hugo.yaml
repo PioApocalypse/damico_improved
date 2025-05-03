@@ -35,32 +35,32 @@ languages:
         # - name: Su di me
         #   url: /about/
         #   weight: 2
-  # en:
-  #   contentDir: content/en
-  #   # dataDir: data/en
-  #   languageName: "English"
-  #   weight: 2
-  #   taxonomies:
-  #     category: categories
-  #     tag: tags
-  #     series: series
-  #   menu:
-  #     main:
-  #       - name: Archive
-  #         url: /blog/
-  #         weight: 1
-  #       - name: Curricula
-  #         url: /cv/
-  #         weight: 2
-  #   params:
-  #     profileMode:
-  #       buttons:
-  #         - name: General Résumé
-  #           url: "cv/comune"
-  #         - name: As a Mechanical Engineer
-  #           url: "cv/ingegnere"
-  #         - name: As an IT Technician
-  #           url: "cv/informatico"
+  en:
+    contentDir: content/en
+    # dataDir: data/en
+    languageName: "English"
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: /blog/
+          weight: 1
+        - name: Curricula
+          url: /cv/
+          weight: 2
+    params:
+      profileMode:
+        buttons:
+          - name: General Résumé
+            url: "cv/comune"
+          - name: As a Mechanical Engineer
+            url: "cv/ingegnere"
+          - name: As an IT Technician
+            url: "cv/informatico"
 
 
 
