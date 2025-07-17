@@ -70,13 +70,13 @@ params:
     imageHeight: 240 # custom size
     imageClass: small-svg
     buttons:
-      - name: CV Comune
-        url: "cv/comune"
-      - name: Come Ing. Meccanico
+      - name: Chi sono
+        url: "cv/damico"
+      - name: Dott. Ing. Meccanico
         url: "cv/ingegnere"
-      - name: Come Informatico
+      - name: Sistemista Informatico
         url: "cv/informatico"
-      - name: Formato Europass
+      - name: CV Europass
         url: "curriculum/europass.pdf"
       - name: Triennalia
         url: "https://github.com/PioApocalypse/Triennalia"
