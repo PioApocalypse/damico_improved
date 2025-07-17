@@ -20,4 +20,4 @@ link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica 
 link:/cv/informatico/[Visualizza sul web] oppure link:/curriculum/SYS.pdf[scarica in PDF^].
 
 == Formato Europass
-link:/curriculum/EP-SYS.pdf[Scarica in PDF^].
+link:/curriculum/europass.pdf[Scarica in PDF^].

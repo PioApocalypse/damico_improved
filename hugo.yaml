@@ -77,7 +77,7 @@ params:
       - name: Come Informatico
         url: "cv/informatico"
       - name: Formato Europass
-        url: "curriculum/EP-SYS.pdf"
+        url: "curriculum/europass.pdf"
       - name: Triennalia
         url: "https://github.com/PioApocalypse/Triennalia"
       - name: Che cos'è Triennalia?

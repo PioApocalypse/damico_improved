@@ -71,7 +71,7 @@ ShowToc: true
 
 == Download
 link:/curriculum/comune.pdf[Scarica la versione PDF.^] +
-link:/curriculum/EP-SYS.pdf[Scarica il curriculum in formato Europass.^]
+link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass.^]
 
 === Allegati
 . link:/certifications/FCE_cambridge_first_B1.pdf[Certificato FCE liv. B2^]
