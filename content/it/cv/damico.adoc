@@ -5,7 +5,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 layout: cv_comune
 language: it
 ShowToc: true
-showbio: false
+showbio: true
 ---
 
 == Esperienze lavorative
