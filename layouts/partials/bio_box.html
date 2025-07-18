@@ -24,8 +24,8 @@
     </div>
   </div>
 
-  {{ if .nobio | default true }}
-    <div class="bio-column" style="border: 2px solid grey; border-radius: 5px; padding: 0px 20px;">
+  {{ if eq (.Param "showbio") true | default true }}
+    <div class="bio-column" style="border: 2px solid grey; border-radius: 5px; padding: 0px 1rem;">
       {{ $data := index site.Data site.Language.Lang }}
         <h2>{{ $data.bio.header }}</h2>
         {{ range $data.bio.lines }}
