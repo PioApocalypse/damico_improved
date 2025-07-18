@@ -1,5 +1,5 @@
-<div class="bio_box" style="margin-bottom:1.2em;">
-  <div class="first_block">
+<div class="bio-box" style="margin-bottom:1.2em;">
+  <div class="bio-column">
     <img src="/damico.jpg" alt="propic" style="margin-top:0px; padding:0px 10px;">
     <div style="padding: 2px 10px; text-align:left">
       {{ if site.Data.contacts.home }}
@@ -24,11 +24,13 @@
     </div>
   </div>
 
-  <div class="second_block" style="border: 2px solid grey; border-radius: 5px; padding: 0px 20px;">
-    {{ $data := index site.Data site.Language.Lang }}
-      <h2>{{ $data.bio.header }}</h2>
-      {{ range $data.bio.lines }}
-        <p>{{ . }}</p>
-      {{ end }}
-  </div>
+  {{ if .nobio | default true }}
+    <div class="bio-column" style="border: 2px solid grey; border-radius: 5px; padding: 0px 20px;">
+      {{ $data := index site.Data site.Language.Lang }}
+        <h2>{{ $data.bio.header }}</h2>
+        {{ range $data.bio.lines }}
+          <p>{{ . }}</p>
+        {{ end }}
+    </div>
+  {{ end }}
 </div>
