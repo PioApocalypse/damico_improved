@@ -8,14 +8,16 @@ ShowToc: true
 showbio: true
 ---
 
-== Esperienze lavorative
-  * *link:/cv/informatico/++#cnr-spin++[Sistemista informatico e programmatore, title=Dettagli]* per l'#Istituto CNR-SPIN# - località Monte S. Angelo, Napoli (07/2024 - 06/2025, _in corso_). +
-  Ruoli: manutenzione di rete, gestione server, sviluppo software open-source, gestione di cloud storage ed eLN link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[^?^^, title="Wikipedia: Electronic lab notebook"], data curation, assistenza tecnica.
-  * *link:/cv/informatico/++#icranet++[++Sistemista informatico++, title=Dettagli]* per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] - via Unità d'Italia, 224, Chieti - presso #ICRANet Pescara# (01/2023 - 06/2023). +
-  Ruoli: consulenza informatica, gestione server e portali web, organizzazione tecnica di meeting e convegni in presenza e online, assistenza tecnica, piccole riparazioni.
 
-=== Esperienze minori
-  * Webmaster per l'A.S.D. https://web.archive.org/web/20240513011758/https://iasa-italia.org/[IASA Italia^, title="iasa-italia.it su Internet Archive"] (2018 - 2021). Gestione e manutenzione di un sito web con CMS Wordpress.
+
+== Di cosa mi occupo
+Dal 2023 lavoro come sistemista informatico, mantenendo gli apparati di rete degli enti di ricerca per cui ho lavorato e gestendone account e permessi degli utenti connessi. +
+Per via delle posizioni che ho ricoperto ho dovuto in più occasioni ricoprire il ruolo del programmatore, quello del webmaster, quello del data manager/curator, quello dell'assistente tecnico occupandomi di piccole riparazioni e in alcuni casi quello dell'assistente alla regia - gestendo audio, presentazioni e registrazioni di meeting internazionali.
+
+Così dal 2023 a oggi ho:
+
+  * Lavorato come sistemista informatico e programmatore per l'#Istituto CNR-SPIN# - località Monte S. Angelo, Napoli (07/2024 - 12/2025, _in corso_), occupandomi di manutenzione di rete, gestione server di calcolo e ipervisori, sviluppo web, sviluppo software open-source, gestione di cloud storage ed eLN link:https://en.wikipedia.org/wiki/Electronic_lab_notebook[^?^^, title="Wikipedia: Electronic lab notebook"];
+  * Lavorato come sistemista informatico per conto di mailto:damiano@verzulli.it[Soabit s.r.l., title="Datore di lavoro: Damiano Verzulli"] presso #ICRANet Pescara# (01/2023 - 06/2023), occupandomi inoltre di consulenza informatica, gestione server di amministrazione, manutenzione di siti web legacy, organizzazione tecnica di meeting e convegni in presenza e online, assistenza tecnica, piccole riparazioni.
 
 === Progetti minori
   * Assemblaggio, setup e manutenzione di un piccolo server domestico con Proxmox VE per automazione routine di backup e self-hosting di servizi open source (Homebox, Nextcloud...).
