@@ -6,18 +6,15 @@ language: it
 url: "/cv/"
 ---
 
-Su questo portale sono disponibili quattro versioni del mio curriculum: uno comune che riassume tutte le competenze tecniche e skill lavorative di Emanuele D'Amico, uno specifico da ingegnere meccanico, uno specifico da informatico e uno in formato link:https://europass.europa.eu/it[Europass^].
+Questo portale è il webCV di Emanuele D'Amico.
 
-La versione in formato PDF di ciascun curriculum differisce dalla versione web per brevità, layout e contenuto. Rispetto alle versioni web i PDF sono privi di informazioni superflue (e.g. oggetti di tesi, conoscenze acquisite da ciascun ruolo). Il curriculum Europass è presente perché _purtroppo_ moltissime aziende ancora lo richiedono.
+Da questa pagina si possono raggiungere quattro checkpoint:
 
-== Curriculum comune
-link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/comune.pdf[scarica in PDF^].
+* #link:damico[Chi sono]#: pagina autobiografica in cui parlo sinteticamente di me - di chi sono e cosa so fare;
+* #link:ingegnere[Curriculum come Ingegnere Meccanico]#: CV da Dott. Tr. Ing. Meccanica incentrato su quello che ho appreso in università;
+* #link:informatico[Curriculum come Informatico]#: CV da Sistemista Informatico incentrato sulla mia carriera e formazione in ambito IT;
+* #link:/curriculum/europass.pdf[Europass (PDF)^]#: download di un CV unico in formato Europass.
 
-== Curriculum come ing. meccanico
-link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica in PDF^].
+// s
 
-== Curriculum come informatico
-link:/cv/informatico/[Visualizza sul web] oppure link:/curriculum/SYS.pdf[scarica in PDF^].
-
-== Formato Europass
-link:/curriculum/europass.pdf[Scarica in PDF^].
+---
