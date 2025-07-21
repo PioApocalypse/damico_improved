@@ -11,8 +11,8 @@ showbio: true
 == Più informazioni
 
 === Di cosa mi occupo
-Dal 2023 lavoro come sistemista informatico, mantenendo gli apparati di rete degli enti di ricerca per cui ho lavorato e gestendone account e permessi degli utenti connessi. +
-Per via delle posizioni che ho ricoperto ho dovuto in più occasioni ricoprire il ruolo del programmatore, quello del webmaster, quello del data manager/curator, quello dell'assistente tecnico occupandomi di piccole riparazioni e in alcuni casi quello dell'assistente alla regia - gestendo audio, presentazioni e registrazioni di meeting internazionali.
+Dal 2023 lavoro come *sistemista informatico*, mantenendo gli apparati di rete degli enti di ricerca per cui ho lavorato e gestendone account e permessi degli utenti connessi. +
+Per via delle posizioni che ho ricoperto ho dovuto in più occasioni ricoprire il ruolo del *programmatore*, quello del *webmaster*, quello del *data manager/curator*, quello dell'**assistente tecnico** occupandomi di piccole riparazioni e in alcuni casi quello dell'**assistente alla regia** - gestendo audio, presentazioni e registrazioni di meeting internazionali.
 
 Dal 2023 a oggi ho lavorato:
 
@@ -20,26 +20,29 @@ Dal 2023 a oggi ho lavorato:
   * Per l'#mailto:segreteria@spin.cnr.it[Istituto CNR-SPIN, title="Segreteria CNR-SPIN"]# - località Monte S. Angelo, Napoli (07/2024 - 12/2025, _in corso_).
 
 === Le mie competenze
-Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la Laurea Triennale in Ingegneria Meccanica presso l'Università di Salerno, alternando gli studi con esperienze lavorative e di formazione trasversale - anche all'estero. Durante gli studi ho collaborato con un team di colleghi nella riapertura informale del Linux User Group dell'università, specializzandomi nel contempo anche in ciò che riguarda il mondo dei sistemi Linux e dell'informatica in generale. Terminato il CdL ho poi completato un Corso di Perfezionamento in data management presso il SISSA (Trieste) in cui ho integrato conoscenze di programmazione in Python per gestione e parsing di dati scientifici.
+Oltre alla mia preparazione accademica da *Dottore in Ingegneria Meccanica Triennale* - cui devo le mie abilità organizzative/gestionali e le mie capacità di progettare macchine semplici, dimensionare o scegliere da catalogo componenti e di selezionare/dimensionare un'unità di condizionamento dell'aria sia a uso domestico sia a uso industriale - ho un ampio set di competenze anche nell'ambito dell'**informatica**. Ho familiarità con le *interfacce a riga di comando*, in particolare con i terminali dei sistemi operativi Unix/Linux, so programmare in *Python*, Matlab e altri linguaggi, so realizzare *siti web da zero* partendo dal server HTTP fino al frontend, so gestire *ipervisori* con molteplici servizi esposti a internet, so realizzare *siti/e-book documentali* con vari linguaggi di markup (pref. Asciidoc) e tanto altro.
+
+Ma al di sopra di ogni altra cosa #so usare bene il pacchetto Office#.
+
+=== La mia formazione
+Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la *Laurea Triennale in Ingegneria Meccanica* presso l'Università di Salerno, alternando gli studi con esperienze lavorative e di formazione trasversale - anche all'estero. Durante gli studi ho collaborato con un team di colleghi nella riapertura informale del *Linux User Group* dell'università, specializzandomi nel contempo anche in ciò che riguarda il mondo dei sistemi Linux e dell'informatica in generale. Terminato il CdL ho poi completato un Corso di Perfezionamento - *Master in Data Management and Curation* - presso la SISSA (Trieste), integrando conoscenze di programmazione in Python per gestione e parsing di dati scientifici.
 
 // Attualmente sono studente Magistrale di Informatica presso l'Università degli Studi di Salerno. 
 
 === I miei hobby
-Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer; in particolare ho un piccolo homelab che include un virtualizzatore realizzato con componenti "di fortuna" il quale espone una serie di servizi tra cui un Nextcloud, una VPN WireGuard e un Navidrome. Oltre a questo sono appassionato di videogiochi con particolare affetto nei confronti delle saghe di Dark Souls e Metal Gear.
+Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer; in particolare ho un *piccolo homelab* che include un virtualizzatore realizzato con componenti "di fortuna" il quale espone una serie di servizi tra cui un _Nextcloud_, una VPN _WireGuard_ e un _Navidrome_. Oltre a questo sono appassionato di *videogiochi* e provo particolare affetto nei confronti delle saghe di _Dark Souls_, _Monster Hunter_ e _Metal Gear_.
 
-Occasionalmente faccio anche volontariato, e sono volontario di Croce Rossa Italiana presso il Comitato di Benevento.
+Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di Benevento_, dove occasionalmente partecipo ad attvità in piazza od organizzative.
 
 == Dettagli
 === Percorso di studi
-  * _2012-2017_: *Diploma di Istruzione Superiore* conseguito presso il Liceo Scientifico Margherita Hack, Baronissi (ex IIS Baronissi) - voto di maturità 96/100. +
-  Tesi di maturità (vecchio ordinamento): "The Dark Side of The Moon: la faccia oscura della vita umana".
-  * _2017-2024_: *Laurea Triennale in Ingegneria Meccanica* presso l'Università degli Studi di Salerno - voto finale 97/110. +
-  Tesi di laurea: "Simulazione di un generatore eolico off-grid".
-  * _2024-2025_: *Master in Data Management and Curation* presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste. +
+  * _2012-2017_: *Diploma di Istruzione Superiore* conseguito presso il Liceo Scientifico Margherita Hack, Baronissi (ex IIS Baronissi) - voto di maturità 96/100.
+  * _2017-2024_: *Laurea Triennale in Ingegneria Meccanica* presso l'Università degli Studi di Salerno - voto finale 97/110.
+  * _2024-2025_: *Master in Data Management and Curation* presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste.
 
 === Elaborati di tesi
-  * Maturità: "*The Dark Side of The Moon: la faccia oscura della vita umana*" (link non disponibile)
-  * Triennale: "*Simulazione di un generatore eolico off-grid*" (link non disponibile)
+  * Maturità: "link:/tesina_maturità.pdf[*The Dark Side of The Moon: la faccia oscura della vita umana*^]".
+  * Triennale: "*Simulazione di un generatore eolico off-grid*" (link non disponibile).
   * MDMC: "link:https://doi.org/10.5281/zenodo.15700974[*AMORE: a GUI to promote migration from paper to eLN*^]".
 //Sezione per i lavori di tesi? Meglio se con PDF?
 
@@ -57,22 +60,22 @@ Occasionalmente faccio anche volontariato, e sono volontario di Croce Rossa Ital
   * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet^] con CMS Hugo (_cancellato_).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
-== Capacità e competenze tecniche
-=== Da ingegnere e progettista meccanico
-> link:/cv/ingegnere#hardskill[Ulteriori informazioni]
+// == Capacità e competenze tecniche
+// === Da ingegnere e progettista meccanico
+// > link:/cv/ingegnere#hardskill[Ulteriori informazioni]
 
-* *Conoscenze accademiche di ingegneria meccanica*: preparazione accademica da ingegnere meccanico triennale; progettazione di impianti di condizionamento, scelta da catalogo di componenti idraulici/aeraulici.
-* *Disegno tecnico e CAD*: capacità di lettura dei disegni ISO; esperienza con AutoCAD, NanoCAD, Catia V5, Solidworks e FreeCAD; conoscenza di base di Ansys.
+// * *Conoscenze accademiche di ingegneria meccanica*: preparazione accademica da ingegnere meccanico triennale; progettazione di impianti di condizionamento, scelta da catalogo di componenti idraulici/aeraulici.
+// * *Disegno tecnico e CAD*: capacità di lettura dei disegni ISO; esperienza con AutoCAD, NanoCAD, Catia V5, Solidworks e FreeCAD; conoscenza di base di Ansys.
 
-=== Da informatico
-> link:/cv/informatico#hardskill[Ulteriori informazioni]
+// === Da informatico
+// > link:/cv/informatico#hardskill[Ulteriori informazioni]
 
-* *Sistemi operativi*: Linux, Windows (XP – 11); esperienza con MacOS e Android; capacità di ripristino OS danneggiato; esperienza con interfacce a riga di comando.
-* *Sviluppo web*: fondamenti di programmazione web front-end; CMS/framework vari (Hugo, Wordpress, Django, Flask...).
-* *Manutenzione di rete*: manutenzione di PC da ufficio e server; backup e versioning, monitoraggio risorse di rete, accesso remoto alle macchine; virtualizzazione, containerizzazione e automazione.
-* *Programmazione*: Python, LabVIEW, Matlab/Simulink, Bash; fondamenti di GNU Octave, C e altri linguaggi, gestione database SQL; esperienza con git.
-* *Office*: competenza nelle suite da ufficio più diffuse - MS Office 365, LibreOffice, Google Docs; automazione con libreria Python "docx"; linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText; esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
-* *Self-hosting*: gestione server Apache HTTP e certificati SSL; installazione e gestione di applicativi server sia in bare metal sia via Docker (es. Nextcloud, Snipeit...).
+// * *Sistemi operativi*: Linux, Windows (XP – 11); esperienza con MacOS e Android; capacità di ripristino OS danneggiato; esperienza con interfacce a riga di comando.
+// * *Sviluppo web*: fondamenti di programmazione web front-end; CMS/framework vari (Hugo, Wordpress, Django, Flask...).
+// * *Manutenzione di rete*: manutenzione di PC da ufficio e server; backup e versioning, monitoraggio risorse di rete, accesso remoto alle macchine; virtualizzazione, containerizzazione e automazione.
+// * *Programmazione*: Python, LabVIEW, Matlab/Simulink, Bash; fondamenti di GNU Octave, C e altri linguaggi, gestione database SQL; esperienza con git.
+// * *Office*: competenza nelle suite da ufficio più diffuse - MS Office 365, LibreOffice, Google Docs; automazione con libreria Python "docx"; linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText; esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
+// * *Self-hosting*: gestione server Apache HTTP e certificati SSL; installazione e gestione di applicativi server sia in bare metal sia via Docker (es. Nextcloud, Snipeit...).
 
 === Altre capacità e competenze
 {{< skill skill=altre >}}
