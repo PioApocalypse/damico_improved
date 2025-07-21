@@ -84,7 +84,7 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 {{< skill skill=soft >}}
 
 == Download
-link:/curriculum/comune.pdf[Scarica la versione PDF.^] +
+link:/curriculum/SYS.pdf[Scarica la versione PDF.^] +
 link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass.^]
 
 === Allegati
@@ -92,8 +92,8 @@ link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass.^]
 . link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
 . link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
 
-link:/curriculum/comune_allegati.pdf[Scarica CV e allegati (PDF unico).^] +
-link:/certifications/allegati_cv.pdf[Scarica solo gli allegati.^]
+// link:/curriculum/comune_allegati.pdf[Scarica CV e allegati (PDF unico).^] +
+link:/certifications/allegati_cv.pdf[Scarica tutti gli allegati.^]
 
 // [cols=3]
 // |===
