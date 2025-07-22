@@ -39,17 +39,17 @@ Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer;
 
 Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di Benevento_, dove occasionalmente partecipo ad attvità in piazza od organizzative.
 
-== Dettagli
-=== Percorso di studi
-  * _2012-2017_: *Diploma di Istruzione Superiore* conseguito presso il Liceo Scientifico Margherita Hack, Baronissi (ex IIS Baronissi) - voto di maturità 96/100.
-  * _2017-2024_: *Laurea Triennale in Ingegneria Meccanica* presso l'Università degli Studi di Salerno - voto finale 97/110.
-  * _2024-2025_: *Master in Data Management and Curation* presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste.
+// == Dettagli
+// === Percorso di studi
+//   * _2012-2017_: *Diploma di Istruzione Superiore* conseguito presso il Liceo Scientifico Margherita Hack, Baronissi (ex IIS Baronissi) - voto di maturità 96/100.
+//   * _2017-2024_: *Laurea Triennale in Ingegneria Meccanica* presso l'Università degli Studi di Salerno - voto finale 97/110.
+//   * _2024-2025_: *Master in Data Management and Curation* presso la Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste.
 
-=== Elaborati di tesi
-  * Maturità: "link:/tesina_maturità.pdf[*The Dark Side of The Moon: la faccia oscura della vita umana*^]".
-  * Triennale: "*Simulazione di un generatore eolico off-grid*" (link non disponibile).
-  * MDMC: "link:https://doi.org/10.5281/zenodo.15700974[*AMORE: a GUI to promote migration from paper to eLN*^]".
-//Sezione per i lavori di tesi? Meglio se con PDF?
+// === Elaborati di tesi
+//   * Maturità: "link:/tesina_maturità.pdf[*The Dark Side of The Moon: la faccia oscura della vita umana*^]".
+//   * Triennale: "*Simulazione di un generatore eolico off-grid*" (link non disponibile).
+//   * MDMC: "link:https://doi.org/10.5281/zenodo.15700974[*AMORE: a GUI to promote migration from paper to eLN*^]".
+// //Sezione per i lavori di tesi? Meglio se con PDF?
 
 === Certificazioni
 [cols="3,3,2,1"]
