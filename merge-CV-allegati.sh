@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo NON USARE QUESTO SCRIPT!
+exit 1
+
 declare -a array=("SYS" "MEC" "comune")
 if [[ $(pwd | awk -F'/' '{print $NF}') != "curriculum" ]]; then
    cd static/curriculum/

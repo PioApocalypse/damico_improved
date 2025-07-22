@@ -41,7 +41,7 @@ draft: true
 * "*<Nome del corso>*" (dd/mm/yyyy - dd/mm/yyyy) - cod. <att./prog./prot.> (eventuale link)
   ** Descrizione del corso.
   ** Organizzato da <Organizzatore>.
-  ** link:/certifications/<link>[Attestato di frequenza., window=_blank]
+  ** link:/documenti/<link>[Attestato di frequenza., window=_blank]
 
 == Progetti minori
 === Nome progetto (mese anno - mese anno)
@@ -78,11 +78,6 @@ Partecipanti, relatori, altri tecnici, incaricante, commissione esaminatrice.
 
 == Download
 link:/curriculum/comune.pdf[Scarica la versione PDF.^]
-
-=== Allegati
-* link:/certifications/FCE_cambridge_first_B1.pdf[All. 1 - Certificato FCE liv. B2^]
-* link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[All. 2 - Attestato corso di formazione generale per i lavoratori (OPN Italia)^]
-* link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[All. 3 - Attestato corso "DIGITAL MANUFACTURING" (EDESIA/WINTIME)^]
 
 == Altri contenuti
 * link 1 
