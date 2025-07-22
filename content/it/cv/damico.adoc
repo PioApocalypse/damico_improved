@@ -47,17 +47,29 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 //Sezione per i lavori di tesi? Meglio se con PDF?
 
 === Attestati e certificazioni
-  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
-  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
-  * Esperienza di studio all'estero *Estate INPSieme 2017* in Greenwich, Londra, della durata di quattro settimane compresa di corso intensivo di lingua inglese (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
-  * Certificazione *_Cambridge English First_, Level B2* (luglio 2016) - cert. num. 0053909676. +
-  Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*.
+[cols="3,3,2,1"]
+|===
+| Nome percorso | Ambito | Codice | Download
+
+| *Cambridge English First, Level B2* | Lingua inglese | 0053909676 | link:/certifications/FCE_cambridge_first_B1.pdf[Link^]
+| *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Link^]
+| Formazione Generale +
+per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del certificato su link:https://opnitalialavoro.it/verifica-dellautenticita/[opnitalialavoro.it, window=_blank]; i campi "nome" e "cognome" sono caps-insensitive (es. D'AMICO = d'amico) ma l'apostrofo è necessario.] | link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Link^]
+| Estate INPSieme 2017 | Lingua inglese, estero | N/A  | link:/certifications/Estate_INPSieme_2017.jpg[Link^]
+
+|===
+
+
+// * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+// * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
+// * Esperienza di studio all'estero *Estate INPSieme 2017* in Greenwich, Londra, della durata di quattro settimane compresa di corso intensivo di lingua inglese (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
+// * *_Cambridge English First_, Level B2* (luglio 2016) - cert. num. 0053909676. +
+// Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*. link:/certifications/FCE_cambridge_first_B1.pdf[Vedi certificato.^]
 
 === Progetti minori
-  * Assemblaggio, setup e manutenzione di un piccolo server domestico con Proxmox VE per automazione routine di backup e self-hosting di servizi open source (Homebox, Nextcloud...).
-  * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, riutilizzando tema e contenuti del prototipo scartato per il nuovo sito ICRANet.
-  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver.
-  * Realizzazione prototipo di un nuovo sito per link:https://it.wikipedia.org/wiki/ICRANet[ICRANet^] con CMS Hugo (_cancellato_).
+  * Assemblaggio, setup e manutenzione di un piccolo homelab, attualmente comprendente un server domestico con Proxmox VE per self-hosting di servizi open source (Navidrome, Nextcloud...), e un NAS ODROID-HC4 per backup (2025 - _in corso_).
+  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver (2023 - _in corso_).
+  * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, utilizzando una versione custom del tema Hugo-Hero (novembre 2024).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 // == Capacità e competenze tecniche
