@@ -1,6 +1,6 @@
 ---
 title: "Chi sono"
-date: 2025-03-15
+date: 2025-07-22
 createdDate: 2023-06-12T12:00:00+02:00
 layout: cv_comune
 language: it
@@ -120,7 +120,7 @@ link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass.^]
 // * link:/cv/damico[Chi sono]
 * link:/cv/esperienze[Esperienze lavorative e formative]
 * link:/cv/competenze[Competenze tecniche]
-* link:/cv/europass[Formato Europass]
+* link:/curriculum/europass.pdf[Europass (PDF)^]
 
 
 // [cols=3]

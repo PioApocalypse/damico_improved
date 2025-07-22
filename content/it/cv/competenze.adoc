@@ -1,0 +1,7 @@
+---
+title: "Competenze tecniche"
+date: 2025-07-22
+createdDate: 2025-07-22T15:13:00+02:00
+language: it
+ShowToc: true
+---

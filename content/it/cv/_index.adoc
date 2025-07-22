@@ -1,6 +1,6 @@
 ---
 title: "Curricoli"
-date: 2025-02-27
+date: 2025-07-22
 createdDate: 2023-06-12T12:00:00+02:00
 language: it
 url: "/cv/"
@@ -11,9 +11,9 @@ Questo portale è il webCV di Emanuele D'Amico.
 Da questa pagina si possono raggiungere quattro checkpoint:
 
 * #link:damico[Chi sono]#: pagina autobiografica in cui parlo sinteticamente di me - di chi sono e cosa so fare;
-* #link:ingegnere[Curriculum come Ingegnere Meccanico]#: CV da Dott. Tr. Ing. Meccanica incentrato su quello che ho appreso in università;
-* #link:informatico[Curriculum come Informatico]#: CV da Sistemista Informatico incentrato sulla mia carriera e formazione in ambito IT;
-* #link:/curriculum/europass.pdf[Europass (PDF)^]#: download di un CV unico in formato Europass.
+* #link:/cv/esperienze[Esperienze lavorative e formative]#: approfondimenti sulle mie esperienze professionali e accademiche, inclusa la formazione extracurricolare;
+* #link:/cv/competenze[Competenze tecniche]#: più dettagli su quello che so fare nei miei campi, incluse le competenze certificate;
+* #link:/curriculum/europass.pdf[Europass (PDF)^]#: download di un CV unico in formato link:https://europass.europa.eu/it[Europass^] - più sintetico ma standardizzato, quindi adatto al settore pubblico.
 
 // s
 

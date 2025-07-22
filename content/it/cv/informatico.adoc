@@ -6,6 +6,7 @@ url: '/cv/informatico'
 layout: single # cv_comune
 language: it
 ShowToc: true
+draft: true
 ---
 
 == Esperienze lavorative

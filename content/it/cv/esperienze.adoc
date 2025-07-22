@@ -1,0 +1,8 @@
+---
+title: "Esperienze lavorative e formative"
+date: 2025-07-22
+createdDate: 2025-07-22T15:12:00+02:00
+language: it
+ShowToc: true
+---
+
