@@ -59,7 +59,7 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | *Cambridge English First, Level B2* | Lingua inglese | 0053909676 | link:/documenti/università/FCE_cambridge_first_B1.pdf[Link^]
 | *Forcepoint NGFW Administrator* | Sistemi informatici | 014242/2025 | link:/documenti/CNR/Forcepoint_NGFW_Administrator_7793204_23218.pdf[Link^]
 | *Master in Data Management and Curation* | Data management | -- | link:/documenti/CNR/MDMC_ITA.pdf[Link^]
-| *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Link^]
+| *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/digital_manufacturing_P21WT036.pdf[Link^]
 |===
 
 ==== Altri attestati
@@ -115,8 +115,8 @@ per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di
 {{< skill skill=soft >}}
 
 == Download
-link:/curriculum/SYS.pdf[Scarica la versione PDF.^] +
-link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass.^]
+link:/curriculum/SYS.pdf[Scarica la versione PDF^] +
+link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass^]
 
 == Altre pagine
 // * link:/cv/damico[Chi sono]
