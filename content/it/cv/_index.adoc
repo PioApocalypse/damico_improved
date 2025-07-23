@@ -10,7 +10,7 @@ Questo portale è il webCV di Emanuele D'Amico.
 
 Da questa pagina si possono raggiungere quattro checkpoint:
 
-* #link:damico[Chi sono]#: pagina autobiografica in cui parlo sinteticamente di me - di chi sono e cosa so fare;
+* #link:damico[Chi sono]#: pagina autobiografica in cui parlo sinteticamente e con tono informale di chi sono e di cosa so fare;
 * #link:/cv/esperienze[Esperienze lavorative e formative]#: approfondimenti sulle mie esperienze professionali e accademiche, inclusa la formazione extracurricolare;
 * #link:/cv/competenze[Competenze tecniche]#: più dettagli su quello che so fare nei miei campi, incluse le competenze certificate;
 * #link:/curriculum/europass.pdf[Europass (PDF)^]#: download di un CV unico in formato link:https://europass.europa.eu/it[Europass^] - più sintetico ma standardizzato, quindi adatto al settore pubblico.
