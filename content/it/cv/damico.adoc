@@ -72,7 +72,9 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | Formazione Generale +
 per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del certificato su link:https://opnitalialavoro.it/verifica-dellautenticita/[opnitalialavoro.it, window=_blank]; i campi "nome" e "cognome" sono caps-insensitive (es. D'AMICO = d'amico) ma l'apostrofo è necessario.] | link:/documenti/università/Sicurezza_sul_Lavoro_P21WT036.pdf[Link^]
 | Estate INPSieme 2017 | Lingua inglese, estero | N/A  | link:/documenti/università/Estate_INPSieme_2017.jpg[Link^]
-
+| Corso di Formazione +
+per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di-formazione-per-volontari.pdf[Link^]
+| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/percorso-gioventù.pdf[Link^]
 |===
 
 
