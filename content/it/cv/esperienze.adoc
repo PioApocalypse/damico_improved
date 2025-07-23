@@ -17,37 +17,37 @@ In qualità di sistemista informatico mi sono occupato di *assistenza tecnica* a
 In qualità di programmatore ho sviluppato l'**interfaccia link:https://github.com/PioApocalypse/AMORE/[AMORE^]**, una GUI open-source per l'inserimento rapido di campioni sull'eLN della sede di Napoli (link:https://elabftw.fisica.unina.it/[eLabFTW^]); i dettagli di AMORE sono nell'link:#amore[elaborato di tesi] del MDMC. Ho anche realizzato alcuni piccoli *siti web statici* - come ad esempio quello del progetto link:https://foxes.spin.cnr.it/[FOXES^].
 
 ==== Principali tecnologie utilizzate
-* Sistemi operativi *Linux*, sia desktop (Linux Mint, Fedora) sia server (Ubuntu, Almalinux);
-* Strumenti di gestione remota di sistemi di calcolo, in particolare *ssh* e *telnet*;
-* CMS *Hugo* per la creazione di piccoli siti web;
-* *Proxmox Virtual Environment* come OS sui nodi del virtualizzatore;
-* *Python 3* per data parsing/management e sviluppo back-end;
+* Sistemi operativi *Linux*, sia desktop (Linux Mint, Fedora) sia server (Ubuntu, Almalinux).
+* Strumenti di gestione remota di sistemi di calcolo, in particolare *ssh* e *telnet*.
+* CMS *Hugo* per la creazione di piccoli siti web.
+* *Proxmox Virtual Environment* come OS sui nodi del virtualizzatore.
+* *Python 3* per data parsing/management e sviluppo back-end.
 * Varie in ordine sparso: git, Docker Compose, server HTTP/reverse proxy vari.
 
 [#icranet]
 === Sistemista informatico, manutentore di rete, tecnico del suono (01/2023 - 06/2023)
 Presso #ICRANet Pescara#, per conto di #Soabit s.r.l#.
 
-In qualità di sistemista informatico mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica. Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
+In qualità di sistemista informatico mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di link:https://it.wikipedia.org/wiki/ICRANet[ICRANet Pescara^], centro di ricerca internazionale di astrofisica relativistica. Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
 
 Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
 
-==== Tecnologie utilizzate:
-
-* Sistemi operativi *Linux*, sia desktop (Ubuntu) sia server (CentOS 7);
-* Strumenti di gestione remota di sistemi di calcolo, in particolare *Remmina* per desktop remoto (GUI) e *ssh* per accesso remoto alle shell più macchine Linux (webserver, mail-gw etc.) e Windows (via putty);
-* Monitorning delle risorse in rete via *Zabbix*;
-* Backup con *Bareos*, *Rsync*;
-* *Google Workspace* per amministrazione delle collaborazioni tra utenti interni ed esterni alla sede di Pescara;
-* CMS *Joomla!* (molto outdated) per sito web, in combinazione con plain-HTML e CSS;
-* Varie in ordine sparso: git, CMS Hugo/Antora, Asciidoctor e Markdown, Apache HTTP Server, certbot.
+==== Principali tecnologie utilizzate:
+* Sistemi operativi *Linux*, sia desktop (Ubuntu) sia server (CentOS 7).
+* Strumenti di gestione remota di sistemi di calcolo, in particolare *Remmina* per desktop remoto (GUI) e *ssh* per accesso remoto alle shell più macchine Linux (webserver, mail-gw etc.) e Windows (via putty).
+* Monitorning delle risorse in rete via *Zabbix*.
+* Gestione routine di backup con *Bareos* - o backup manuali con *Rsync*.
+* *Google Workspace* per amministrazione delle collaborazioni tra utenti interni ed esterni alla sede di Pescara.
+* *Windows Server 2003* per la gestione delle cartelle di rete.
+* Varie in ordine sparso: git, CMS Hugo, Asciidoc e Markdown per documentazione, Apache HTTP Server, certbot, Joomla!.
 
 [#iasait]
-=== Webmaster dell'A.S.D. IASA Italia (2018 - 2021).
-* Dopo la maturità mi sono occupato nel tempo libero di aggiornare occasionalmente il (vecchio) sito web dell'associazione sportiva dilettantistica IASA Italia - di cui sono stato anche membro in tale occasione.
-* La maggior parte delle modifiche erano fatte tramite la console admin di Wordpress, e richiedevano solo una conoscenza di base di HTML oltre ovviamente a una certa dimestichezza con il CMS Wordpress.
-* Nel corso di tale esperienza ho acquisito una conoscenza base del CMS Wordpress e della gestione dei contenuti sullo stesso.
-* link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
+=== Webmaster WordPress (2018 - 2021).
+Per conto di #A.S.D. IASA Italia#.
+
+Dopo la maturità mi sono occupato nel tempo libero di aggiornare occasionalmente il sito web dell'associazione sportiva dilettantistica IASA Italia - di cui sono stato anche membro nello stesso periodo. Le modifiche dei contenuti e la gestione dei plugin avvenivano tramite la console admin di WordPress, con la quale ho familiarizzato durante questa esperienza; talvolta ho anche messo mano direttamente ai sorgenti HTML e CSS per ottenere stili personalizzati al di fuori del tema di base.
+
+link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
 
 
 == Formazione scolastica e accademica
@@ -58,14 +58,12 @@ Altro elemento chiave del lavoro era fornire assistenza al personale interno o e
 * _2024-2025_: *Master in Data Management and Curation* +
     _Scuola Internazionale Superiore di Studi Avanzati_ (SISSA), Trieste.
 
-=== Elaborati di tesi
-
-==== Maturità: "The Dark Side of The Moon: la faccia oscura della vita umana".
+=== Tesi di Maturità: "The Dark Side of The Moon: la faccia oscura della vita umana".
 Il soggetto scelto per la mia tesi di maturità è stato l'iconico album dei Pink Floyd - The Dark Side of the Moon. Ogni brano è analizzato come parte di uno dei due medley del disco e come opera a sé stante, identificando l'aspetto della vita umana che esso vuole rappresentare e parafrasandone il testo; in base al tema poi ciascun brano è collegato a una delle materie affrontate in sede di esame.
 
 Il PDF originale può essere scaricato link:/tesina_maturità.pdf[su questo sito^].
 
-==== Triennale: "Simulazione di un generatore eolico off-grid".
+=== Tesi Triennale: "Simulazione di un generatore eolico off-grid".
 > In questo elaborato si presenta un modello per la simulazione in ambiente Simulink di un generatore eolico. I risultati delle simulazioni in condizioni operative differenti permettono di valutare l'effetto della variabilità del carico sulla produzione di energia e sulle condizioni operative della turbina. +
  +
 Dopo un'introduzione che esamina lo stato dell'arte dell'energia eolica off-grid, la tesi sviluppa un modello matematico di ciascun elemento fisico del sistema - con particolare focus sul generatore - da cui è ricavato il subsystem corrispondente nel simulatore, quindi illustra una soluzione che permette di mantenere le condizioni operative ideali anche al variare del carico.
@@ -75,9 +73,39 @@ Come da abstract la tesi gira intorno alla realizzazione del modello Simulink di
 Il link per la consultazione non è al momento disponibile.
 
 [#amore]
-==== MDMC: "AMORE: a GUI to promote migration from paper to eLN".
+=== Tesi del MDMC: "AMORE: a GUI to promote migration from paper to eLN".
 > This thesis presents the development of AMORE (Autonomous Management of Outputs for Research Efficiency), a lightweight web-based software designed to facilitate the transition from traditional and unreliable paper notebooks to a more sophisticated eLN (electronic laboratory notebook) - specifically eLabFTW. +
  +
 The core objective is the alignment of the data collected by researchers with the FAIR principles. While eLabFTW itself already provides the tools to pursue this  objective an additional step was needed to enforce a certain standard while simplifying the entry of new data and the update of old assets on the eLN: AMORE enforces our own standard in terms of sample nomenclature, provides an elementary sample tracking feature and presents to the user a simple interface to interact with.
 
 Il PDF originale ha un proprio DOI e può essere visualizzato link:https://doi.org/10.5281/zenodo.15700974[su Zenodo^].
+
+== Formazione extracurricolare
+// === Certificazione lingua inglese: Cambridge English First, Level B2
+// === Corso professionale: Forcepoint NGFW Administrator
+// === Certificazione professionale: Linux Foundation Certified Associate
+
+=== Corso professionale: Digital Manufacturing - Prototipazione 3D e CNC
+Nell'ambito delle 240 ore del corso professionale in oggetto ho studiato diversi aspetti della manifattura nell'ambito della cosiddetta Industria 4.0, in particolare il ciclo di vita di un prodotto, le linee di assemblaggio e il controllo della qualità, fino ad approfondire la progettazione meccanica assistita da calcolatore - in particolare con i software FreeCAD, NanoCAD e Catia V5 - le tecniche di misura con gli strumenti tradizionali, le macchine a controllo numerico e la stampa 3D. 
+
+==== Argomenti del corso
+* *Sicurezza sul lavoro* (81/08) e *diritti e doveri* dei lavoratori.
+* Organizzazione aziendale 4.0 e *gestione della qualità*.
+* *Tecnologia generale dei materiali*.
+* *Elementi di disegno meccanico*, strumenti di misura, CAD e cicli di lavoro.
+* Prototipazione rapida, *stampa 3D* e *CNC*.
+
+// === Formazione universitaria non certificata
+// Malgrado non sia mai stato ufficialmente iscritto ad alcun Corso di Laurea Triennale in Scienze dell'Informazione ho comunque approfondito alcune delle materie caratterizzanti di tali corsi di laurea. In particolare, grazie anche alle dispense pubbliche di studenti e docenti del Dipartimento di Informatica dell'Università degli Studi di Salerno, sono riuscito ad acquisire le competenze offerte dai seguenti corsi universitari di primo livello:
+
+// * Architettura degli Elaboratori;
+// * Programmazione e Strutture Dati;
+// * Programmazione Orientata agli Oggetti;
+// * Reti di Calcolatori;
+// * Basi di Dati I.
+
+== Altre pagine
+* link:/cv/damico[Chi sono]
+// * link:/cv/esperienze[Esperienze lavorative e formative]
+* link:/cv/competenze[Competenze tecniche]
+* link:/curriculum/europass.pdf[Europass (PDF)^]
