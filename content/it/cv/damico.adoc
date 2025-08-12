@@ -8,8 +8,11 @@ ShowToc: true
 showbio: true
 ---
 
+
+[#inizio]
 == Più informazioni
 
+[#chi-sono]
 === Di cosa mi occupo
 Dal 2023 lavoro come *sistemista informatico*, mantenendo gli apparati di rete degli enti di ricerca per cui ho lavorato e gestendone account e permessi degli utenti connessi. +
 Per via delle posizioni che ho ricoperto ho dovuto in più occasioni ricoprire il ruolo del *programmatore*, quello del *webmaster*, quello del *data manager/curator*, quello dell'**assistente tecnico** occupandomi di piccole riparazioni e in alcuni casi quello dell'**assistente alla regia** - gestendo audio, presentazioni e registrazioni di meeting internazionali.
@@ -19,21 +22,26 @@ Dal 2023 a oggi ho lavorato:
   * Per conto di mailto:damiano@verzulli.it[_Soabit s.r.l._, title="Datore di lavoro: Damiano Verzulli"] presso *ICRANet Pescara* (01/2023 - 06/2023);
   * Per l'**mailto:segreteria@spin.cnr.it[Istituto CNR-SPIN, title="Segreteria CNR-SPIN"]** - località Monte S. Angelo, Napoli (07/2024 - 12/2025, _in corso_).
 
+[#competenze]
 === Le mie competenze
 Oltre alla mia preparazione accademica da *Dottore in Ingegneria Meccanica Triennale* - cui devo le mie abilità organizzative/gestionali e le mie capacità di progettare macchine semplici, dimensionare o scegliere da catalogo componenti e di selezionare/dimensionare un'unità di condizionamento dell'aria sia a uso domestico sia a uso industriale - ho un ampio set di competenze anche nell'ambito dell'**informatica**. Ho familiarità con le *interfacce a riga di comando*, in particolare con i terminali dei sistemi operativi Unix/Linux, so programmare in *Python*, Matlab e altri linguaggi, so realizzare *siti web da zero* partendo dal server HTTP fino al frontend, so gestire *ipervisori* con molteplici servizi esposti a internet, so realizzare *siti/e-book documentali* con vari linguaggi di markup (pref. Asciidoc) e tanto altro.
 
 Ma al di sopra di ogni altra cosa #so usare bene il pacchetto Office#.
 
+[#formazione]
 === La mia formazione
 Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la *Laurea Triennale in Ingegneria Meccanica* presso l'Università di Salerno, alternando gli studi con esperienze lavorative e di formazione trasversale - anche all'estero. Durante gli studi ho collaborato con un team di colleghi nella riapertura informale del *Linux User Group* dell'università, specializzandomi nel contempo anche in ciò che riguarda il mondo dei sistemi Linux e dell'informatica in generale. Terminato il CdL ho poi completato un Corso di Perfezionamento - *Master in Data Management and Curation* - presso la SISSA (Trieste), integrando conoscenze di programmazione in Python per gestione e parsing di dati scientifici.
 
 // Attualmente sono studente Magistrale di Informatica presso l'Università degli Studi di Salerno. 
 
+[#capacità]
 === Le mie capacità
 Mi ritengo una persona con spiccate *capacità organizzative*, in grado di gestire in autonomia le proprie mansioni ma capace di adattarsi con *flessibilità* alle esigenze del team. Collaborando con enti di ricerca ho maturato esperienza nel lavorare in *contesti multiculturali*, adottando una comunicazione diretta ed efficace con i colleghi ricercatori indipendentemente dalla lingua parlata.
 
 Ho un *approccio paziente* che mantengo anche in situazioni complesse o sotto pressione, trovando soluzioni equilibrate senza perdere di vista il rispetto e la professionalità. Credo molto nel valore del lavoro di squadra e mi impegno sempre nel *mantenere rapporti positivi* con i colleghi. #Occasionalmente offro anche il caffè#.
 
+
+[#hobby]
 === I miei hobby
 Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer; in particolare ho un *piccolo homelab* che include un virtualizzatore realizzato con componenti "di fortuna" il quale espone una serie di servizi tra cui un _Nextcloud_, una VPN _WireGuard_ e un _Navidrome_. Oltre a questo sono appassionato di *videogiochi* e provo particolare affetto nei confronti delle saghe di _Dark Souls_, _Monster Hunter_ e _Metal Gear_.
 
@@ -51,6 +59,7 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 //   * MDMC: "link:https://doi.org/10.5281/zenodo.15700974[*AMORE: a GUI to promote migration from paper to eLN*^]".
 // //Sezione per i lavori di tesi? Meglio se con PDF?
 
+[#certificazioni]
 === Certificazioni
 [cols="3,3,2,1"]
 |===
@@ -62,6 +71,8 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/digital_manufacturing_P21WT036.pdf[Link^]
 |===
 
+
+[#attestati]
 ==== Altri attestati
 [cols="3,3,2,1"]
 |===
@@ -84,6 +95,7 @@ per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di
 // * *_Cambridge English First_, Level B2* (luglio 2016) - cert. num. 0053909676. +
 // Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*. link:/documenti/università/FCE_cambridge_first_B1.pdf[Vedi certificato.^]
 
+[#progetti]
 === Progetti minori
   * Assemblaggio, setup e manutenzione di un piccolo homelab, attualmente comprendente un server domestico con Proxmox VE per self-hosting di servizi open source (Navidrome, Nextcloud...), e un NAS ODROID-HC4 per backup (2025 - _in corso_).
   * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver (2023 - _in corso_).
@@ -108,16 +120,12 @@ per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di
 // * *Office*: competenza nelle suite da ufficio più diffuse - MS Office 365, LibreOffice, Google Docs; automazione con libreria Python "docx"; linguaggi di markup LaTeX, Asciidoctor, Markdown, reStructuredText; esperienza di gestione di repository documentali (Hugo, Antora, Obsidian).
 // * *Self-hosting*: gestione server Apache HTTP e certificati SSL; installazione e gestione di applicativi server sia in bare metal sia via Docker (es. Nextcloud, Snipeit...).
 
-=== Capacità e competenze trasversali
-{{< skill skill=altre >}}
-
-=== Capacità e competenze organizzative/relazionali (soft skill)
-{{< skill skill=soft >}}
-
+[#download]
 == Download
 link:/curriculum/SYS.pdf[Scarica la versione PDF^] +
 link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass^]
 
+[#altro]
 == Altre pagine
 // * link:/cv/damico[Chi sono]
 * link:/cv/esperienze[Esperienze lavorative e formative]
