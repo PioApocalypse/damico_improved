@@ -5,3 +5,34 @@ createdDate: 2025-07-22T15:13:00+02:00
 language: it
 ShowToc: true
 ---
+
+[#skill-principali]
+== Skill principali
+
+=== Capacità acquisite in università
+Dal 2017 ho seguito il curriculum universitario del CdLT in Ing. Meccanica erogato dall'Università degli Studi di Salerno. Il piano degli studi per la coorte 2017/18 è consultabile sul link:++https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf++[portale UNISA^] (link:https://web.archive.org/web/20250316223451/https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf[Web Archive^]). Gli esami a scelta inseriti nel mio curriculum sono Impianti di Condizionamento e Sistemi di Misura per l'Industria 4.0.
+
+// Dal 2025 ho poi seguito il curriculum universitario del CdLM in Informatica erogato sempre da UNISA. Il piano degli studi per la coorte 2025/26 è consultabile sul link:++https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2025/NF225.pdf++[portale UNISA^] (link:https://web.archive.org/web/20250812124533/https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2025/NF225.pdf[Web Archive^]).
+//inserire esami a scelta
+
+Segue una lista sintetica delle competenze acquisite.
+
+{{< skill skill=universita >}}
+
+[#skill-secondarie]
+== Skill secondarie
+
+[#trasversali]
+=== Capacità e competenze trasversali
+{{< skill skill=altre >}}
+
+[#soft-skill]
+=== Capacità e competenze organizzative/relazionali (soft skill)
+{{< skill skill=soft >}}
+
+[#altro]
+== Altre pagine
+* link:/cv/damico[Chi sono]
+* link:/cv/esperienze[Esperienze lavorative e formative]
+// * link:/cv/competenze[Competenze tecniche]
+* link:/curriculum/europass.pdf[Europass (PDF)^]
