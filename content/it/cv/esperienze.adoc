@@ -17,7 +17,7 @@ In qualità di sistemista informatico mi sono occupato di *assistenza tecnica* a
 In qualità di programmatore ho sviluppato l'**interfaccia link:https://github.com/PioApocalypse/AMORE/[AMORE^]**, una GUI open-source per l'inserimento rapido di campioni sull'eLN della sede di Napoli (link:https://elabftw.fisica.unina.it/[eLabFTW^]); i dettagli di AMORE sono nell'link:#amore[elaborato di tesi] del MDMC. Ho anche realizzato alcuni piccoli *siti web statici* - come ad esempio quello del progetto link:https://foxes.spin.cnr.it/[FOXES^].
 
 ==== Principali tecnologie utilizzate
-* Sistemi operativi *Linux*, sia desktop (Linux Mint, Fedora) sia server (Ubuntu, Almalinux).
+* Sistemi operativi *Linux*, sia desktop (Linux Mint, Fedora) sia server (Ubuntu, Almalinux, Proxmox VE/BS).
 * Strumenti di gestione remota di sistemi di calcolo, in particolare *ssh* e *telnet*.
 * CMS *Hugo* per la creazione di piccoli siti web.
 * *Proxmox Virtual Environment* come OS sui nodi del virtualizzatore.
