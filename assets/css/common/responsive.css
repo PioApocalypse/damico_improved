@@ -1,19 +1,20 @@
 .bio-box {
-    display: grid;
-    grid-template-columns: 1fr 2fr; /* two columns of 1fr width */
-    gap: 2rem; /* gap between columns */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* gap: 2rem; gap between columns */
   }
 
 .bio-column {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem; /* gap between groups */
+    display: inline-block;
+    max-width: 50%;
+    /* flex-direction: column; */
+    /* gap: 1rem; gap between groups */
   }
   
 @media screen and (max-width: 600px) {
 
-    .first_block,
-    .second_block {
-        width: 100%;
+    .bio-column {
+        max-width: 100%;
     }
 }
