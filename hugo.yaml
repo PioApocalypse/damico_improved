@@ -72,10 +72,12 @@ params:
     buttons:
       - name: Chi sono
         url: "cv/damico"
-      - name: Dott. Ing. Meccanico
-        url: "cv/ingegnere"
-      - name: Sistemista Informatico
-        url: "cv/informatico"
+      - name: Competenze Tecniche
+        url: "cv/competenze"
+      - name: Esperienze Lavorative e Formative
+        url: "cv/esperienze"
+      # - name: Cosa posso apportare?
+      #   url: "cv/cosa-posso-apportare"
       - name: CV Europass
         url: "curriculum/europass.pdf"
       - name: Triennalia
