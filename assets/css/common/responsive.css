@@ -1,20 +1,25 @@
 .bio-box {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    /* gap: 2rem; gap between columns */
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    /*gap between columns */
+    gap: 2rem;
   }
 
 .bio-column {
-    display: inline-block;
-    max-width: 50%;
-    /* flex-direction: column; */
-    /* gap: 1rem; gap between groups */
+    display: flex;
+    flex-direction: column;
+    /* gap between groups */
+    gap: 1rem;
   }
   
 @media screen and (max-width: 600px) {
-
-    .bio-column {
-        max-width: 100%;
-    }
+  .bio-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .bio-column {
+    display: flex;
+    flex-direction: column;
+  }
 }
