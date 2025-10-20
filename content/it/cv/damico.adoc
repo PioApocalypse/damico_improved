@@ -14,8 +14,8 @@ showbio: true
 
 [#chi-sono]
 === Di cosa mi occupo
-Dal 2023 lavoro come *sistemista informatico*, mantenendo gli apparati di rete degli enti di ricerca per cui ho lavorato e gestendone account e permessi degli utenti connessi. +
-Per via delle posizioni che ho ricoperto ho dovuto in più occasioni ricoprire il ruolo del *programmatore*, quello del *webmaster*, quello del *data manager/curator*, quello dell'**assistente tecnico** occupandomi di piccole riparazioni e in alcuni casi quello dell'**assistente alla regia** - gestendo audio, presentazioni e registrazioni di meeting internazionali.
+Dal 2023 mi occupo di *gestione dei sistemi IT* presso enti di ricerca prestigiosi, ambienti in cui l'adattabilità e una buona comunicazione sono fondamentali. +
+Oltre al mio ruolo core supporto attivamente i progetti di ricerca ricoprendo diversi ruoli tecnici: dallo *sviluppo software* per il *data management* al *web development*, fino al *supporto tecnico diretto* e in alcuni casi alla *regia tecnica di meeting internazionali*.
 
 Dal 2023 a oggi ho lavorato:
 
@@ -24,13 +24,14 @@ Dal 2023 a oggi ho lavorato:
 
 [#competenze]
 === Le mie competenze
-Oltre alla mia preparazione accademica da *Dottore in Ingegneria Meccanica Triennale* - cui devo le mie abilità organizzative/gestionali e le mie capacità di progettare macchine semplici, dimensionare o scegliere da catalogo componenti e di selezionare/dimensionare un'unità di condizionamento dell'aria sia a uso domestico sia a uso industriale - ho un ampio set di competenze anche nell'ambito dell'**informatica**. Ho familiarità con le *interfacce a riga di comando*, in particolare con i terminali dei sistemi operativi Unix/Linux, so programmare in *Python*, Matlab e altri linguaggi, so realizzare *siti web da zero* partendo dal server HTTP fino al frontend, so gestire *ipervisori* con molteplici servizi esposti a internet, so realizzare *siti/e-book documentali* con vari linguaggi di markup (pref. Asciidoc) e tanto altro.
+La mia formazione in Ingegneria Meccanica mi ha fornito un metodo progettuale e organizzativo rigoroso che so applicare sia nel dimensionamento di componenti meccanici e impianti sia in ambito IT. Ho poi sviluppato in autonomia un ricco set di competenze informatiche, dalla gestione di macchine Linux via terminale alla programmazione Python, passando per la creazione e pubblicazione di siti web; ho esperienza con varie tecnologie in ambito cloud e virtualizzazione e so installare e mettere in rete server di calcolo, ipervisori e soluzioni di backup e disaster recovery.
+// Oltre alla mia preparazione accademica da *Dottore in Ingegneria Meccanica Triennale* - cui devo le mie abilità organizzative/gestionali e le mie capacità di progettare macchine semplici, dimensionare o scegliere da catalogo componenti e di selezionare/dimensionare un'unità di condizionamento dell'aria sia a uso domestico sia a uso industriale - ho un ampio set di competenze anche nell'ambito dell'**informatica**. Ho familiarità con le *interfacce a riga di comando*, in particolare con i terminali dei sistemi operativi Unix/Linux, so programmare in *Python*, Matlab e altri linguaggi, so realizzare *siti web da zero* partendo dal server HTTP fino al frontend, so gestire *ipervisori* con molteplici servizi esposti a internet, so realizzare *siti/e-book documentali* con vari linguaggi di markup (pref. Asciidoc) e tanto altro.
 
-Ma al di sopra di ogni altra cosa #so usare bene il pacchetto Office#.
+Completano il mio profilo un'ottima padronanza degli strumenti di produttività (documentali, fogli di calcolo...) e un'efficienza nella produzione di documentazione tecnica dettagliata. Naturalmente, ciò implica che so usare bene anche il pacchetto Office.
 
 [#formazione]
 === La mia formazione
-Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la *Laurea Triennale in Ingegneria Meccanica* presso l'Università di Salerno, alternando gli studi con esperienze lavorative e di formazione trasversale - anche all'estero. Durante gli studi ho collaborato con un team di colleghi nella riapertura informale del *Linux User Group* dell'università, specializzandomi nel contempo anche in ciò che riguarda il mondo dei sistemi Linux e dell'informatica in generale. Terminato il CdL ho poi completato un Corso di Perfezionamento - *Master in Data Management and Curation* - presso la SISSA (Trieste), integrando conoscenze di programmazione in Python per gestione e parsing di dati scientifici.
+Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la *Laurea Triennale in Ingegneria Meccanica* presso l'Università di Salerno, alternando gli studi con esperienze lavorative e di formazione trasversale - anche all'estero. Durante gli studi ho collaborato con un team di colleghi nella riapertura informale del *Linux User Group* dell'università, specializzandomi nel contempo anche in ciò che riguarda il mondo dei sistemi Linux e dell'informatica in generale. Terminato il CdL ho poi completato un Corso di Perfezionamento - *Master in Data Management and Curation* - presso la Scuola Internazionale Superiore di Studi Avanzati di Trieste, integrando conoscenze di programmazione in Python per gestione e parsing di dati scientifici.
 
 // Attualmente sono studente Magistrale di Informatica presso l'Università degli Studi di Salerno. 
 
@@ -38,7 +39,7 @@ Diplomato al Liceo Scientifico Margherita Hack di Baronissi ho poi conseguito la
 === Le mie capacità
 Mi ritengo una persona con spiccate *capacità organizzative*, in grado di gestire in autonomia le proprie mansioni ma capace di adattarsi con *flessibilità* alle esigenze del team. Collaborando con enti di ricerca ho maturato esperienza nel lavorare in *contesti multiculturali*, adottando una comunicazione diretta ed efficace con i colleghi ricercatori indipendentemente dalla lingua parlata.
 
-Ho un *approccio paziente* che mantengo anche in situazioni complesse o sotto pressione, trovando soluzioni equilibrate senza perdere di vista il rispetto e la professionalità. Credo molto nel valore del lavoro di squadra e mi impegno sempre nel *mantenere rapporti positivi* con i colleghi. #Occasionalmente offro anche il caffè#.
+Ho un *approccio paziente* che mantengo anche in situazioni complesse o sotto pressione, trovando soluzioni equilibrate senza perdere di vista il rispetto e la professionalità. Credo molto nel valore del lavoro di squadra e mi impegno sempre nel *mantenere rapporti positivi* con i colleghi. Occasionalmente offro anche il caffè.
 
 
 [#hobby]
@@ -71,6 +72,16 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/digital_manufacturing_P21WT036.pdf[Link^]
 |===
 
+[#cri]
+==== Croce Rossa Italiana
+[cols="3,3,2,1"]
+|===
+| Nome percorso | Ambito | Codice | Download
+
+| Corso di Formazione +
+per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di-formazione-per-volontari.pdf[Link^]
+| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/percorso-gioventù.pdf[Link^]
+|===
 
 [#attestati]
 ==== Altri attestati
@@ -83,9 +94,6 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | Formazione Generale +
 per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del certificato su link:https://opnitalialavoro.it/verifica-dellautenticita/[opnitalialavoro.it, window=_blank]; i campi "nome" e "cognome" sono caps-insensitive (es. D'AMICO = d'amico) ma l'apostrofo è necessario.] | link:/documenti/università/Sicurezza_sul_Lavoro_P21WT036.pdf[Link^]
 | Estate INPSieme 2017 | Lingua inglese, estero | N/A  | link:/documenti/università/Estate_INPSieme_2017.jpg[Link^]
-| Corso di Formazione +
-per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di-formazione-per-volontari.pdf[Link^]
-| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/percorso-gioventù.pdf[Link^]
 |===
 
 
