@@ -15,19 +15,19 @@ showbio: true
 [#chi-sono]
 === Di cosa mi occupo
 Dal 2023 mi occupo di *gestione dei sistemi IT* presso enti di ricerca prestigiosi, ambienti in cui l'adattabilità e una buona comunicazione sono fondamentali. +
-Oltre al mio ruolo core supporto attivamente i progetti di ricerca ricoprendo diversi ruoli tecnici: dallo *sviluppo software* per il *data management* al *web development*, fino al *supporto tecnico diretto* e in alcuni casi alla *regia tecnica di meeting internazionali*.
+Oltre a svolgere il mio ruolo core come sistemista informatico e tecnico di rete, supporto attivamente i progetti di ricerca ricoprendo diversi ruoli tecnici: dallo *sviluppo software* per il *data management* al *web development*, fino al *supporto tecnico diretto* e in alcuni casi alla *regia tecnica di meeting internazionali*.
 
 Dal 2023 a oggi ho lavorato:
 
   * Per conto di mailto:damiano@verzulli.it[_Soabit s.r.l._, title="Datore di lavoro: Damiano Verzulli"] presso *ICRANet Pescara* (01/2023 - 06/2023);
-  * Per l'**mailto:segreteria@spin.cnr.it[Istituto CNR-SPIN, title="Segreteria CNR-SPIN"]** - località Monte S. Angelo, Napoli (07/2024 - 12/2025, _in corso_).
+  * Per l'**mailto:segreteria@spin.cnr.it[Istituto CNR-SPIN, title="Segreteria CNR-SPIN"]** - località Monte S. Angelo, Napoli (07/2024 - 04/2026, _in corso_).
 
 [#competenze]
 === Le mie competenze
-La mia formazione in Ingegneria Meccanica mi ha fornito un metodo progettuale e organizzativo rigoroso che so applicare sia nel dimensionamento di componenti meccanici e impianti sia in ambito IT. Ho poi sviluppato in autonomia un ricco set di competenze informatiche, dalla gestione di macchine Linux via terminale alla programmazione Python, passando per la creazione e pubblicazione di siti web; ho esperienza con varie tecnologie in ambito cloud e virtualizzazione e so installare e mettere in rete server di calcolo, ipervisori e soluzioni di backup e disaster recovery.
+La mia formazione in Ingegneria Meccanica mi ha fornito un metodo progettuale e organizzativo rigoroso che so applicare sia nel dimensionamento di componenti meccanici e impianti sia in ambito IT. Ho poi sviluppato in autonomia un ricco set di competenze informatiche, dalla gestione di macchine Linux via terminale alla programmazione Python, passando per la creazione e pubblicazione di siti web; ho esperienza con varie tecnologie in ambito cloud e virtualizzazione e so gestire la quasi totalità del ciclo di vita di server di calcolo, ipervisori e soluzioni di backup/disaster-recovery.
 // Oltre alla mia preparazione accademica da *Dottore in Ingegneria Meccanica Triennale* - cui devo le mie abilità organizzative/gestionali e le mie capacità di progettare macchine semplici, dimensionare o scegliere da catalogo componenti e di selezionare/dimensionare un'unità di condizionamento dell'aria sia a uso domestico sia a uso industriale - ho un ampio set di competenze anche nell'ambito dell'**informatica**. Ho familiarità con le *interfacce a riga di comando*, in particolare con i terminali dei sistemi operativi Unix/Linux, so programmare in *Python*, Matlab e altri linguaggi, so realizzare *siti web da zero* partendo dal server HTTP fino al frontend, so gestire *ipervisori* con molteplici servizi esposti a internet, so realizzare *siti/e-book documentali* con vari linguaggi di markup (pref. Asciidoc) e tanto altro.
 
-Completano il mio profilo un'ottima padronanza degli strumenti di produttività (documentali, fogli di calcolo...) e un'efficienza nella produzione di documentazione tecnica dettagliata. Naturalmente, ciò implica che so usare bene anche il pacchetto Office.
+Completano il mio profilo un'ottima padronanza degli strumenti di produttività (documentali, fogli di calcolo...) e un'efficienza nella produzione di documentazione tecnica dettagliata. Non credo sia poi necessario specificare che so usare bene anche il pacchetto Office.
 
 [#formazione]
 === La mia formazione
@@ -44,9 +44,18 @@ Ho un *approccio paziente* che mantengo anche in situazioni complesse o sotto pr
 
 [#hobby]
 === I miei hobby
-Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer; in particolare ho un *piccolo homelab* che include un virtualizzatore realizzato con componenti "di fortuna" il quale espone una serie di servizi tra cui un _Nextcloud_, una VPN _WireGuard_ e un _Navidrome_. Oltre a questo sono appassionato di *videogiochi* e provo particolare affetto nei confronti delle saghe di _Dark Souls_, _Monster Hunter_ e _Metal Gear_.
+Per la sorpresa di nessuno, spendo gran parte del mio tempo libero sui computer; in particolare ho un *piccolo homelab* che include un virtualizzatore realizzato con componenti "di fortuna" il quale espone una serie di servizi tra cui un _Nextcloud_, una VPN _WireGuard_ e servizi multimediali quali _Navidrome_ e _Jellyfin_. Sono anche interessato al mondo dell'elettronica, microcontrollori, sistemi embedded e microsaldature. 
 
-Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di Benevento_, dove occasionalmente partecipo ad attvità in piazza od organizzative.
+Oltre a questo sono appassionato di *videogiochi* e provo particolare affetto nei confronti delle saghe di _Dark Souls_, _Devil May Cry_, _Monster Hunter_ e _Metal Gear_.
+
+Infine sono volontario di *Croce Rossa Italiana* presso il _Comitato di Benevento_, dove occasionalmente partecipo ad attvità in piazza di sensibilizzazione agli stili di vita sani, e a cui devo la mia preparazione in materia di manovre di Primo Soccorso.
+
+[#progetti]
+=== Progetti personali
+  * Assemblaggio, setup e manutenzione di un piccolo homelab, attualmente comprendente un server domestico con Proxmox VE per self-hosting di servizi open source (Navidrome, Nextcloud...), e un NAS ODROID-HC4 per backup (2025 - _in corso_).
+  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver (2023 - _in corso_).
+  * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, utilizzando una versione custom del tema Hugo-Hero (novembre 2024).
+  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine, insieme a due colleghi (giugno - agosto 2022).
 
 // == Dettagli
 // === Percorso di studi
@@ -60,41 +69,42 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 //   * MDMC: "link:https://doi.org/10.5281/zenodo.15700974[*AMORE: a GUI to promote migration from paper to eLN*^]".
 // //Sezione per i lavori di tesi? Meglio se con PDF?
 
-[#certificazioni]
-=== Certificazioni
-[cols="3,3,2,1"]
-|===
-| Nome percorso | Ambito | Codice | Download
+// SPOSTA IN COMPETENZE
+// [#certificazioni]
+// === Certificazioni
+// [cols="3,3,2,1"]
+// |===
+// | Nome percorso | Ambito | Codice | Download
 
-| *Cambridge English First, Level B2* | Lingua inglese | 0053909676 | link:/documenti/università/FCE_cambridge_first_B1.pdf[Link^]
-| *Forcepoint NGFW Administrator* | Sistemi informatici | 014242/2025 | link:/documenti/CNR/Forcepoint_NGFW_Administrator_7793204_23218.pdf[Link^]
-| *Master in Data Management and Curation* | Data management | -- | link:/documenti/CNR/MDMC_ITA.pdf[Link^]
-| *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/digital_manufacturing_P21WT036.pdf[Link^]
-|===
+// | *Cambridge English First, Level B2* | Lingua inglese | 0053909676 | link:/documenti/università/FCE_cambridge_first_B1.pdf[Link^]
+// | *Forcepoint NGFW Administrator* | Sistemi informatici | 014242/2025 | link:/documenti/CNR/Forcepoint_NGFW_Administrator_7793204_23218.pdf[Link^]
+// | *Master in Data Management and Curation* | Data management | -- | link:/documenti/CNR/MDMC_ITA.pdf[Link^]
+// | *Digital Manufacturing - Prototipazione 3D e CNC* | Progettazione meccanica | Formatemp 094 PROT D211 1983 | link:/documenti/università/digital_manufacturing_P21WT036.pdf[Link^]
+// |===
 
-[#cri]
-==== Croce Rossa Italiana
-[cols="3,3,2,1"]
-|===
-| Nome percorso | Ambito | Codice | Download
+// [#cri]
+// ==== Croce Rossa Italiana
+// [cols="3,3,2,1"]
+// |===
+// | Nome percorso | Ambito | Codice | Download
 
-| Corso di Formazione +
-per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/qualifiche_CRI/corso-di-formazione-per-volontari.pdf[Link^]
-| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/qualifiche_CRI/percorso-gioventù.pdf[Link^]
-|===
+// | Corso di Formazione +
+// per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/qualifiche_CRI/corso-di-formazione-per-volontari.pdf[Link^]
+// | Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/qualifiche_CRI/percorso-gioventù.pdf[Link^]
+// |===
 
-[#attestati]
-==== Altri attestati
-[cols="3,3,2,1"]
-|===
-| Nome percorso | Ambito | Codice | Download
+// [#attestati]
+// ==== Altri attestati
+// [cols="3,3,2,1"]
+// |===
+// | Nome percorso | Ambito | Codice | Download
 
-| Tavolo Tecnico ICT | Sistemi informatici | -- | link:/documenti/CNR/tavolo_tecnico_ICT_Chieti.pdf[Link^]
-| Salute e sicurezza nei luoghi di lavoro - Formazione specifica Rischio basso | Sicurezza | Jn6Da4nmfM | link:/documenti/CNR/Attestato_rischio_basso.pdf[Link^]
-| Formazione Generale +
-per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del certificato su link:https://opnitalialavoro.it/verifica-dellautenticita/[opnitalialavoro.it, window=_blank]; i campi "nome" e "cognome" sono caps-insensitive (es. D'AMICO = d'amico) ma l'apostrofo è necessario.] | link:/documenti/università/Sicurezza_sul_Lavoro_P21WT036.pdf[Link^]
-| Estate INPSieme 2017 | Lingua inglese, estero | N/A  | link:/documenti/università/Estate_INPSieme_2017.jpg[Link^]
-|===
+// | Tavolo Tecnico ICT | Sistemi informatici | -- | link:/documenti/CNR/tavolo_tecnico_ICT_Chieti.pdf[Link^]
+// | Salute e sicurezza nei luoghi di lavoro - Formazione specifica Rischio basso | Sicurezza | Jn6Da4nmfM | link:/documenti/CNR/Attestato_rischio_basso.pdf[Link^]
+// | Formazione Generale +
+// per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del certificato su link:https://opnitalialavoro.it/verifica-dellautenticita/[opnitalialavoro.it, window=_blank]; i campi "nome" e "cognome" sono caps-insensitive (es. D'AMICO = d'amico) ma l'apostrofo è necessario.] | link:/documenti/università/Sicurezza_sul_Lavoro_P21WT036.pdf[Link^]
+// | Estate INPSieme 2017 | Lingua inglese, estero | N/A  | link:/documenti/università/Estate_INPSieme_2017.jpg[Link^]
+// |===
 
 
 // * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/documenti/università/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
@@ -103,13 +113,6 @@ per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del 
 // * *_Cambridge English First_, Level B2* (luglio 2016) - cert. num. 0053909676. +
 // Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*. link:/documenti/università/FCE_cambridge_first_B1.pdf[Vedi certificato.^]
 
-[#progetti]
-=== Progetti minori
-  * Assemblaggio, setup e manutenzione di un piccolo homelab, attualmente comprendente un server domestico con Proxmox VE per self-hosting di servizi open source (Navidrome, Nextcloud...), e un NAS ODROID-HC4 per backup (2025 - _in corso_).
-  * Realizzazione e mantenimento di questo link:/[sito personale], usando Hugo come CMS, la soluzione di hosting Oracle Cloud Infrastructure Free-Tier come server fisico, Almalinux 9 come S.O. e Apache HTTP Server come webserver (2023 - _in corso_).
-  * Realizzazione di un sito web per il progetto link:https://foxes.spin.cnr.it/[FOXES^] del CNR-SPIN, utilizzando una versione custom del tema Hugo-Hero (novembre 2024).
-  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
-  * Collaborazione nelle operazioni tecniche della perizia balistica per la Proc. Pen. 2144/2018 mod.21 (maggio 2018 - link:/documenti/università/collaborazione_perizia.pdf[dichiarazione di collaborazione^]).
 
 // == Capacità e competenze tecniche
 // === Da ingegnere e progettista meccanico
@@ -130,7 +133,7 @@ per i Lavoratori | Sicurezza | 137413_5/15footnote:[Verifica l'autenticità del 
 
 [#download]
 == Download
-link:/curriculum/SYS.pdf[Scarica la versione PDF^] +
+link:/CV-v7/SYS-2512.pdf[Scarica la versione PDF^] +
 link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass^]
 
 [#altro]
@@ -138,7 +141,6 @@ link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass^]
 // * link:/cv/damico[Chi sono]
 * link:/cv/esperienze[Esperienze lavorative e formative]
 * link:/cv/competenze[Competenze tecniche]
-* link:/curriculum/europass.pdf[Europass (PDF)^]
 
 
 // [cols=3]
