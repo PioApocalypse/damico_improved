@@ -50,7 +50,7 @@ Dopo la maturità mi sono occupato nel tempo libero di aggiornare occasionalment
 link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
 
 [#perizia]
-=== Perizia balistica per la Proc. Pen. 2144/2018 mod.21 (2018, prest. occ.)
+=== Collaborazione a perizia balistica (2018, prestazione occasionale)
 Collaborazione nelle operazioni tecniche della perizia balistica per la Proc. Pen. 2144/2018 mod.21. La perizia aveva come obiettivo l'analisi di un'arma non dichiarata e modificata illegalmente, ritrovata dalle FF.OO. a casa dell'imputato. Sono stati rilevati i marchi dei banchi di prova, le matricole, i tentativi di occultamento di questi, le modifiche effettuate sull'arma e la capacità di sparare della stessa.
 
 == Formazione scolastica e accademica
@@ -61,42 +61,46 @@ Collaborazione nelle operazioni tecniche della perizia balistica per la Proc. Pe
 * _2024-2025_: *Master in Data Management and Curation* +
     _Scuola Internazionale Superiore di Studi Avanzati_ (SISSA), Trieste.
 
+[#maturita]
 === Tesi di Maturità: "The Dark Side of The Moon: la faccia oscura della vita umana".
 Il soggetto scelto per la mia tesi di maturità è stato l'iconico album dei Pink Floyd - The Dark Side of the Moon. Ogni brano è analizzato come parte di uno dei due medley del disco e come opera a sé stante, identificando l'aspetto della vita umana che esso vuole rappresentare e parafrasandone il testo; in base al tema poi ciascun brano è collegato a una delle materie affrontate in sede di esame.
 
 Il PDF originale può essere scaricato link:/tesina_maturità.pdf[su questo sito^].
 
+[#tesi-triennale]
 === Tesi Triennale: "Simulazione di un generatore eolico off-grid".
-> In questo elaborato si presenta un modello per la simulazione in ambiente Simulink di un generatore eolico. I risultati delle simulazioni in condizioni operative differenti permettono di valutare l'effetto della variabilità del carico sulla produzione di energia e sulle condizioni operative della turbina. +
+> _In questo elaborato si presenta un modello per la simulazione in ambiente Simulink di un generatore eolico. I risultati delle simulazioni in condizioni operative differenti permettono di valutare l'effetto della variabilità del carico sulla produzione di energia e sulle condizioni operative della turbina. +
  +
-Dopo un'introduzione che esamina lo stato dell'arte dell'energia eolica off-grid, la tesi sviluppa un modello matematico di ciascun elemento fisico del sistema - con particolare focus sul generatore - da cui è ricavato il subsystem corrispondente nel simulatore, quindi illustra una soluzione che permette di mantenere le condizioni operative ideali anche al variare del carico.
+Dopo un'introduzione che esamina lo stato dell'arte dell'energia eolica off-grid, la tesi sviluppa un modello matematico di ciascun elemento fisico del sistema - con particolare focus sul generatore - da cui è ricavato il subsystem corrispondente nel simulatore, quindi illustra una soluzione che permette di mantenere le condizioni operative ideali anche al variare del carico._
 
 Come da abstract la tesi gira intorno alla realizzazione del modello Simulink di una turbina off-grid di piccola potenza e a corrente continua (DC), collegata a un carico variabile tramite un convertitore DC-DC (buck-boost). La commissione ha apprezzato in particolare l'approfondimento fatto su elementi - come appunto il buck-boost converter - che non sono mai stati oggetto di studio durante il corso di laurea.
 
 Il link per la consultazione non è al momento disponibile.
 
-[#amore]
+[#tesi-mdmc]
 === Tesi del MDMC: "AMORE: a GUI to promote migration from paper to eLN".
-> This thesis presents the development of AMORE (Autonomous Management of Outputs for Research Efficiency), a lightweight web-based software designed to facilitate the transition from traditional and unreliable paper notebooks to a more sophisticated eLN (electronic laboratory notebook) - specifically eLabFTW. +
+> _This thesis presents the development of AMORE (Autonomous Management of Outputs for Research Efficiency), a lightweight web-based software designed to facilitate the transition from traditional and unreliable paper notebooks to a more sophisticated eLN (electronic laboratory notebook) - specifically eLabFTW. +
  +
-The core objective is the alignment of the data collected by researchers with the FAIR principles. While eLabFTW itself already provides the tools to pursue this  objective an additional step was needed to enforce a certain standard while simplifying the entry of new data and the update of old assets on the eLN: AMORE enforces our own standard in terms of sample nomenclature, provides an elementary sample tracking feature and presents to the user a simple interface to interact with.
+The core objective is the alignment of the data collected by researchers with the FAIR principles. While eLabFTW itself already provides the tools to pursue this  objective an additional step was needed to enforce a certain standard while simplifying the entry of new data and the update of old assets on the eLN: AMORE enforces our own standard in terms of sample nomenclature, provides an elementary sample tracking feature and presents to the user a simple interface to interact with._
+
+Come da abstract la tesi presenta il progetto AMORE, web UI con front-end elementare, back-end in Python3 e su framework Flask. La web UI doveva servire come intermediario tra il ricercatore e il nostro eLN (eLabFTW) per la creazione semi-automatica di nuove entry sull'eLN che seguissero da subito determinati schemi. Il progetto è publico, sotto licenza MIT e scaricabile dalla repository GitHub link:https://github.com/PioApocalypse/AMORE[PioApocalypse/AMORE^].
 
 Il PDF originale ha un proprio DOI e può essere visualizzato link:https://doi.org/10.5281/zenodo.15700974[su Zenodo^].
 
-== Formazione extracurricolare
-// === Certificazione lingua inglese: Cambridge English First, Level B2
-// === Corso professionale: Forcepoint NGFW Administrator
-// === Certificazione professionale: Linux Foundation Certified Associate
+// == Formazione extracurricolare
+// // === Certificazione lingua inglese: Cambridge English First, Level B2
+// // === Corso professionale: Forcepoint NGFW Administrator
+// // === Certificazione professionale: Linux Foundation Certified Associate
 
-=== Corso professionale: Digital Manufacturing - Prototipazione 3D e CNC
-Nell'ambito delle 240 ore del corso professionale in oggetto ho studiato diversi aspetti della manifattura nell'ambito della cosiddetta Industria 4.0, in particolare il ciclo di vita di un prodotto, le linee di assemblaggio e il controllo della qualità, fino ad approfondire la progettazione meccanica assistita da calcolatore - in particolare con i software FreeCAD, NanoCAD e Catia V5 - le tecniche di misura con gli strumenti tradizionali, le macchine a controllo numerico e la stampa 3D. 
+// === Corso professionale: Digital Manufacturing - Prototipazione 3D e CNC
+// Nell'ambito delle 240 ore del corso professionale in oggetto ho studiato diversi aspetti della manifattura nell'ambito della cosiddetta Industria 4.0, in particolare il ciclo di vita di un prodotto, le linee di assemblaggio e il controllo della qualità, fino ad approfondire la progettazione meccanica assistita da calcolatore - in particolare con i software FreeCAD, NanoCAD e Catia V5 - le tecniche di misura con gli strumenti tradizionali, le macchine a controllo numerico e la stampa 3D. 
 
-==== Argomenti del corso
-* *Sicurezza sul lavoro* (81/08) e *diritti e doveri* dei lavoratori.
-* Organizzazione aziendale 4.0 e *gestione della qualità*.
-* *Tecnologia generale dei materiali*.
-* *Elementi di disegno meccanico*, strumenti di misura, CAD e cicli di lavoro.
-* Prototipazione rapida, *stampa 3D* e *CNC*.
+// ==== Argomenti del corso
+// * *Sicurezza sul lavoro* (81/08) e *diritti e doveri* dei lavoratori.
+// * Organizzazione aziendale 4.0 e *gestione della qualità*.
+// * *Tecnologia generale dei materiali*.
+// * *Elementi di disegno meccanico*, strumenti di misura, CAD e cicli di lavoro.
+// * Prototipazione rapida, *stampa 3D* e *CNC*.
 
 == Altre pagine
 * link:/cv/damico[Chi sono]
