@@ -24,7 +24,7 @@
     </div>
   </div>
 
-  <div class="bio-column" style="border: 2px solid grey; border-radius: 5px; padding: 0px 1rem;">
+  <div class="bio-column" style="text-align: justify; border: 2px solid grey; border-radius: 5px; padding: 0px 1rem;">
     {{ $data := index site.Data site.Language.Lang }}
       <h2>{{ $data.bio.header }}</h2>
       {{ range $data.bio.lines }}
