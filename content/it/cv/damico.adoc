@@ -79,8 +79,8 @@ Sono inoltre volontario giovane di *Croce Rossa Italiana* presso il _Comitato di
 | Nome percorso | Ambito | Codice | Download
 
 | Corso di Formazione +
-per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/corso-di-formazione-per-volontari.pdf[Link^]
-| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/percorso-gioventù.pdf[Link^]
+per Volontari CRI | Croce Rossa | CAM/2024/CRI/8427/5 | link:/documenti/qualifiche_CRI/corso-di-formazione-per-volontari.pdf[Link^]
+| Percorso Gioventù | Croce Rossa | CAM/2025/PG/5058/4 | link:/documenti/qualifiche_CRI/percorso-gioventù.pdf[Link^]
 |===
 
 [#attestati]
