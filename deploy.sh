@@ -8,7 +8,7 @@ echo Il seguente script tenterà di:
 echo "   1. Eliminare la cartella public"
 echo "   2. Rigenerare i file del sito"
 echo "   3. Fare deploy dei nuovi file sul web server (ssh verso $SITO)"
-read -p "Sei sicuro di voler procedere? (y/n) " -n 1 -r
+read -p "Sei sicuro di voler procedere? (y/N) " -n 1 -r
 echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
@@ -19,7 +19,7 @@ then
     echo "Sito rigenerato."
     sleep 1
     echo "Tento rsync via verso $SITO"
-    rsync -ar --delete-after public/* $SITO:/var/www/html/
+    rsync -ar --delete-after public/ $SITO:/var/www/html/
     if [ $? -eq 0 ]; then
         echo "Sito aggiornato! Visualizza le modifiche su https://damico.ing/"
     else
@@ -28,4 +28,8 @@ then
     fi
 else
     echo "Operazione annullata."
+    if ! [[ $REPLY =~ ^[Nn]$ ]]
+    then
+        echo "Digitare esplicitamente la risposta, y/Y o n/N."
+    fi
 fi
