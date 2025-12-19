@@ -49,6 +49,9 @@ Dopo la maturità mi sono occupato nel tempo libero di aggiornare occasionalment
 
 link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapshot del sito (ora offline) su Internet Archive, window=_blank].
 
+[#perizia]
+=== Perizia balistica per la Proc. Pen. 2144/2018 mod.21 (2018, prest. occ.)
+Collaborazione nelle operazioni tecniche della perizia balistica per la Proc. Pen. 2144/2018 mod.21. La perizia aveva come obiettivo l'analisi di un'arma non dichiarata e modificata illegalmente, ritrovata dalle FF.OO. a casa dell'imputato. Sono stati rilevati i marchi dei banchi di prova, le matricole, i tentativi di occultamento di questi, le modifiche effettuate sull'arma e la capacità di sparare della stessa.
 
 == Formazione scolastica e accademica
 * _2012-2017_: *Diploma di Istruzione Superiore* +
@@ -94,15 +97,6 @@ Nell'ambito delle 240 ore del corso professionale in oggetto ho studiato diversi
 * *Tecnologia generale dei materiali*.
 * *Elementi di disegno meccanico*, strumenti di misura, CAD e cicli di lavoro.
 * Prototipazione rapida, *stampa 3D* e *CNC*.
-
-// === Formazione universitaria non certificata
-// Malgrado non sia mai stato ufficialmente iscritto ad alcun Corso di Laurea Triennale in Scienze dell'Informazione ho comunque approfondito alcune delle materie caratterizzanti di tali corsi di laurea. In particolare, grazie anche alle dispense pubbliche di studenti e docenti del Dipartimento di Informatica dell'Università degli Studi di Salerno, sono riuscito ad acquisire le competenze offerte dai seguenti corsi universitari di primo livello:
-
-// * Architettura degli Elaboratori;
-// * Programmazione e Strutture Dati;
-// * Programmazione Orientata agli Oggetti;
-// * Reti di Calcolatori;
-// * Basi di Dati I.
 
 == Altre pagine
 * link:/cv/damico[Chi sono]
