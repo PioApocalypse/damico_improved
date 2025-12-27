@@ -20,3 +20,11 @@
     {{ end }}
     </ul>
 {{ end }}
+{{ $category := (.Get "skill") }}
+{{ $path := index $data.skill $category }}
+<ul>
+{{ range $line := $path.order }}
+    {{ $description := index $path.lines $line }}
+    <li><strong>{{ . }}:</strong> {{ $description }}</li>
+{{ end }}
+</ul>
