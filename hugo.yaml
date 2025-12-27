@@ -72,7 +72,7 @@ params:
     buttons:
       - name: Chi sono
         url: "cv/damico"
-      - name: Competenze Tecniche
+      - name: Capacità e Competenze
         url: "cv/competenze"
       - name: Esperienze Lavorative e Formative
         url: "cv/esperienze"

@@ -140,7 +140,7 @@ link:/curriculum/europass.pdf[Scarica il curriculum in formato Europass^]
 == Altre pagine
 // * link:/cv/damico[Chi sono]
 * link:/cv/esperienze[Esperienze lavorative e formative]
-* link:/cv/competenze[Competenze tecniche]
+* link:/cv/competenze[Capacità e competenze]
 
 
 // [cols=3]
