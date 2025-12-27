@@ -4,7 +4,7 @@ date: 2025-07-22
 createdDate: 2023-06-12T12:00:00+02:00
 layout: cv_comune
 language: it
-ShowToc: true
+ShowToc: false
 showbio: true
 ---
 
