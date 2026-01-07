@@ -1,7 +1,13 @@
 #!/bin/bash
 
-SITO=sito-damico
+if [ -z $SITO ]; then
+    echo "Setto la variabile vuota \$SITO su \"sito-damico\"..."
+    SITO=sito-damico
+else
+    echo "Hai assegnato SITO = $SITO..."
+fi
 
+sleep 1
 echo Versione di Hugo installata: $(hugo version | awk '{print $2}' | awk -F'-' '{gsub(/v/, "", $1); print $1}').
 echo Versione minima richiesta: $(grep min: hugo.yaml | awk '{gsub(/\x27/, "", $2); print $2}').
 echo Il seguente script tenterà di:
@@ -10,17 +16,24 @@ echo "   2. Rigenerare i file del sito"
 echo "   3. Fare deploy dei nuovi file sul web server (ssh verso $SITO)"
 read -p "Sei sicuro di voler procedere? (y/N) " -n 1 -r
 echo
-if [[ $REPLY =~ ^[Yy]$ ]]
-then
+
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+    ssh $SITO exit
+    if [[ $? -ne 0 ]]; then
+        echo "SSH fallisce. Probabilmente non hai nessun host \"sito-damico\" nei tuoi .ssh/config*"
+        echo "Prova a settare la variabile \$SITO manualmente. Magari: export SITO='user@10.20.30.40'."
+        exit 1
+    fi
     rm -rf public/
     echo "Cartella public eliminata."
     sleep 1
     hugo
     echo "Sito rigenerato."
     sleep 1
-    echo "Tento rsync via verso $SITO"
-    rsync -ar --delete-after public/ $SITO:/var/www/html/
-    if [ $? -eq 0 ]; then
+    echo "Tento rsync via SSH verso $SITO."
+    rsync -ar --delete-after public/ $SITO:/var/www/html/ --dry-run     # FAIL-SAFE
+    #rsync -ar --delete-after public/ $SITO:/var/www/html/              # ABILITARE PER DEPLOY
+    if [[ $? -eq 0 ]]; then
         echo "Sito aggiornato! Visualizza le modifiche su https://damico.ing/"
     else
         echo "ERRORE durante il deploy."
@@ -28,8 +41,8 @@ then
     fi
 else
     echo "Operazione annullata."
-    if ! [[ $REPLY =~ ^[Nn]$ ]]
-    then
+    if ! [[ $REPLY =~ ^[Nn]$ ]]; then
         echo "Digitare esplicitamente la risposta, y/Y o n/N."
     fi
+    exit 1
 fi
