@@ -1,21 +1,21 @@
-<!-- Assegno a $data il contenuto della directory /data/{Lang} -->
-{{ $data := index site.Data site.Language.Lang }}
-<!-- Introdotto in 291d2d2a 
+<!-- Quanto segue è stato introdotto in 291d2d2a 
      molto più pulito del puttanaio sovrastante
      (rollback: commit 81dd0d28) -->
-<!-- $category = il valore dell'attributo skill
-     che dovrà corrispondere a una delle chiavi
-     in /data/{Lang}/skill.yaml  -->
-{{ $category := (.Get "skill") }}
+
+<!-- Assegno a $data il contenuto della directory /data/{Lang} -->
+{{ $data := index site.Data site.Language.Lang }}
 <!-- $path = il contenuto della chiave il cui nome
      coincide con il valore di "skill" -->
-{{ $path := index $data.skill $category }}
-<ul> <!-- INIZIO LISTA -->
+{{ $path := index $data.skill (.Get "skill") }}
+
+<ul>
+<!-- Se la chiave ha una sub-key "order" -->
 {{ if $path.order }}
     {{ range $line := $path.order }}
         {{ $description := index $path.lines $line }}
         <li><strong>{{ . }}:</strong> {{ $description }}</li>
     {{ end }}
+<!-- Altrimenti -->
 {{ else }}
     {{ range $line := $path.lines }}
         <li>{{ . }}</li>
