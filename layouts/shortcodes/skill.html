@@ -1,40 +1,8 @@
 <!-- Assegno a $data il contenuto della directory /data/{Lang} -->
 {{ $data := index site.Data site.Language.Lang }}
-<!-- I partial sono richiamati con uno o più attributi
-     Se "skill=universita" esegui: -->
-{{ if eq (.Get "skill") "universita" }} <!-- SKILL MECCANICA -->
-    <ul>
-    <!-- Scorre le skill in ordine (.order), assegna il contenuto di .order
-         alla variabile $skill -->
-    <!-- TODO: modificare -->
-    {{ range $skill := $data.skill.universita_skill.order }}
-        <!-- Assegno alla variabile $description il valore della "line" associata
-             all'i-esimo elemento della lista -->
-        {{ $description := index $data.skill.universita_skill.lines $skill }}
-        <!-- $skill è il nome della skill in bold, $description è la descrizione -->
-        <li><strong>{{ $skill }}:</strong> {{ $description }}</li>
-    {{ end }}
-    </ul>
-<!-- Se invece "skill=altre" esegui: -->
-{{ else if eq (.Get "skill") "altre" }} <!-- TRASVERSALI -->
-    <ul>
-    {{ range $skill := $data.skill.altre_skill.order }}
-        {{ $description := index $data.skill.altre_skill.lines $skill }}
-        <li><strong>{{ $skill }}:</strong> {{ $description }}</li>
-    {{ end }}
-    </ul>
-<!-- Se invece "skill=soft" esegui: -->
-{{ else if eq (.Get "skill") "soft" }} <!-- SOFT SKILL -->
-    <ul>
-    {{ range $skill := $data.skill.soft_skill }}
-    <!-- Queste sono elencate sinteticamente -->
-        <li>{{ . }}</li>
-    {{ end }}
-    </ul>
-{{ end }}
-
 <!-- Introdotto in 291d2d2a 
-     molto più pulito del puttanaio sovrastante -->
+     molto più pulito del puttanaio sovrastante
+     (rollback: commit 81dd0d28) -->
 {{ $category := (.Get "skill") }}
 {{ $path := index $data.skill $category }}
 <ul>
