@@ -3,11 +3,22 @@
 <!-- Introdotto in 291d2d2a 
      molto più pulito del puttanaio sovrastante
      (rollback: commit 81dd0d28) -->
+<!-- $category = il valore dell'attributo skill
+     che dovrà corrispondere a una delle chiavi
+     in /data/{Lang}/skill.yaml  -->
 {{ $category := (.Get "skill") }}
+<!-- $path = il contenuto della chiave il cui nome
+     coincide con il valore di "skill" -->
 {{ $path := index $data.skill $category }}
-<ul>
-{{ range $line := $path.order }}
-    {{ $description := index $path.lines $line }}
-    <li><strong>{{ . }}:</strong> {{ $description }}</li>
+<ul> <!-- INIZIO LISTA -->
+{{ if $path.order }}
+    {{ range $line := $path.order }}
+        {{ $description := index $path.lines $line }}
+        <li><strong>{{ . }}:</strong> {{ $description }}</li>
+    {{ end }}
+{{ else }}
+    {{ range $line := $path.lines }}
+        <li>{{ . }}</li>
+    {{ end }}
 {{ end }}
 </ul>

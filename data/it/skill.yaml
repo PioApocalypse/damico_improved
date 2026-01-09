@@ -1,3 +1,10 @@
+### NOTA
+### order + lines:
+### - order è renderizzato in grassetto, i valori sono richiamati in ordine con la linea rispettiva
+### - lines è la descrizione di ciascuna skill, renderizzata *senza markdown*
+### solo lines:
+### niente titolo in grassetto, l'ordine di render è quello dei valori
+
 # SKILL MECCANICA
 universita_skill:
   order:
@@ -35,7 +42,8 @@ altre_skill:
 
 # SOFT SKILL
 soft_skill:
-  - Capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione anche in ambienti multiculturali.
-  - Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
-  - Tendenza a socializzare con i colleghi.
-  - Capacità di problem solving anche sotto pressione. # Nota: non includere nel CV cartaceo
+  lines:
+    - Capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione anche in ambienti multiculturali.
+    - Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
+    - Tendenza a socializzare con i colleghi.
+    - Capacità di problem solving anche sotto pressione. # Nota: non includere nel CV cartaceo
