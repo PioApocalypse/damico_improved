@@ -11,21 +11,22 @@ ShowToc: true
 Dal 2017 ho seguito il curriculum universitario del CdLT in Ing. Meccanica erogato dall'Università degli Studi di Salerno. Il piano degli studi per la coorte 2017/18 è consultabile sul link:++https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf++[portale UNISA^] (link:https://web.archive.org/web/20250316223451/https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf[Web Archive^]). Gli esami a scelta inseriti nel mio curriculum sono Impianti di Condizionamento e Sistemi di Misura per l'Industria 4.0.
 
 === Competenze in Informatica
+{{< skill categoria=sul_campo >}}
 
 === Competenze in Ingegneria Meccanica
 
-{{< skill skill=universita >}}
+{{< skill categoria=meccanica >}}
 
-[#skill-secondarie]
-== Skill secondarie
+[#skill-supporto]
+== Skill di supporto
 
 [#trasversali]
 === Capacità e competenze trasversali
-{{< skill skill=universita_skill >}}
+{{< skill categoria=altre_skill >}}
 
 [#soft-skill]
 === Capacità e competenze organizzative/relazionali (soft skill)
-{{< skill skill=soft >}}
+{{< skill categoria=soft_skill >}}
 
 [#altro]
 == Altre pagine

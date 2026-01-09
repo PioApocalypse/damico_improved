@@ -5,40 +5,48 @@
 ### solo lines:
 ### niente titolo in grassetto, l'ordine di render è quello dei valori
 
-# SKILL MECCANICA
-universita_skill:
-  order:
-    - Materie di base
-    - Materiali e meccanica
-    - Meccanica "calda"
-    - Impianti industriali
-    - Altro
-  lines:
-    Materie di base: "analisi 1 e 2, GAL; fisica generale, meccanica del corpo rigido; disegno tecnico con normative ISO su messa in tavola e quotatura, tolleranze e rugosità, uso del software AutoCAD."
-    Materiali e meccanica: "tecnologie generali dei materiali, trattamenti termici, diagrammi e prove di resistenza sui metalli; lavorazioni per deformazione plastica a caldo e a freddo, lavorazioni per asportazione di truciolo, saldature, fonderia; meccanica dei corpi continui, teoria tecnica della trave,x principio di De Saint-Venant e criteri di resistenza; resistenza e verifica di strutture sottili tridimensionali, serbatoi a parete sottile, meccanica della frattura, fatica nei materiali, organi di macchine, meccanica applicata."
-    Meccanica "calda": "termodinamica applicata, trasmissione del calore; meccanica dei fluidi, accenni di aerodinamica e idraulica; sistemi energetici, classificazione delle macchine, turbine e compressori; aria umida, involucro edilizio, impianti di condizionamento dell'aria, sistemi di produzione idronici, C.T.A., generatori di calore, macchine a compressione di vapore, refrigeratori ad assorbimento."
-    Impianti industriali: "indici di prestazione di un impianto, studio e progettazione del layout di impianto, colli di bottiglia, simulazioni e metodo Montecarlo, contabilità industriale, gestione delle scorte in magazzino, distinta base, approvvigionamenti, tempi e metodi, manutenzione."
-    Altro: "bilancio di esercizio, fondamenti di elettrotecnica (DC, AC monofase/bifase/trifase, motori elettrici, elettronica di base), sistemi di misura per l'industria 4.0, uso del software LabVIEW, fondamenti di Matlab, teoria del ciclo di vita del prodotto e modellazione CAE con Solidworks 2020."
-
 # SKILL INFORMATICA
 sul_campo:
   order:
+    - Sistemi operativi
+    - Server
+    - Amministrazione di sistemi
+    - Web development
+    - Programmazione
+    - Altro
   lines:
+
+# SKILL MECCANICA
+meccanica:
+  order:
+    - Progettazione meccanica e prototipazione rapida
+    - Misurazione e controllo della qualità
+    - Materiali metallici
+    - Impianti industriali
+    - Da esami a scelta
+    - Software
+  lines:
+    Progettazione meccanica e prototipazione rapida: "fondamenti di macchine utensili tradizionali e a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA)."
+    Misurazione e controllo della qualità: "dimestichezza con i principali strumenti di misura da officina (calibro, micrometro, spessometro...), conoscenza delle principali tolleranze geometrice, dimensionali, di rugosità; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni."
+    Materiali metallici: "tecnologie generali dei materiali, trattamenti termici, diagrammi e prove di resistenza sui metalli; lavorazioni per deformazione plastica a caldo e a freddo, lavorazioni per asportazione di truciolo, saldature, fonderia"
+    Impianti industriali: "indici di prestazione di un impianto, studio e progettazione del layout di impianto, colli di bottiglia, simulazioni e metodo Montecarlo, contabilità industriale, gestione delle scorte in magazzino, distinta base, approvvigionamenti, tempi e metodi, manutenzione."
+    Da esami a scelta: "conoscenza dei vari elementi di un impianto di climatizzazione industriale aeraulico o idronico, capacità di dimensionamento di un impianto e scelta di componentistica da catalogo; conoscenza dei principali sistemi di produzione dell'energia elettrica, dei meccanismi che regolano il mercato dell'energia in Italia, della struttura della rete elettrica italiana; sistemi di misura per l'industria, sensori e trasduttori, capacità di sviluppo software per l'analisi delle misurazioni e per la regolazione automatica dei processi produttivi; competenze avanzate in sistemi informatici."
+    Software: "LabVIEW, Matlab/Simulink, AutoCAD e alternative, Solidworks, Catia V5, FreeCAD; conoscenze di Ansys; pyOBD per diagnostica automobilistica via OBD-II."
 
 # TRASVERSALI
 altre_skill:
   order:
-    - Progettazione e prototipazione meccanica
-    - Elettrotecnica applicata
+    - Strumenti per redazione di documentazione tecnica
     - Fondamenti di primo soccorso
+    - Elettrotecnica applicata
     - Graphic design e photo editing
     - Video editing
   lines:
-    Elettrotecnica applicata: "capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di multimetro e cercafase."
-    Fondamenti di primo soccorso: "conoscenza delle principali manovre salvavita permesse al soccorritore \"laico\" come da linee guida della Croce Rossa Italiana - della quale sono volontario."
-    Graphic design e photo editing: "dimestichezza con Adobe Photoshop CS6, quindi con GIMP e Krita per il fotoritocco e Inkscape per manipolazione di vettoriali."
-    Progettazione e prototipazione meccanica: "fondamenti di macchine a controllo numerico (CNC), conoscenza di base del linguaggio G-code, uso del software CIMCO Edit; conoscenza dei concetti di tolleranza geometrica e dimensionale, di rugosità e della sua influenza sull'attrito tra componenti meccanici in contatto; conoscenza delle proprietà meccaniche dei materiali metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni; nozioni sulla prototipazione rapida e sulla stampa 3D (FDM, SLA)."
-    Video editing: "dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con scheda di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas)."
+    Strumenti per redazione di documentazione tecnica: "esperienza con la suite MS Office e varie alternative open-source (LibreOffice, OnlyOffice...); esperienza con strumenti specifici quali Asciidoctor e Obsidian, framework per siti documentali quali Antora e Hugo, e servizi self-hosted quali Docmost e SiYuan."
+    Fondamenti di primo soccorso: "conoscenza del BLSD (Basic Life Support e Defibrillation) laico e sanitario, sia adulto che pediatrico, come da Linee Guida ERC 2025."
+    Elettrotecnica applicata: "capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di strumenti di misura elettrici (multimetro, cercafase...); conoscenze di elettronica generale."
+    Graphic design e photo editing: "dimestichezza con Adobe Photoshop, GIMP e Krita per il fotoritocco e l'editing di file in vari formati; dimestichezza con Inkscape per manipolazione di vettoriali."
+    Video editing: "dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con schede di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas)."
 
 # SOFT SKILL
 soft_skill:

@@ -5,8 +5,8 @@
 <!-- Assegno a $data il contenuto della directory /data/{Lang} -->
 {{ $data := index site.Data site.Language.Lang }}
 <!-- $path = il contenuto della chiave il cui nome
-     coincide con il valore di "skill" -->
-{{ $path := index $data.skill (.Get "skill") }}
+     coincide con il valore di "categoria" -->
+{{ $path := index $data.skill (.Get "categoria") }}
 
 <ul>
 <!-- Se la chiave ha una sub-key "order" -->
