@@ -16,19 +16,19 @@
         </div>
       {{ end }}
       {{ if site.Data.contacts.mail }}
-        <p style="margin-bottom:0;"><img src="/social/email.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="mailto:{{ site.Data.contacts.mail }}">{{ site.Data.contacts.mail }}</a></span></p>
+        <p title="Contattami in maniera asincrona" style="margin-bottom:0;"><img src="/social/email.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="mailto:{{ site.Data.contacts.mail }}">{{ site.Data.contacts.mail }}</a></span></p>
       {{ end }}
       {{ if site.Data.contacts.phone }}
-        <p style="margin-bottom:0;"><img src="/social/phone.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="tel:{{ site.Data.contacts.phone }}">{{ site.Data.contacts.phone }}</a></span></p>
+        <p title="In genere rispondo in settimana tra le 9:00 e le 17:00" style="margin-bottom:0;"><img src="/social/phone.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="tel:{{ site.Data.contacts.phone }}">{{ site.Data.contacts.phone }}</a></span></p>
       {{ end }}
       {{ if and (site.Data.contacts.social.github_name) (site.Data.contacts.social.github) }}
-        <p style="margin-bottom:0;"><img src="/social/github.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.github }}" target="_blank">{{ site.Data.contacts.social.github_name }}</a></span></p>
+        <p title="Sfoglia il mio GitHub" style="margin-bottom:0;"><img src="/social/github.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.github }}" target="_blank">{{ site.Data.contacts.social.github_name }}</a></span></p>
       {{ end }}
       {{ if and (site.Data.contacts.social.telegram_name) (site.Data.contacts.social.telegram) }}
-        <p style="margin-bottom:0;"><img src="/social/telegram.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.telegram }}" target="_blank">{{ site.Data.contacts.social.telegram_name }}</a></span></p>
+        <p title="Contattami su Telegram" style="margin-bottom:0;"><img src="/social/telegram.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.telegram }}" target="_blank">{{ site.Data.contacts.social.telegram_name }}</a></span></p>
       {{ end }}
       {{ if and (site.Data.contacts.social.linkedin_name) (site.Data.contacts.social.linkedin) }}
-        <p style="margin-bottom:0;"><img src="/social/linkedin.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.linkedin }}" target="_blank">{{ site.Data.contacts.social.linkedin_name }}</a></span></p>
+        <p title="Contattami su Linkedin" style="margin-bottom:0;"><img src="/social/linkedin.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.linkedin }}" target="_blank">{{ site.Data.contacts.social.linkedin_name }}</a></span></p>
       {{ end }}
     </div>
   </div>
