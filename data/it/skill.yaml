@@ -9,12 +9,22 @@
 sul_campo:
   order:
     - Sistemi operativi
-    - Server
     - Amministrazione di sistemi
     - Web development
-    - Programmazione
-    - Altro
+    #- Programmazione
+    - Sicurezza
   lines:
+    Sistemi operativi: "utente avanzato di S.O. Linux-based, MS Windows (XP - 11), MacOS e Android; capacità di installazione, configurazione (anche tramite strumenti di automazione quali Ansible e Puppet/OpenVox), gestione e riparazione dei sistemi; destrezza con interfacce a riga di comando (CLI)."
+    Amministrazione di sistemi: "esperienze nella gestione e nell'utilizzo di cartelle di rete (sia Windows Server, sia ad esempio WebDAV), webserver (Apache), reverse proxy (nginx), load balancer (Traefik) e gestori di certificati SSL (certbot), dei quali comprendo anche i meccanismi \"dietro le quinte\"; esperienze di installazione e gestione di servizi self-hosted sia in bare metal sia in container - in particolare esperienza con Rustdesk Server, eLabFTW, ownCloud e Nextcloud, Gitea e altri applicativi."
+    Web development: "esperienze di installazione \"da zero\" e full life-cycle management di siti web e altri servizi self-hosted, essendomi occupato in particolare di: registrazione e gestione del dominio, acquisto dello spazio web o setup del webserver (con IP pubblico o dietro un proxy), programmazione web front-end (HTML5, CSS3, Typescript) e back-end di piccoli database (SQLite), oppure creazione di contenuti tramite CMS/SSG/framework opportuno (ho esperienza con Hugo, Wordpress, Joomla!, Indico, Flask, Django), dismissione e migrazione."
+    Sicurezza: "conoscenza delle misure minime e linee guida in materia di sicurezza informatica AgID, e delle misure di sicurezza di base per i soggetti importanti NIS 2; esperienze minori di pen-testing e di recupero dati da drive compromessi; cyber paranoia/vigilance."
+
+
+# NOTE TO SELF: Non mi piace particolarmente come è strutturata questa pagina.
+# Framework e linguaggi di programmazione vanno sicuramente in una categoria separata.
+# Progetti personali? Esperienze, competenze, pagina a parte?
+# Certificazioni? Sotto?
+# Non mi piace troppo lo stile "a lista", ma so che i recruiter lo preferiscono ai wall of text e non ho neanche modo di scrivere in grassetto così...
 
 # SKILL MECCANICA
 meccanica:
@@ -39,12 +49,14 @@ altre_skill:
     - Strumenti per redazione di documentazione tecnica
     - Fondamenti di primo soccorso
     - Elettrotecnica applicata
+    - Meccanica automobilistica
     - Graphic design e photo editing
     - Video editing
   lines:
     Strumenti per redazione di documentazione tecnica: "esperienza con la suite MS Office e varie alternative open-source (LibreOffice, OnlyOffice...); esperienza con strumenti specifici quali Asciidoctor e Obsidian, framework per siti documentali quali Antora e Hugo, e servizi self-hosted quali Docmost e SiYuan."
     Fondamenti di primo soccorso: "conoscenza del BLSD (Basic Life Support e Defibrillation) laico e sanitario, sia adulto che pediatrico, come da Linee Guida ERC 2025."
     Elettrotecnica applicata: "capacità di effettuare piccole riparazioni elettriche su prese, interruttori, piccoli elettrodomestici e piccoli motori AC; competenza nell'uso di strumenti di misura elettrici (multimetro, cercafase...); conoscenze di elettronica generale."
+    Meccanica automobilistica: "familiarità con il motore a combustione interna per la trazione automobilistica, conoscenza della differenza tra motore Otto a benzina, motore Diesel a gasolio, motori \"ibridi\" a gas e ibridi elettrici; conoscenza dei motori più famosi e di storia dell'automobile in Italia; familiarità con lo standard di diagnostica OBD-II."
     Graphic design e photo editing: "dimestichezza con Adobe Photoshop, GIMP e Krita per il fotoritocco e l'editing di file in vari formati; dimestichezza con Inkscape per manipolazione di vettoriali."
     Video editing: "dimestichezza con Kdenlive per montaggio video; competenza con OBS per registrazioni e live streaming - anche con schede di acquisizione e altre periferiche - conoscenza di base di Vegas (ex Sony Vegas)."
 
