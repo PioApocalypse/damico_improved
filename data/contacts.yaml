@@ -1,4 +1,6 @@
-home: 'Benevento (BN)'
+home:
+  - Benevento
+  - Salerno
 phone: '+39 333 233 3136'
 mail: 'emanuele@damico.ing'
 social:

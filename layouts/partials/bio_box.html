@@ -4,7 +4,16 @@
     <div style="padding: 2px 10px; text-align:left">
       {{ if site.Data.contacts.home }}
       <!-- per cambiare colore a un vettoriale caricato come immagine: `filter: brightness(10)` -->
-        <p style="margin:0;"><img src="/social/home.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: {{ site.Data.contacts.home }}</span></p>
+        <div title= "Località preferite" style="margin:0; display: flex; flex-wrap: wrap; align-self: start;">
+          <div>
+            <img src="/social/home.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">:</span>
+          </div>
+          <div style="font-size:12pt; margin-top: 0.5rem; margin-left: 0.25rem;">
+            {{ range site.Data.contacts.home }}
+              {{ . }}<br>
+            {{ end }}
+          </div>
+        </div>
       {{ end }}
       {{ if site.Data.contacts.mail }}
         <p style="margin-bottom:0;"><img src="/social/email.svg" width="14pt" class="small-svg"> &nbsp;<span style="font-size:12pt">: <a href="mailto:{{ site.Data.contacts.mail }}">{{ site.Data.contacts.mail }}</a></span></p>
