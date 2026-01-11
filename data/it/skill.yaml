@@ -11,19 +11,19 @@ sul_campo:
     - Sistemi operativi
     - Amministrazione di sistemi
     - Web development
-    #- Programmazione
+    - Programmazione
     - Sicurezza
   lines:
     Sistemi operativi: "utente avanzato di S.O. Linux-based, MS Windows (XP - 11), MacOS e Android; capacità di installazione, configurazione (anche tramite strumenti di automazione quali Ansible e Puppet/OpenVox), gestione e riparazione dei sistemi; destrezza con interfacce a riga di comando (CLI)."
     Amministrazione di sistemi: "esperienze nella gestione e nell'utilizzo di cartelle di rete (sia Windows Server, sia ad esempio WebDAV), webserver (Apache), reverse proxy (nginx), load balancer (Traefik) e gestori di certificati SSL (certbot), dei quali comprendo anche i meccanismi \"dietro le quinte\"; esperienze di installazione e gestione di servizi self-hosted sia in bare metal sia in container - in particolare esperienza con Rustdesk Server, eLabFTW, ownCloud e Nextcloud, Gitea e altri applicativi."
     Web development: "esperienze di installazione \"da zero\" e full life-cycle management di siti web e altri servizi self-hosted, essendomi occupato in particolare di: registrazione e gestione del dominio, acquisto dello spazio web o setup del webserver (con IP pubblico o dietro un proxy), programmazione web front-end (HTML5, CSS3, Typescript) e back-end di piccoli database (SQLite), oppure creazione di contenuti tramite CMS/SSG/framework opportuno (ho esperienza con Hugo, Wordpress, Joomla!, Indico, Flask, Django), dismissione e migrazione."
+    Programmazione: "esperienze con Python3 per data analysis/management/parsing, sviluppo web, automazione; competenza in scripting Bash, Zsh, altre shell Unix e Perl; programmazione LabVIEW e Matlab/Simulink in ambito ingegneristico-scientifico; competenza in linguaggi SQL-compliant; destrezza con Git; principiante di GNU Octave, C, Java, disponibile a imparare altri linguaggi."
     Sicurezza: "conoscenza delle misure minime e linee guida in materia di sicurezza informatica AgID, e delle misure di sicurezza di base per i soggetti importanti NIS 2; esperienze minori di pen-testing e di recupero dati da drive compromessi; cyber paranoia/vigilance."
 
 
 # NOTE TO SELF: Non mi piace particolarmente come è strutturata questa pagina.
 # Framework e linguaggi di programmazione vanno sicuramente in una categoria separata.
 # Progetti personali? Esperienze, competenze, pagina a parte?
-# Certificazioni? Sotto?
 # Non mi piace troppo lo stile "a lista", ma so che i recruiter lo preferiscono ai wall of text e non ho neanche modo di scrivere in grassetto così...
 
 # SKILL MECCANICA
@@ -42,6 +42,58 @@ meccanica:
     Impianti industriali: "indici di prestazione di un impianto, studio e progettazione del layout di impianto, colli di bottiglia, simulazioni e metodo Montecarlo, contabilità industriale, gestione delle scorte in magazzino, distinta base, approvvigionamenti, tempi e metodi, manutenzione."
     Da esami a scelta: "conoscenza dei vari elementi di un impianto di climatizzazione industriale aeraulico o idronico, capacità di dimensionamento di un impianto e scelta di componentistica da catalogo; conoscenza dei principali sistemi di produzione dell'energia elettrica, dei meccanismi che regolano il mercato dell'energia in Italia, della struttura della rete elettrica italiana; sistemi di misura per l'industria, sensori e trasduttori, capacità di sviluppo software per l'analisi delle misurazioni e per la regolazione automatica dei processi produttivi; competenze avanzate in sistemi informatici."
     Software: "LabVIEW, Matlab/Simulink, AutoCAD e alternative, Solidworks, Catia V5, FreeCAD; conoscenze di Ansys; pyOBD per diagnostica automobilistica via OBD-II."
+
+# TO-DO: completare questa sezione.
+
+# CERTIFICAZIONI
+certificazioni:
+  order:
+    - Linux Foundation Certificate IT Associate (LFCA)
+    - Cambridge English First, B2
+  issuer:
+    Linux Foundation Certificate IT Associate (LFCA): Linux Foundation
+    Cambridge English First, B2: University of Cambridge - cert. 0053909676
+  files:
+    Cambridge English First, B2: università/FCE_cambridge_first_B1.pdf
+  lines:
+    Linux Foundation Certificate IT Associate (LFCA): Esame da sostenere.
+    Cambridge English First, B2: Esame di verifica conseguito il 22/07/2016 con valutazione 174 (Grade B).
+
+attestati:
+  order:
+    - Tavolo Tecnico ICT
+    - Forcepoint NGFW Administrator
+    - Digital Manufacturing - Prototipazione 3D e CNC
+  issuer:
+    Tavolo Tecnico ICT: "Università \"Gabriele d'Annunzio\" - Chieti-Pescara"
+    Forcepoint NGFW Administrator: "CNR, Unità Formazione e welfare - prot. 014242/2025"
+    Digital Manufacturing - Prototipazione 3D e CNC: "Windtime SpA & Form&ATP srl - cod. prog. Formatemp 094 PROT D211 1983"
+  files:
+    Tavolo Tecnico ICT: CNR/tavolo_tecnico_ICT_Chieti.pdf
+    Forcepoint NGFW Administrator: CNR/Forcepoint_NGFW_Administrator_7793204_23218.pdf
+    Digital Manufacturing - Prototipazione 3D e CNC: università/digital_manufacturing_P21WT036.pdf
+  lines:
+    Tavolo Tecnico ICT:
+    Forcepoint NGFW Administrator:
+    Digital Manufacturing - Prototipazione 3D e CNC:
+
+cri:
+  order:
+  - Esecutore BLSD Sanitario Adulto e Pediatrico
+  - Percorso Gioventù
+  - Volontari CRI
+  issuer:
+    Esecutore BLSD Sanitario Adulto e Pediatrico: CAM/2025/EBLSDS/9589/7
+    Percorso Gioventù: CAM/2025/PG/5058/4
+    Volontari CRI: CAM/2024/CRI/8427/4
+  files:
+    Esecutore BLSD Sanitario Adulto e Pediatrico: qualifiche_CRI/corso-per-esecutore-blsd-sanitario-adulto-e-pediatrico-di-emanuele-damico---Attestato.pdf
+    Percorso Gioventù: qualifiche_CRI/percorso-gioventu-di-emanuele-damico---Attestato.pdf
+    Volontari CRI: qualifiche_CRI/corso-di-formazione-per-volontari-della-croce-rossa-italiana-di-emanuele-damico---Attestato.pdf
+  lines:
+    Esecutore BLSD Sanitario Adulto e Pediatrico:
+    Percorso Gioventù:
+    Volontari CRI:
 
 # TRASVERSALI
 altre_skill:
@@ -66,4 +118,4 @@ soft_skill:
     - Capacità di coordinamento delle mansioni personali, di adattamento alle esigenze dei colleghi e di comunicazione anche in ambienti multiculturali.
     - Capacità di gestire situazioni complesse e interazioni impegnative con calma e pazienza, mantenendo sempre un atteggiamento professionale e rispettoso.
     - Tendenza a socializzare con i colleghi.
-    - Capacità di problem solving anche sotto pressione. # Nota: non includere nel CV cartaceo
+    - Capacità di problem solving anche sotto pressione.
