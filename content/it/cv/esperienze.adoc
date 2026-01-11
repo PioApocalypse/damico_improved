@@ -53,6 +53,9 @@ link:https://web.archive.org/web/20240513011758/https://iasa-italia.org/[Snapsho
 === Collaborazione a perizia balistica (2018, prestazione occasionale)
 Collaborazione nelle operazioni tecniche della perizia balistica per la Proc. Pen. 2144/2018 mod.21. La perizia aveva come obiettivo l'analisi di un'arma non dichiarata e modificata illegalmente, ritrovata dalle FF.OO. a casa dell'imputato. Sono stati rilevati i marchi dei banchi di prova, le matricole, i tentativi di occultamento di questi, le modifiche effettuate sull'arma e la capacità di sparare della stessa.
 
+////
+////
+
 == Formazione scolastica e accademica
 * _2024-2025_: *Master in Data Management and Curation* +
     _Scuola Internazionale Superiore di Studi Avanzati_ (SISSA), Trieste.
@@ -87,6 +90,19 @@ Il soggetto scelto per la mia tesi di maturità è stato l'iconico album dei Pin
 
 Il PDF originale può essere scaricato link:/tesina_maturità.pdf[su questo sito^].
 
+////
+////
+
+[#progetti-personali]
+== Progetti personali
+=== Sito web personale
+Questo sito web è stato creato "da zero" senza acquistare uno spazio su un provider (es. Altervista). Il dominio è registrato via Namecheap, il webserver (Apache HTTP Server) è hostato su macchina Oracle Cloud Infrastructure con IP pubblico, e il contenuto è generato con GoHugo.
+
+=== Home-server
+Virtualizzatore Proxmox VE con raw storage su hard disk pari a 8 TB, configurato in RAIDZ1 per uno spazio utile pari a circa 5 TB, con alcuni servizi esposti direttamente a internet tra cui Nextcloud, Navidrome, LubeLogger, Docmost; hosta inoltre un load balancer / reverse proxy per smistare le richieste in funzione del nome che si cerca di raggiungere, e una repository di backup che sarà successivamente spostata su un NAS dedicato. Il tutto è accessibile dall'esterno tramite VPN WireGuard.
+
+=== Domotica su sistema self-hosted
+Sistema Home Assistant per il controllo remoto di luci, prese e climatizzazione, e il monitoraggio dei consumi. Attualmente in sviluppo, il piano è utilizzare sensori ZigBee low-power per comunicare con un endpoint Home Assistant che mi permetta di gestire in modo manuale o automatico le utenze domestiche e analizzarne i consumi quotidiani.
 
 // == Formazione extracurricolare
 // // === Certificazione lingua inglese: Cambridge English First, Level B2
