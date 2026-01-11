@@ -6,16 +6,21 @@ language: it
 ShowToc: true
 ---
 
+link:#att-cert[Salta alla sezione _"Attestati e certificazioni"_]
+
 [#skill-principali]
 == Capacità e competenze tecniche
 Dal 2017 ho seguito il curriculum universitario del CdLT in Ing. Meccanica erogato dall'Università degli Studi di Salerno. Il piano degli studi per la coorte 2017/18 è consultabile sul link:++https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf++[portale UNISA^] (link:https://web.archive.org/web/20250316223451/https://corsi.unisa.it/uploads/rescue/__piano-studi-cds/2017/06123.pdf[Web Archive^]). Gli esami a scelta inseriti nel mio curriculum sono Impianti di Condizionamento e Sistemi di Misura per l'Industria 4.0.
 
+[#informatica]
 === Competenze in Informatica
 {{< skill categoria=sul_campo >}}
 
+[#ing-meccanica]
 === Competenze in Ingegneria Meccanica
-
 {{< skill categoria=meccanica >}}
+
+
 
 [#skill-supporto]
 == Skill di supporto
@@ -27,6 +32,25 @@ Dal 2017 ho seguito il curriculum universitario del CdLT in Ing. Meccanica eroga
 [#soft-skill]
 === Capacità e competenze organizzative/relazionali (soft skill)
 {{< skill categoria=soft_skill >}}
+
+
+
+[#att-cert]
+== Attestati e certificazioni
+
+[#attestati]
+=== Corsi di formazione
+{{< skill categoria=attestati >}}
+
+[#certificazioni]
+=== Certificazioni
+{{< skill categoria=certificazioni >}}
+
+[#croce-rossa]
+=== Qualifiche CRI
+{{< skill categoria=cri >}}
+
+
 
 [#altro]
 == Altre pagine

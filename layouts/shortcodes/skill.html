@@ -11,9 +11,30 @@
 <ul>
 <!-- Se la chiave ha una sub-key "order" -->
 {{ if $path.order }}
-    {{ range $line := $path.order }}
-        {{ $description := index $path.lines $line }}
-        <li><strong>{{ . }}:</strong> {{ $description }}</li>
+    <!-- Se ha anche sub-key "issuer" (certificati e attestati) -->
+    {{ if $path.issuer }}
+        {{ range $line := $path.order }}
+            {{ $cert_issuer := index $path.issuer $line }}
+            {{ $file := index $path.files $line }}
+            {{ $description := index $path.lines $line }}
+            <li>
+                <strong>{{ . }}</strong>
+                {{ if $cert_issuer }}
+                    <br><i>{{ $cert_issuer }}</i>
+                {{ end }}
+                {{ if $description }}
+                    <br>{{ $description }}
+                {{ end }}
+                {{ if $file }}
+                    <br><a href="/documenti/{{ $file }}" target="_blank">→ Download</a>
+                {{ end }}
+            </li>
+        {{ end }}
+    {{ else }}
+        {{ range $line := $path.order }}
+            {{ $description := index $path.lines $line }}
+            <li><strong>{{ . }}:</strong> {{ $description }}</li>
+        {{ end }}
     {{ end }}
 <!-- Altrimenti -->
 {{ else }}
