@@ -3,4 +3,4 @@ resources/
 *.swp
 *.lock
 *.old
-Render*.tar.gz
+Render*.tar*
