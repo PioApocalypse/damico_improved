@@ -79,9 +79,9 @@ attestati:
 
 cri:
   order:
-  - Esecutore BLSD Sanitario Adulto e Pediatrico
-  - Percorso Gioventù
-  - Volontari CRI
+    - Esecutore BLSD Sanitario Adulto e Pediatrico
+    - Percorso Gioventù
+    - Volontari CRI
   issuer:
     Esecutore BLSD Sanitario Adulto e Pediatrico: CAM/2025/EBLSDS/9589/7
     Percorso Gioventù: CAM/2025/PG/5058/4
