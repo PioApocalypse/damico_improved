@@ -62,20 +62,24 @@ certificazioni:
 attestati:
   order:
     - Tavolo Tecnico ICT
+    - Master in Data Management and Curation
     - Forcepoint NGFW Administrator
     - Digital Manufacturing - Prototipazione 3D e CNC
   issuer:
     Tavolo Tecnico ICT: "Università \"Gabriele d'Annunzio\" - Chieti-Pescara"
+    Master in Data Management and Curation: "Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste"
     Forcepoint NGFW Administrator: "CNR, Unità Formazione e welfare - prot. 014242/2025"
     Digital Manufacturing - Prototipazione 3D e CNC: "Windtime SpA & Form&ATP srl - cod. prog. Formatemp 094 PROT D211 1983"
   files:
     Tavolo Tecnico ICT: CNR/tavolo_tecnico_ICT_Chieti.pdf
+    Master in Data Management and Curation: CNR/MDMC_Certificato.pdf
     Forcepoint NGFW Administrator: CNR/Forcepoint_NGFW_Administrator_7793204_23218.pdf
     Digital Manufacturing - Prototipazione 3D e CNC: università/digital_manufacturing_P21WT036.pdf
   lines:
-    Tavolo Tecnico ICT:
-    Forcepoint NGFW Administrator:
-    Digital Manufacturing - Prototipazione 3D e CNC:
+    Tavolo Tecnico ICT: "Durata: 10 ore. Argomenti trattati: sistemi informatici, Proxmox, storage iperconvergenti (Ceph), OpenStack, casi studio."
+    Master in Data Management and Curation: "Corso sul data management incentrato su sistemi Linux, programmazione Python, fondamenti di reti, principi FAIR-data e sistemi informatici a supporto della ricerca scientifica, standard NeXus. Protocollato dal CNR in data 15/01/2026 con N° 015473."
+    Forcepoint NGFW Administrator: "Durata: 20 ore. Incentrato sull'amministrazione degli apparati firewall Forcepoint di nuova generazione. Protocollato dal CNR il 25/06/2025 con N° 014242."
+    Digital Manufacturing - Prototipazione 3D e CNC: "Corso di formazione professionale per disegnatori meccanici e programmatori CNC, incentrato su prototipazione rapida, industria 4.0, ciclo di vita del prodotto, uso dei principali strumenti di misura, disegno e progettazione meccanica al calcolatore (CAD/CAM), normative per il disegno tecnico, tolleranze geometriche e dimensionali, proprietà dei materiali metallici, stampa 3D e macchine a controllo numerico (programmazione delle stesse in linguaggio ISO)."
 
 cri:
   order:
